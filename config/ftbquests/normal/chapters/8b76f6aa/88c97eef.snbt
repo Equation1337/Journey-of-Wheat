@@ -1,0 +1,31 @@
+{
+	title: "要致富先撸树...树呢",
+	x: 0.0d,
+	y: -1.5d,
+	text: [
+		"沿着水流到达小岛底部铺设圆石回收泥土和活根，注意保留若干草方块."
+	],
+	dependencies: [
+		"5b8bf7c3"
+	],
+	tasks: [{
+		uid: "fbe45244",
+		type: "item",
+		items: [{
+			item: "minecraft:dirt"
+		}]
+	},
+	{
+		uid: "e5e3bdfb",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 20"
+		}]
+	}],
+	rewards: [{
+		uid: "cff5680c",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

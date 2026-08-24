@@ -1,0 +1,24 @@
+{
+	x: 0.5d,
+	y: -1.5d,
+	text: [
+		"制作一个电路板分几步（）"
+	],
+	dependencies: [
+		"e982975e",
+		"201a4531"
+	],
+	tasks: [{
+		uid: "a2fa5532",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:empty_pcb 1 100"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2f64696e",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

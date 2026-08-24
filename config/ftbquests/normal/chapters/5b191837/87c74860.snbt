@@ -1,0 +1,23 @@
+{
+	x: -1.0d,
+	y: 3.0d,
+	text: [
+		"更便宜的配方"
+	],
+	dependencies: [
+		"e0932660",
+		"2866c959"
+	],
+	tasks: [{
+		uid: "14c8bd47",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:unassembled_pcb"
+		}]
+	}],
+	rewards: [{
+		uid: "a10d73d3",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

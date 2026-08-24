@@ -1,0 +1,20 @@
+{
+	x: -6.5d,
+	y: -0.5d,
+	shape: "hexagon",
+	dependencies: [
+		"d2c8333c"
+	],
+	tasks: [{
+		uid: "0a3307f6",
+		type: "item",
+		items: [{
+			item: "frogcraftrebirth:machine 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "35516ce3",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

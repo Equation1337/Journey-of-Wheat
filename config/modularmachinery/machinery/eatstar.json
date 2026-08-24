@@ -1,0 +1,2023 @@
+{
+    "registryname": "phase_etchingstar",
+    "localizedname": "§b相位蚀星仪",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "has-factory": false,
+    "color": "000000",
+    "modifiers": [
+        {
+            "elements": "extrautils2:ineffableglass@0",
+            "x": 0,
+            "y": 3,
+            "z": 3,
+            "description": "替换成此方块时会延长单次工作时间100%",
+            "modifier": {
+                "io": "input",
+                "target": "modularmachinery:duration",
+                "operation": 1,
+                "multiplier": 1.5
+            }
+        },
+        {
+            "elements": "astralsorcery:blockbore@0",
+            "x": 0,
+            "y": 3,
+            "z": 3,
+            "description": "替换成此方块时会延长单次工作时间200%",
+            "modifier": {
+                "io": "input",
+                "target": "modularmachinery:duration",
+                "operation": 1,
+                "multiplier": 4.0
+            }
+        },
+        {
+            "elements": "avaritia:block_resource@1",
+            "x": 0,
+            "y": 3,
+            "z": 3,
+            "description": "替换成此方块时会延长单次工作时间100000%",
+            "modifier": {
+                "target": "modularmachinery:duration",
+                "io": "input",
+                "operation": 1,
+                "multiplier": 1000.0
+            }
+        }
+    ],
+    "parts": [
+        {
+            "x": 1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "astralsorcery:blockmarblestairs@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "astralsorcery:blockblackmarble@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "avaritiatweaks:gaia_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarblestairs@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockmarblestairs@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarblestairs@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockcelestialcollectorcrystal@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "contenttweaker:xinghui_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockblackmarble@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarblestairs@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockmarbleslab@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "avaritiatweaks:gaia_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarblestairs@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "astralsorcery:blockmarblestairs@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockblackmarble@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "contenttweaker:xinghui_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockblackmarble@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarblestairs@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockmarblestairs@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockupgradebus@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockwell@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockblackmarble@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockblackmarble@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "avaritiatweaks:gaia_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockmarbleslab@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockblackmarble@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "avaritiatweaks:gaia_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "astralsorcery:blockmarblestairs@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockwell@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "astralsorcery:blockmarblestairs@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "avaritiatweaks:gaia_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockwell@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockblackmarble@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "astralsorcery:blockmarblestairs@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockblackmarble@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockmarblestairs@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarblestairs@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarblestairs@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockmarblestairs@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "astralsorcery:blockmarblestairs@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockwell@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarble@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockblackmarble@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockmarblestairs@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "astralsorcery:blockmarblestairs@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarbleslab@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarblestairs@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "aetherworks:block_aether@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "astralsorcery:blockmarblestairs@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "contenttweaker:xinghui_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockrituallink@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockwell@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "avaritiatweaks:gaia_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "astralsorcery:blockmarblestairs@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "aetherworks:block_aether@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "avaritiatweaks:gaia_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarblestairs@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "aetherworks:block_aether@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockmarblestairs@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarblestairs@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarblestairs@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "aetherworks:block_aether@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarble@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "aetherworks:block_aether@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "astralsorcery:blockmarblestairs@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockblackmarble@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "aetherworks:block_aether@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "aetherworks:block_aether@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarblestairs@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockmarble@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "aetherworks:block_aether@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 5,
+            "elements": [
+                "astralsorcery:blockrituallink@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "avaritiatweaks:gaia_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "astralsorcery:blockmarblestairs@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockblackmarble"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "astralsorcery:blockmarblestairs@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockwell@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "aetherworks:block_aether@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockwell@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "astralsorcery:blockmarblestairs@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "astralsorcery:blockmarblestairs@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "astralsorcery:blockmarblestairs@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "astralsorcery:blockblackmarble@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 10,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockrituallink@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "avaritiatweaks:gaia_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "astralsorcery:blockmarblestairs@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "aetherworks:block_aether@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarbleslab@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "avaritiatweaks:gaia_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockmarblestairs@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockparallelcontroller"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "astralsorcery:blockmarblestairs@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "avaritiatweaks:gaia_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockmarble@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "contenttweaker:xinghui_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarblestairs@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "avaritiatweaks:gaia_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "astralsorcery:blockmarblestairs@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockrituallink@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockmarblestairs@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "astralsorcery:blockmarblestairs@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockmarblestairs@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarblestairs@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "astralsorcery:blockmarblestairs@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarblestairs@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "astralsorcery:blockmarblestairs@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockblackmarble@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockmarble@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockmarblestairs@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "aetherworks:block_aether@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "aetherworks:block_aether@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockblackmarble@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "astralsorcery:blockmarblestairs@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockwell@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockwell@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "aetherworks:block_aether@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockmarblestairs@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarble@1"
+            ]
+        }
+    ]
+}

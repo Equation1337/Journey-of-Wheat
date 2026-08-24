@@ -1,0 +1,20 @@
+{
+	x: 7.0d,
+	y: 10.0d,
+	dependencies: [
+		"37ac5378",
+		"31ecdf63"
+	],
+	tasks: [{
+		uid: "3765920f",
+		type: "item",
+		items: [{
+			item: "bloodmagic:blood_rune"
+		}]
+	}],
+	rewards: [{
+		uid: "ebaa1d7f",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

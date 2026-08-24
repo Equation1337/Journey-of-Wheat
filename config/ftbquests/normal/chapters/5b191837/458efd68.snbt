@@ -1,0 +1,19 @@
+{
+	x: -4.0d,
+	y: 12.0d,
+	dependencies: [
+		"e982975e"
+	],
+	tasks: [{
+		uid: "6c5fd2a5",
+		type: "item",
+		items: [{
+			item: "ic2:crafting 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "ca529f2e",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

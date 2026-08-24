@@ -1,0 +1,20 @@
+{
+	x: -4.5d,
+	y: 0.5d,
+	dependencies: [
+		"e84f85cf"
+	],
+	tasks: [{
+		uid: "f850966a",
+		type: "item",
+		items: [{
+			item: "forestry:thermionic_tubes 1 7"
+		}]
+	}],
+	rewards: [{
+		uid: "d011dd16",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

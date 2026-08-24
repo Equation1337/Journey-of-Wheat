@@ -1,0 +1,20 @@
+{
+	x: -4.0d,
+	y: 1.5d,
+	dependencies: [
+		"5c421bd0"
+	],
+	tasks: [{
+		uid: "99b8cc0a",
+		type: "item",
+		items: [{
+			item: "embers:crystal_ember"
+		}]
+	}],
+	rewards: [{
+		uid: "d122f655",
+		type: "item",
+		item: "embers:crystal_ember",
+		random_bonus: 15
+	}]
+}

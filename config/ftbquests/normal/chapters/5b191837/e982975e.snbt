@@ -1,0 +1,29 @@
+{
+	x: -5.5d,
+	y: 0.0d,
+	text: [
+		"我菜鸡不要鸭梨我"
+	],
+	dependencies: [
+		"6bfbbda6"
+	],
+	tasks: [{
+		uid: "ca8694f3",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:pressure_chamber_wall"
+		}]
+	},
+	{
+		uid: "540e900b",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:pressure_chamber_valve"
+		}]
+	}],
+	rewards: [{
+		uid: "bde9e31b",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 3.5d,
+	y: 3.5d,
+	dependencies: [
+		"c25c4c74",
+		"07abf7c2",
+		"da675105",
+		"4e2a6fc6"
+	],
+	tasks: [{
+		uid: "11aa74c7",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:gem_dust 1 4"
+		}]
+	}]
+}

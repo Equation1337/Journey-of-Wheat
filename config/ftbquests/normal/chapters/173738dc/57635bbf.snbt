@@ -1,0 +1,16 @@
+{
+	title: "晶体电路板-粉红",
+	x: 9.5d,
+	y: -4.0d,
+	dependencies: [
+		"babd468e",
+		"321b2074"
+	],
+	tasks: [{
+		uid: "c687c8b2",
+		type: "item",
+		items: [{
+			item: "contenttweaker:cir_pink"
+		}]
+	}]
+}

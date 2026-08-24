@@ -1,0 +1,21 @@
+{
+	title: "灵魂甜菜（误",
+	x: 0.0d,
+	y: 1.5d,
+	dependencies: [
+		"f5e9d2a8",
+		"42f471f3"
+	],
+	tasks: [{
+		uid: "ba2e096e",
+		type: "item",
+		items: [{
+			item: "roots:spirit_herb"
+		}]
+	}],
+	rewards: [{
+		uid: "514fb7a3",
+		type: "item",
+		item: "roots:spirit_herb_seed"
+	}]
+}

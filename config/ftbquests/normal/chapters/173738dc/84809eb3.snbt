@@ -1,0 +1,15 @@
+{
+	title: "约束介子",
+	x: 12.5d,
+	y: 0.5d,
+	dependencies: [
+		"e353d073"
+	],
+	tasks: [{
+		uid: "ee58cbbe",
+		type: "item",
+		items: [{
+			item: "contenttweaker:paijiezi+_guan"
+		}]
+	}]
+}

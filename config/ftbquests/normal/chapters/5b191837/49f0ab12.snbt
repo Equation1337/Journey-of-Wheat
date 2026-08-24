@@ -1,0 +1,23 @@
+{
+	x: -8.5d,
+	y: 0.0d,
+	text: [
+		"本模组核心发电机"
+	],
+	dependencies: [
+		"6bfbbda6"
+	],
+	tasks: [{
+		uid: "bfffcbc3",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:air_compressor"
+		}]
+	}],
+	rewards: [{
+		uid: "10b8b843",
+		type: "item",
+		item: "minecraft:coal_block",
+		random_bonus: 16
+	}]
+}

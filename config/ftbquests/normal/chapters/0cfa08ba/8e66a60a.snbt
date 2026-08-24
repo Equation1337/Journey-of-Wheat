@@ -1,0 +1,14 @@
+{
+	x: -8.5d,
+	y: -11.0d,
+	dependencies: [
+		"855ea445"
+	],
+	tasks: [{
+		uid: "5527a3bd",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:electrolyser"
+		}]
+	}]
+}

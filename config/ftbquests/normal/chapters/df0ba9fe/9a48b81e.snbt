@@ -1,0 +1,41 @@
+{
+	x: 17.0d,
+	y: 1.5d,
+	dependencies: [
+		"7b593bab"
+	],
+	tasks: [{
+		uid: "2c79fca2",
+		type: "item",
+		items: [{
+			item: "botaniverse:morerune 1 3"
+		}]
+	},
+	{
+		uid: "494a0437",
+		type: "item",
+		items: [{
+			item: "botaniverse:morerune 1 2"
+		}]
+	},
+	{
+		uid: "299b60fa",
+		type: "item",
+		items: [{
+			item: "botaniverse:morerune 1 1"
+		}]
+	},
+	{
+		uid: "e3cde6d7",
+		type: "item",
+		items: [{
+			item: "botaniverse:morerune"
+		}]
+	}],
+	rewards: [{
+		uid: "19f7279b",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

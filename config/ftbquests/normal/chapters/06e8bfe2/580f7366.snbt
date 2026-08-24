@@ -1,0 +1,19 @@
+{
+	title: "你最好的百科全书",
+	x: -1.5d,
+	y: -4.0d,
+	tasks: [{
+		uid: "91ec90da",
+		type: "item",
+		items: [{
+			item: "akashictome:tome"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5b689f7c",
+		type: "item",
+		item: "minecraft:bookshelf"
+	}]
+}

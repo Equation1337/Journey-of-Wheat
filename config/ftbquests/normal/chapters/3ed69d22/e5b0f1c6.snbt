@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: 2.5d,
+	dependencies: [
+		"23877dc3"
+	],
+	tasks: [{
+		uid: "dcbd194e",
+		type: "item",
+		items: [{
+			item: "fm:depleted_cesium_rod_quad"
+		}]
+	}],
+	rewards: [{
+		uid: "7b9209c2",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

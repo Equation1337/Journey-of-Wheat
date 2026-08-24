@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
+
+<recipe name="Chassis"><disabled/></recipe>
+<recipe name="Enhanced Chassis"><disabled/></recipe>
+<recipe name="Soul Chassis"><disabled/></recipe>
+<recipe name="Alloy: Endergy Melodic Alloy"><disabled/></recipe>
+<recipe name="Alloy: Endergy Stellar Alloy"><disabled/></recipe>
+
+  <recipe name="Water_5" required="true">
+    <fermenting energy="10000">
+      <inputgroup>
+        <input name="itemPulsatingPowder" multiplier="1.0"/>
+      </inputgroup>
+      <inputgroup>
+        <input name="immersiveintelligence:material_dust" multiplier="1.0"/>
+      </inputgroup>
+      <inputfluid name="water_4" multiplier="0.5"/>
+      <outputfluid name="water_5"/>
+    </fermenting>
+  </recipe>
+
+  <recipe name="Water_6" required="true">
+    <fermenting energy="10000">
+      <inputgroup>
+        <input name="nuggetCosmicNeutronium" multiplier="1.0"/>
+      </inputgroup>
+      <inputgroup>
+        <input name="nuggetStellarAlloy" multiplier="1.0"/>
+      </inputgroup>
+      <inputfluid name="water_5" multiplier="0.5"/>
+      <outputfluid name="water_6"/>
+    </fermenting>
+  </recipe>
+
+</enderio:recipes>

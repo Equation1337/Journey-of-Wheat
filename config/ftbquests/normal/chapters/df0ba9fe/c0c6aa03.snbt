@@ -1,0 +1,21 @@
+{
+	x: 12.5d,
+	y: 3.0d,
+	dependencies: [
+		"b2ace3c4",
+		"72be81d8"
+	],
+	tasks: [{
+		uid: "a243041c",
+		type: "item",
+		items: [{
+			item: "calculator:atomiccalculator"
+		}]
+	}],
+	rewards: [{
+		uid: "359dc842",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

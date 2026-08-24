@@ -1,0 +1,23 @@
+{
+	x: 11.5d,
+	y: 10.0d,
+	dependencies: [
+		"e4d9ef8c"
+	],
+	tasks: [{
+		uid: "62b6b2a4",
+		type: "item",
+		items: [{
+			tag: {
+				orb: "bloodmagic:apprentice"
+			},
+			id: "bloodmagic:blood_orb"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c0267627",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

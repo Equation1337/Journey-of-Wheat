@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: -4.0d,
+	dependencies: [
+		"1d231cb8"
+	],
+	tasks: [{
+		uid: "4f4c9b13",
+		type: "item",
+		items: [{
+			item: "calculator:processingchamber"
+		}]
+	}]
+}

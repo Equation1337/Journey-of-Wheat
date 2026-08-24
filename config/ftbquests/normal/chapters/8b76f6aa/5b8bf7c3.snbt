@@ -1,0 +1,25 @@
+{
+	title: "锄大地",
+	x: -1.5d,
+	y: -1.5d,
+	text: [
+		"对着脚下的泥土shift+右键即可获得圆石",
+		"并非ps：记得不要使用连点器"
+	],
+	dependencies: [
+		"9291a719"
+	],
+	tasks: [{
+		uid: "391a751f",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 21"
+		}]
+	}],
+	rewards: [{
+		uid: "8f9ed05a",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

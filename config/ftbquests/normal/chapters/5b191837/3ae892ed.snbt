@@ -1,0 +1,19 @@
+{
+	x: 3.5d,
+	y: 3.0d,
+	dependencies: [
+		"ef1191f1"
+	],
+	tasks: [{
+		uid: "390e9235",
+		type: "item",
+		items: [{
+			item: "extrautils2:passivegenerator 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "f4b6b8c8",
+		type: "item",
+		item: "minecraft:dragon_egg"
+	}]
+}

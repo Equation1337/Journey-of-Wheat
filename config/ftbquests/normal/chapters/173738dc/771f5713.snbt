@@ -1,0 +1,15 @@
+{
+	title: "约束光子",
+	x: 12.5d,
+	y: 2.0d,
+	dependencies: [
+		"e353d073"
+	],
+	tasks: [{
+		uid: "718d7b05",
+		type: "item",
+		items: [{
+			item: "contenttweaker:guangzi_guan"
+		}]
+	}]
+}

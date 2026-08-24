@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+    <lines at="topleft">
+        <line>
+
+            <str>{offhandlargeicon}{offhandname}$6</str>
+
+            <if>
+
+                <and>
+                    <not>
+                        <equal>
+                            <var>{offhandname}</var>
+                            <var></var>
+                        </equal>
+                    </not>
+                    <not>
+                        <equal>
+                            <var>{mainhandname}</var>
+                            <var></var>
+                        </equal>
+                    </not>
+                </and>
+
+                <str> | </str>
+                <str></str>
+            </if>
+
+            <str>$f{mainhandlargeicon}{mainhandname}</str>
+
+        </line>
+
+        <line>
+            <!-- offhandmaxdamage -->
+            <if>
+
+                <or>
+                    <equal>
+                        <var>{offhandmaxdamage}</var>
+                        <var>-1</var>
+                    </equal>
+                    <equal>
+                        <var>{offhandmaxdamage}</var>
+                        <var>0</var>
+                    </equal>
+                </or>
+
+                <str></str>
+                <str>$e{offhanddamageleft}$6 / $e{offhandmaxdamage}$7</str>
+            </if>
+            <!-- |   -->
+            <if>
+                <and>
+                    <not>
+                        <!-- isnull -->
+                        <or>
+                            <equal>
+                                <var>{offhandmaxdamage}</var>
+                                <var>-1</var>
+                            </equal>
+                            <equal>
+                                <var>{offhandmaxdamage}</var>
+                                <var>0</var>
+                            </equal>
+                        </or>
+                    </not>
+                    <not>
+                        <!-- isnull -->
+                        <or>
+                            <equal>
+                                <var>{mainhandmaxdamage}</var>
+                                <var>-1</var>
+                            </equal>
+                            <equal>
+                                <var>{mainhandmaxdamage}</var>
+                                <var>0</var>
+                            </equal>
+                        </or>
+                    </not>
+                </and>
+
+                <str> | </str>
+                <str></str>
+            </if>
+            <!-- mainhandmaxdamage -->
+            <if>
+
+                <or>
+                    <equal>
+                        <var>{mainhandmaxdamage}</var>
+                        <var>-1</var>
+                    </equal>
+                    <equal>
+                        <var>{mainhandmaxdamage}</var>
+                        <var>0</var>
+                    </equal>
+                </or>
+
+                <str></str>
+                <str>$e{mainhanddamageleft}$6 / $e{mainhandmaxdamage}</str>
+            </if>
+        </line>
+
+        <line>
+            <operation>
+                <str>EQ</str>
+                <var>abrroughdirection</var>
+                <num>E</num>
+                <num>S</num>
+                <num>W</num>
+                <num>N</num>
+                <str>$5东</str>
+                <str>$5南</str>
+                <str>$5西</str>
+                <str>$5北</str>
+            </operation>
+            <str> $6丨$cX:{xi} $aY:{yi} $9Z:{zi}</str>
+        </line>
+
+        <line>
+            <str>{pingicon} #50eaff-ff66ff-ff6633{username}$f</str>
+            <str>   $b月相:</str>
+            <op>
+                <str>le</str>
+                <var>moonphase</var>
+                <num>0</num>
+                <num>1</num>
+                <num>2</num>
+                <num>3</num>
+                <num>4</num>
+                <num>5</num>
+                <num>6</num>
+                <num>7</num>
+                <str>$2满月</str>
+                <str>$2亏凸</str>
+                <str>$2下弦月</str>
+                <str>$2残月</str>
+                <str>$2新月</str>
+                <str>$2娥眉月</str>
+                <str>$2上弦月</str>
+                <str>$2盈凸</str>
+            </op>
+        </line>
+
+        <!-- <line>
+            <str>#FF6347-FFA54F-FFFF00-7FFF00-40E0D0-00BFFF-A020F0CleanroomLoader based on LWJGL 3 + Java
+        21</str>
+        </line> -->
+
+        <line>
+            <str>$eFPS:</str>
+            <operation>
+                <str>GT</str>
+                <var>fps</var>
+                <num>239</num>
+                <num>143</num>
+                <num>89</num>
+                <num>59</num>
+                <num>29</num>
+                <num>15</num>
+                <num>0</num>
+                <str>$5{fps}</str>
+                <str>$9{fps}</str>
+                <str>$2{fps}</str>
+                <str>$a{fps}</str>
+                <str>$6{fps}</str>
+                <str>$c{fps}</str>
+                <str>$4{fps}</str>
+            </operation>
+
+            <str>$6丨$eEnt:</str>
+            <operation>
+                <str>GT</str>
+                <var>entitiestotal</var>
+                <num>150</num>
+                <num>100</num>
+                <num>75</num>
+                <num>50</num>
+                <num>30</num>
+                <num>20</num>
+                <num>10</num>
+                <num>5</num>
+                <str>$4{entitiestotal}</str>
+                <str>$c{entitiestotal}</str>
+                <str>$6{entitiestotal}</str>
+                <str>$e{entitiestotal}</str>
+                <str>$9{entitiestotal}</str>
+                <str>$3{entitiestotal}</str>
+                <str>$b{entitiestotal}</str>
+                <str>$a{entitiestotal}</str>
+                <str>$2{entitiestotal}</str>
+            </operation>
+            <str> $9/ </str>
+            <operation>
+                <str>GT</str>
+                <var>entitiesrendered</var>
+                <num>50</num>
+                <num>30</num>
+                <num>20</num>
+                <num>10</num>
+                <num>6</num>
+                <num>2</num>
+                <str>$4{entitiesrendered}</str>
+                <str>$c{entitiesrendered}</str>
+                <str>$6{entitiesrendered}</str>
+                <str>$e{entitiesrendered}</str>
+                <str>$b{entitiesrendered}</str>
+                <str>$a{entitiesrendered}</str>
+                <str>$2{entitiesrendered}</str>
+            </operation>
+
+            <str>$6丨$eDay:$9{day}$6丨$eTime:$9{mctime24}</str>
+        </line>
+
+        <line>
+            <str>$eMSPT: $9[</str>
+            <operation>
+                <str>GE</str>
+                <var>mspt</var>
+                <num>75</num>
+                <num>70</num>
+                <num>65</num>
+                <num>60</num>
+                <num>55</num>
+                <num>50</num>
+                <num>45</num>
+                <num>40</num>
+                <num>35</num>
+                <num>30</num>
+                <num>25</num>
+                <num>20</num>
+                <num>15</num>
+                <num>10</num>
+                <num>5</num>
+                <num>0</num>
+                <str>#32CD32-FFD700-FF0000$m||||||||||||||||</str>
+                <str>#32CD32-FFD700-FF0000$m|||||||||||||||$7|</str>
+                <str>#32CD32-FFD700-FF0000$m||||||||||||||$7||</str>
+                <str>#32CD32-FFD700-FF6A6A$m|||||||||||||$7|||</str>
+                <str>#32CD32-FFD700-FF6A6A$m||||||||||||$7||||</str>
+                <str>#32CD32-FFD700-FF6A6A$m|||||||||||$7|||||</str>
+                <str>#32CD32-FFD700$m||||||||||$7||||||</str>
+                <str>#32CD32-FFD700$m|||||||||$7|||||||</str>
+                <str>#32CD32-FFD700$m||||||||$7||||||||</str>
+                <str>#32CD32-ADFF2F$m|||||||$7|||||||||</str>
+                <str>#32CD32-ADFF2F$m||||||$7||||||||||</str>
+                <str>#32CD32-ADFF2F$m|||||$7|||||||||||</str>
+                <str>#32CD32-00FF7F$m||||$7||||||||||||</str>
+                <str>#32CD32-00FF7F$m|||$7|||||||||||||</str>
+                <str>#32CD32-00FF7F$m||$7||||||||||||||</str>
+                <str>#32CD32-00FF7F$m|$7|||||||||||||||</str>
+            </operation>
+            <str>$9] </str>
+            <operation>
+                <str>GT</str>
+                <var>mspt</var>
+                <num>75</num>
+                <num>50</num>
+                <num>40</num>
+                <num>25</num>
+                <num>15</num>
+                <num>0</num>
+                <str>$6($4{mspt}ms$6)</str>
+                <str>$6($c{mspt}ms$6)</str>
+                <str>$6($6{mspt}ms$6)</str>
+                <str>$6($e{mspt}ms$6)</str>
+                <str>$6($a{mspt}ms$6)</str>
+                <str>$6($2{mspt}ms$6)</str>
+            </operation>
+            <str>$7丨</str>
+            <operation>
+                <str>GE</str>
+                <var>tps</var>
+                <num>20</num>
+                <num>19</num>
+                <num>18</num>
+                <num>16</num>
+                <num>15</num>
+                <num>0</num>
+                <str>$eTPS:$2{tps}</str>
+                <str>$eTPS:$a{tps}</str>
+                <str>$eTPS:$e{tps}</str>
+                <str>$eTPS:$6{tps}</str>
+                <str>$eTPS:$c{tps}</str>
+                <str>$eTPS:$4{tps}</str>
+            </operation>
+        </line>
+
+        <line>
+            <str>$eMEM: $9[</str>
+            <op>
+                <str>le</str>
+                <pct>
+                    <var>memused</var>
+                    <var>memmax</var>
+                </pct>
+                <num>5</num>
+                <num>10</num>
+                <num>15</num>
+                <num>20</num>
+                <num>25</num>
+                <num>30</num>
+                <num>35</num>
+                <num>40</num>
+                <num>45</num>
+                <num>50</num>
+                <num>55</num>
+                <num>60</num>
+                <num>65</num>
+                <num>70</num>
+                <num>75</num>
+                <num>80</num>
+                <num>85</num>
+                <num>90</num>
+                <num>95</num>
+                <num>100</num>
+                <str>#32CD32-00FF7F$m|$7|||||||||||||||||||</str>
+                <str>#32CD32-00FF7F$m||$7||||||||||||||||||</str>
+                <str>#32CD32-00FF7F$m|||$7|||||||||||||||||</str>
+                <str>#32CD32-00FF7F$m||||$7||||||||||||||||</str>
+                <str>#32CD32-00FF7F$m|||||$7|||||||||||||||</str>
+                <str>#32CD32-00FF7F$m||||||$7||||||||||||||</str>
+                <str>#32CD32-00FF7F$m|||||||$7|||||||||||||</str>
+                <str>#32CD32-00FF7F$m||||||||$7||||||||||||</str>
+                <str>#32CD32-ADFF2F$m|||||||||$7|||||||||||</str>
+                <str>#32CD32-ADFF2F$m||||||||||$7||||||||||</str>
+                <str>#32CD32-ADFF2F$m|||||||||||$7|||||||||</str>
+                <str>#32CD32-FFD700$m||||||||||||$7||||||||</str>
+                <str>#32CD32-FFD700$m|||||||||||||$7|||||||</str>
+                <str>#32CD32-FFD700$m||||||||||||||$7||||||</str>
+                <str>#32CD32-FFD700-FF6A6A$m|||||||||||||||$7|||||</str>
+                <str>#32CD32-FFD700-FF6A6A$m||||||||||||||||$7||||</str>
+                <str>#32CD32-FFD700-FF6A6A$m|||||||||||||||||$7|||</str>
+                <str>#32CD32-FFD700-FF0000$m||||||||||||||||||$7||</str>
+                <str>#32CD32-FFD700-FF0000$m|||||||||||||||||||$7|</str>
+                <str>#32CD32-FFD700-FF0000$m||||||||||||||||||||</str>
+            </op>
+            <str>$9] $6(</str>
+            <op>
+                <str>le</str>
+                <pct>
+                    <var>memused</var>
+                    <var>memmax</var>
+                </pct>
+                <num>70</num>
+                <num>85</num>
+                <num>90</num>
+                <num>100</num>
+                <str>$a</str>
+                <str>$e</str>
+                <str>$c</str>
+                <str>$4</str>
+                <str />
+            </op>
+            <round>
+                <div>
+                    <var>memused</var>
+                    <num>1073741824</num>
+                </div>
+                <num>1</num>
+            </round>
+            <str>G $6/ </str>
+            <op>
+                <str>le</str>
+                <pct>
+                    <var>memused</var>
+                    <var>memmax</var>
+                </pct>
+                <num>70</num>
+                <num>85</num>
+                <num>90</num>
+                <num>100</num>
+                <str>$a</str>
+                <str>$e</str>
+                <str>$c</str>
+                <str>$4</str>
+                <str />
+            </op>
+            <round>
+                <div>
+                    <var>memmax</var>
+                    <num>1073741824</num>
+                </div>
+                <num>1</num>
+            </round>
+            <str>G$6)</str>
+        </line>
+
+        <line>
+	    	<str>§e光照等级：§6{light}</str>
+	    	<if>	    		
+                <greater>
+                	<num>{light}</num>
+                	<num>7</num>
+                </greater>	    		
+	    		<str>§a(安全)</str>
+	    		<str>§4(危险)</str>
+	    	</if>
+	    </line>
+	    <line>	 
+	       <str>§b灵气：§b</str>       	
+	    	    <round>
+	    			<num>{thaumaura}</num>
+	    			<num>0</num>
+	    	    </round>	        
+	    	<str> §6|§r </str>
+	    	<str>§5腐化：§d</str>       	
+	    	    <round>
+	    			<num>{thaumflux}</num>
+	    			<num>0</num>
+	    	    </round>
+	    </line>
+	    <line>
+	    	<concat>
+                <icon>
+                    <str>thaumcraft:textures/items/sanity_checker.png</str>
+                    <num>0</num>
+                    <num>0</num>
+                    <num>16</num>
+                    <num>16</num>
+                    <num>16</num>
+                    <num>16</num>
+                </icon>
+                <str>§5黏性扭曲：§d</str>       	
+	    	        <round>
+	    			    <num>{thaumwarpnormal}</num>
+	    			    <num>0</num>
+	    	        </round>
+	    	    <str>§5 永久扭曲：§d</str>       	
+	    	        <round>
+	    			    <num>{thaumwarpperm}</num>
+	    			    <num>0</num>
+	    	        </round>
+	    	    <str>§5 临时扭曲：§d</str>       	
+	    	        <round>
+	    			    <num>{thaumwarptemp}</num>
+	    			    <num>0</num>
+	    	        </round>
+            </concat>
+	    </line>
+		<line>
+			<!--判断生物群系汉化版本，中文名称参考wiki这里的数字对应着生物群系的ID，新增的生物群系可以在这里添加-->
+			<str>$b生物群系：</str>
+			<op>
+				<str>eq</str>
+				<var>biomeid</var>
+				<num>0</num>
+				<num>1</num>
+				<num>2</num>
+				<num>3</num>
+				<num>4</num>
+				<num>5</num>
+				<num>6</num>
+				<num>7</num>
+				<num>8</num>
+				<num>9</num>
+				<num>10</num>
+				<num>11</num>
+				<num>12</num>
+				<num>13</num>
+				<num>14</num>
+				<num>15</num>
+				<num>16</num>
+				<num>17</num>
+				<num>18</num>
+				<num>19</num>
+				<num>20</num>
+				<num>21</num>
+				<num>22</num>
+				<num>23</num>
+				<num>24</num>
+				<num>25</num>
+				<num>26</num>
+				<num>27</num>
+				<num>28</num>
+				<num>29</num>
+				<num>30</num>
+				<num>31</num>
+				<num>32</num>
+				<num>33</num>
+				<num>34</num>
+				<num>35</num>
+				<num>36</num>
+				<num>37</num>
+				<num>38</num>
+				<num>39</num>
+				<num>40</num>
+				<num>41</num>
+				<num>42</num>
+				<num>43</num>
+				<num>127</num>
+				<num>129</num>
+				<num>130</num>
+				<num>131</num>
+				<num>132</num>
+				<num>133</num>
+				<num>134</num>
+				<num>140</num>
+				<num>149</num>
+				<num>151</num>
+				<num>155</num>
+				<num>156</num>
+				<num>157</num>
+				<num>158</num>
+				<num>160</num>
+				<num>161</num>
+				<num>162</num>
+				<num>163</num>
+				<num>164</num>
+				<num>165</num>
+				<num>166</num>
+				<num>167</num>
+				<str>$9海洋</str>
+				<!--0-->
+				<str>$2草原</str>
+				<str>$e沙漠</str>
+				<str>$7峭壁（高山）</str>
+				<str>$2森林</str>
+				<str>$a针叶林</str>
+				<str>$2沼泽</str>
+				<str>$3河流</str>
+				<str>$4地狱（下界）</str>
+				<str>$8末地</str>
+				<str>$9冻洋</str>
+				<!--10-->
+				<str>$b冻河</str>
+				<str>$b冰原</str>
+				<str>$3雪山</str>
+				<str>$6蘑菇岛</str>
+				<str>$6蘑菇岛岸</str>
+				<str>$e海滩</str>
+				<str>$e沙漠山丘</str>
+				<str>$2森林山丘</str>
+				<str>$a针叶林山丘</str>
+				<str>$7悬崖</str>
+				<!--20-->
+				<str>$2丛林</str>
+				<str>$2丛林山丘</str>
+				<str>$2丛林边缘</str>
+				<str>$1深海</str>
+				<str>$7石滩</str>
+				<str>$9寒冷沙滩</str>
+				<str>$2桦木森林</str>
+				<str>$2桦木森林山丘</str>
+				<str>$2黑森林</str>
+				<str>$b寒冷针叶林</str>
+				<!--30-->
+				<str>$b寒冷针叶林山丘</str>
+				<str>$a大型针叶林</str>
+				<str>$a大型针叶林山丘</str>
+				<str>$7峭壁+</str>
+				<str>$c热带草原</str>
+				<str>$c热带高原</str>
+				<str>$6平顶山</str>
+				<str>$6平顶山高原 F</str>
+				<str>$6平顶山高原</str>
+				<str>$e末地小型岛屿</str>
+				<!--40-->
+				<str>$e末地中型岛屿</str>
+				<str>$e末地高岛</str>
+				<str>$e末地荒岛</str>
+				<str>$e虚空</str>
+				<!--127-->
+				<str>$2向日葵草原</str>
+				<!--129-->
+				<str>$c沙漠 M</str>
+				<!--130-->
+				<str>$7峭壁 M</str>
+				<str>$2繁花森林</str>
+				<str>$b针叶林 M</str>
+				<str>$2沼泽 M</str>
+				<!--134-->
+				<str>$9冰刺平原</str>
+				<!--140-->
+				<str>$2丛林 M</str>
+				<!--149-->
+				<str>$2丛林边缘 M</str>
+				<!--151-->
+				<str>$2桦木森林 M</str>
+				<!--155-->
+				<str>$2桦木森林山丘 M</str>
+				<str>$2黑森林 M</str>
+				<str>$b冷针叶林 M</str>
+				<!--158-->
+				<str>$a红木森林</str>
+				<!--160-->
+				<str>$a红木山丘</str>
+				<str>$7峭壁+ M</str>
+				<str>$6热带草原 M</str>
+				<str>$6热带高原 F M</str>
+				<str>$6平顶山（岩柱）</str>
+				<str>$6平顶山高原F M</str>
+				<str>$6平顶山高原 M</str>
+				<!--167-->
+				<str>{biome}请整合包作者自行添加该群系</str>
+			</op>
+        </line>
+        <line>
+            <concat>
+                <icon>
+                    <str>bloodmagic:textures/items/archmagebloodorb.png</str>
+                    <num>0</num>
+                    <num>0</num>
+                    <num>16</num>
+                    <num>16</num>
+                    <num>16</num>
+                    <num>16</num>
+                </icon>
+                <str> $c{bmcurrentlp}$f</str>
+            </concat>
+        </line>
+    </lines>
+    <lines at="bottomcenter">
+		<line>
+			<if>
+				<var>invisible</var>
+				<str>$7当前处于隐身状态 </str>
+			</if>
+		</line>
+		<line>
+			<if>
+				<var>inwater</var>
+				<str>$b当前处于水中</str>
+			</if>
+		</line>
+		<line>
+			<if>
+				<var>burning</var>
+				<str>$4身上着火啦！！</str>
+			</if>
+		</line>
+	</lines>
+	<lines at="topright">
+		<line>
+			<var>rltime24</var>
+		</line>
+	</lines>
+	<lines at="bottomright">
+		<line>
+			<op>
+				<str>GE</str>
+				<pct>
+					<var>helmetdamageleft</var>
+					<var>helmetmaxdamage</var>
+				</pct>
+				<num>60</num>
+				<num>35</num>
+				<num>10</num>
+				<num>0</num>
+				<str>$e</str>
+				<str>$6</str>
+				<str>$c$l!</str>
+				<str>$4$l!!</str>
+				<str>$a10</str>
+			</op>
+			<round>
+				<pct>
+					<var>helmetdamageleft</var>
+					<var>helmetmaxdamage</var>
+				</pct>
+				<num>0</num>
+			</round>
+			<str>% {helmetlargeicon}</str>
+		</line>
+		<line>
+			<str> </str>
+		</line>
+		<line>
+			<op>
+				<str>GE</str>
+				<pct>
+					<var>chestplatedamageleft</var>
+					<var>chestplatemaxdamage</var>
+				</pct>
+				<num>60</num>
+				<num>35</num>
+				<num>10</num>
+				<num>0</num>
+				<str>$e</str>
+				<str>$6</str>
+				<str>$c!</str>
+				<str>$4!!</str>
+				<str>$a10</str>
+			</op>
+			<round>
+				<pct>
+					<var>chestplatedamageleft</var>
+					<var>chestplatemaxdamage</var>
+				</pct>
+				<num>0</num>
+			</round>
+			<str>% {chestplatelargeicon}</str>
+		</line>
+		<line>
+			<str> </str>
+		</line>
+		<line>
+			<op>
+				<str>GE</str>
+				<pct>
+					<var>leggingsdamageleft</var>
+					<var>leggingsmaxdamage</var>
+				</pct>
+				<num>60</num>
+				<num>35</num>
+				<num>10</num>
+				<num>0</num>
+				<str>$e</str>
+				<str>$6</str>
+				<str>$c$l!</str>
+				<str>$4$l!!</str>
+				<str>$a10</str>
+			</op>
+			<round>
+				<pct>
+					<var>leggingsdamageleft</var>
+					<var>leggingsmaxdamage</var>
+				</pct>
+				<num>0</num>
+			</round>
+			<str>% {leggingslargeicon}</str>
+		</line>
+		<line>
+			<str> </str>
+		</line>
+		<line>
+			<op>
+				<str>GE</str>
+				<pct>
+					<var>bootsdamageleft</var>
+					<var>bootsmaxdamage</var>
+				</pct>
+				<num>60</num>
+				<num>35</num>
+				<num>10</num>
+				<num>0</num>
+				<str>$e</str>
+				<str>$6</str>
+				<str>$c$l!</str>
+				<str>$4$l!!</str>
+				<str>$a10</str>
+			</op>
+			<round>
+				<pct>
+					<var>bootsdamageleft</var>
+					<var>bootsmaxdamage</var>
+				</pct>
+				<num>0</num>
+			</round>
+			<str>% {bootslargeicon}</str>
+		</line>
+		<line>
+			<str> </str>
+		</line>
+		<line>
+			<op>
+				<str>GE</str>
+				<pct>
+					<var>mainhanddamageleft</var>
+					<var>mainhandmaxdamage</var>
+				</pct>
+				<num>50</num>
+				<num>35</num>
+				<num>10</num>
+				<num>0</num>
+				<str>$e</str>
+				<str>$6</str>
+				<str>$c$l</str>
+				<str>$4$l</str>
+				<str>$a10</str>
+			</op>
+			<round>
+				<pct>
+					<var>mainhanddamageleft</var>
+					<var>mainhandmaxdamage</var>
+				</pct>
+				<num>0</num>
+			</round>
+			<str>% $7{mainhandlargeicon}$r</str>
+		</line>
+	</lines>
+	<lines at="middlecenter">
+		<line>
+			<operation>
+				<str>LE</str>
+				<var>health</var>
+				<num>4</num>
+				<num>6</num>
+				<str>$4$lHP极低:{health}</str>
+				<str>$c$lHP过低:{health}</str>
+			</operation>
+		</line>
+		<line>
+			<operation>
+				<str>LE</str>
+				<var>foodlevel</var>
+				<num>3</num>
+				<num>7</num>
+				<str>$4$l饥饿值极低:{foodlevel}</str>
+				<str>$c$l饥饿值过低:{foodlevel}</str>
+			</operation>
+		</line>
+		<line>
+			<operation>
+				<str>GE</str>
+				<pct>
+					<var>memused</var>
+					<var>memtotal</var>
+				</pct>
+				<num>96</num>
+				<num>92</num>
+				<str>$4内存占用过高,请检查是否为程序分配足够内存</str>
+				<str>$c内存占用高</str>
+			</operation>
+		</line>
+		<line>
+			<op>
+				<str>GT</str>
+				<var>speed</var>
+				<num>150</num>
+				<str>$4飞的太快了,快停下来</str>
+			</op>
+		</line>
+	</lines>
+</config>
+        

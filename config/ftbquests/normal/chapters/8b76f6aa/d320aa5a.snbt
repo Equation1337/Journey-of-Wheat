@@ -1,0 +1,30 @@
+{
+	title: "你的第一朵产能花",
+	x: 6.0d,
+	y: 0.0d,
+	text: [
+		"我删除了启命英和勿落草之外的所有产能花"
+	],
+	dependencies: [
+		"dd66ae3e",
+		"162a49a3",
+		"ac7592ca"
+	],
+	tasks: [{
+		uid: "079fa321",
+		type: "item",
+		items: [{
+			tag: {
+				type: "dandelifeon"
+			},
+			id: "botania:specialflower"
+		}]
+	}],
+	rewards: [{
+		uid: "e1cccd52",
+		type: "item",
+		item: "botania:cellblock",
+		count: 16,
+		random_bonus: 48
+	}]
+}

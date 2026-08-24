@@ -1,0 +1,114 @@
+{
+	title: "终焉之始",
+	x: -3.0d,
+	y: -1.5d,
+	shape: "hexagon",
+	text: [
+		"史蒂夫原本幸福的生活在主世界，突然有一天遭遇了麦神打击",
+		"麦神的强大使得主世界崩坏游戏崩溃",
+		"你发现你再也回不去主世界了，只能游离在虚空之中",
+		"霎时间，你感觉脚下有了着力感",
+		"这一世，我重生了...(bushi",
+		"这是科学家们举世界之力所创建的一个小宇宙",
+		"你将在这里从零开始发育,最终获得与麦神匹敌的力量从而为全人类报仇",
+		"你发现你的数据终端中有一个隐藏空间，里面有一些基础物资，真是太好了",
+		"(ps:本包魔改合成需要时钟座，望提前寻找)"
+	],
+	tasks: [{
+		uid: "ff051a60",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "7d9c2cef",
+		type: "item",
+		item: {
+			tag: {},
+			id: "tp:wooden_helmet"
+		}
+	},
+	{
+		uid: "7c700726",
+		type: "item",
+		item: {
+			tag: {},
+			id: "tp:wooden_chestplate"
+		}
+	},
+	{
+		uid: "1eb41c76",
+		type: "item",
+		item: {
+			tag: {},
+			id: "tp:wooden_leggings"
+		}
+	},
+	{
+		uid: "e471ca36",
+		type: "item",
+		item: {
+			tag: {},
+			id: "tp:wooden_boots"
+		}
+	},
+	{
+		uid: "6f28a3cd",
+		type: "item",
+		item: {
+			tag: {
+				spells: [I;
+					0,
+					0,
+					0,
+					170,
+					0
+				],
+				selectedSpell: 3,
+				display: {
+					Name: "不能塞屁眼里加速"
+				}
+			},
+			id: "ebwizardry:master_sorcery_wand"
+		}
+	},
+	{
+		uid: "317794f4",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderMost: 12300L,
+					AS_Amulet_HolderLeast: -7220265544684617936L
+				}
+			},
+			tag: {
+				ench: [{
+					lvl: 5s,
+					id: 35s
+				},
+				{
+					lvl: 20s,
+					id: 16s
+				},
+				{
+					lvl: 5s,
+					id: 21s
+				},
+				{
+					lvl: 10s,
+					id: 34s
+				},
+				{
+					lvl: 10s,
+					id: 32s
+				}]
+			},
+			id: "additions:eq_tools-advanced_tool"
+		}
+	},
+	{
+		uid: "89013404",
+		type: "item",
+		item: "ebwizardry:magic_crystal",
+		count: 1024
+	}]
+}

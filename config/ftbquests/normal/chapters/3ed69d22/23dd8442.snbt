@@ -1,0 +1,21 @@
+{
+	title: "意志谐振器",
+	x: 11.5d,
+	y: 14.5d,
+	shape: "gear",
+	dependencies: [
+		"a6db3bce"
+	],
+	tasks: [{
+		uid: "e52b855f",
+		type: "item",
+		items: [{
+			item: "modularmachinery:yizhi_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "36de0f54",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

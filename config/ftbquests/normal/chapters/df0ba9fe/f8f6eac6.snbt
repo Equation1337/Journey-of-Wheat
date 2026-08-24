@@ -1,0 +1,23 @@
+{
+	x: 5.0d,
+	y: 6.0d,
+	text: [
+		"世界盐右键炼药锅"
+	],
+	dependencies: [
+		"4073e63e"
+	],
+	tasks: [{
+		uid: "f983393b",
+		type: "item",
+		items: [{
+			item: "thaumcraft:crucible"
+		}]
+	}],
+	rewards: [{
+		uid: "c3e746ab",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

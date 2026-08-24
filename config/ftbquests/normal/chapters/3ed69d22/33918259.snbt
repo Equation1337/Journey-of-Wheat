@@ -1,0 +1,19 @@
+{
+	x: 13.0d,
+	y: 5.5d,
+	dependencies: [
+		"a7f0b93f"
+	],
+	tasks: [{
+		uid: "9ce58640",
+		type: "item",
+		items: [{
+			item: "bloodmagic:decorative_brick"
+		}]
+	}],
+	rewards: [{
+		uid: "93a3f99b",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

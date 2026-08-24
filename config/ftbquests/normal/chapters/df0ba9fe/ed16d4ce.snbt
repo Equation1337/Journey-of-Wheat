@@ -1,0 +1,21 @@
+{
+	x: 15.5d,
+	y: -3.0d,
+	dependencies: [
+		"8b27971b"
+	],
+	tasks: [{
+		uid: "7eec0e20",
+		type: "item",
+		items: [{
+			item: "minecraft:end_portal_frame"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "c4b99776",
+		type: "item",
+		item: "minecraft:ender_eye",
+		random_bonus: 12
+	}]
+}

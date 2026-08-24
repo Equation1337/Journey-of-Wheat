@@ -1,0 +1,28 @@
+{
+	title: "余烬炼金",
+	x: 0.5d,
+	y: 3.0d,
+	dependencies: [
+		"c7e496e0"
+	],
+	tasks: [{
+		uid: "ff41b44e",
+		type: "item",
+		items: [{
+			item: "embers:beam_cannon"
+		}]
+	},
+	{
+		uid: "d952b826",
+		type: "item",
+		items: [{
+			item: "embers:alchemy_tablet"
+		}]
+	}],
+	rewards: [{
+		uid: "0c0c6c8e",
+		type: "item",
+		item: "embers:alchemy_pedestal",
+		random_bonus: 7
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: -3.0d,
+	y: 2.0d,
+	text: [
+		"离心蜂窝得蜂蜜滴"
+	],
+	dependencies: [
+		"37c75e00",
+		"e89714b4"
+	],
+	tasks: [{
+		uid: "885c8156",
+		type: "item",
+		items: [{
+			item: "forestry:centrifuge"
+		}]
+	}],
+	rewards: [{
+		uid: "b34b268f",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

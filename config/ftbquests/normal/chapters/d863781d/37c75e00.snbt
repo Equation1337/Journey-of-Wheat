@@ -1,0 +1,25 @@
+{
+	title: "林业之基",
+	x: -9.0d,
+	y: -1.0d,
+	shape: "hexagon",
+	text: [
+		"林业的零部件之一"
+	],
+	dependencies: [
+		"b133e5f6"
+	],
+	tasks: [{
+		uid: "f9da4131",
+		type: "item",
+		items: [{
+			item: "forestry:sturdy_machine"
+		}]
+	}],
+	rewards: [{
+		uid: "47bac54e",
+		type: "item",
+		item: "embers:ingot_bronze",
+		random_bonus: 7
+	}]
+}

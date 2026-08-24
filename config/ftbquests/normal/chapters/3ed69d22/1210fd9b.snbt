@@ -1,0 +1,21 @@
+{
+	title: "GeCraft型-高速裂变反应堆",
+	x: -2.0d,
+	y: 2.5d,
+	shape: "gear",
+	dependencies: [
+		"67fed0b1"
+	],
+	tasks: [{
+		uid: "f0d1d00c",
+		type: "item",
+		items: [{
+			item: "modularmachinery:reaction_factory_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "8e416ad7",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

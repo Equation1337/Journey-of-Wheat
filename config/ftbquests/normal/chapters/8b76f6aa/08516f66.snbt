@@ -1,0 +1,22 @@
+{
+	x: 7.5d,
+	y: -1.5d,
+	text: [
+		"在水晶花园中魔力发射器的造价被相对降低"
+	],
+	dependencies: [
+		"5ce339e1"
+	],
+	tasks: [{
+		uid: "3065c6ea",
+		type: "item",
+		items: [{
+			item: "botania:spreader"
+		}]
+	}],
+	rewards: [{
+		uid: "ca277d7b",
+		type: "item",
+		item: "botania:pool 1 2"
+	}]
+}

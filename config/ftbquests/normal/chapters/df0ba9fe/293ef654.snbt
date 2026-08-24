@@ -1,0 +1,28 @@
+{
+	x: 6.5d,
+	y: 4.5d,
+	text: [
+		"世界盐右键书架"
+	],
+	dependencies: [
+		"4073e63e"
+	],
+	tasks: [{
+		uid: "15cc96bf",
+		type: "item",
+		items: [{
+			item: "thaumcraft:thaumonomicon"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0b3d8573",
+		type: "item",
+		item: {
+			tag: {
+				player: "[none]"
+			},
+			id: "thaumictinkerer:share_book"
+		}
+	}]
+}

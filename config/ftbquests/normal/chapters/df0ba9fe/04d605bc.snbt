@@ -1,0 +1,31 @@
+{
+	x: 6.5d,
+	y: -4.5d,
+	shape: "gear",
+	text: [
+		"你现在可以制作更高等级的引雷针和LE能量单元了"
+	],
+	dependencies: [
+		"22e7b553"
+	],
+	tasks: [{
+		uid: "37733213",
+		type: "item",
+		items: [{
+			item: "lightningcraft:air_terminal 1 7"
+		}]
+	},
+	{
+		uid: "9f6e3e9d",
+		type: "item",
+		items: [{
+			item: "lightningcraft:air_terminal 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "e4bc557e",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -2.5d,
+	y: 9.0d,
+	dependencies: [
+		"6be41327"
+	],
+	tasks: [{
+		uid: "42a25120",
+		type: "item",
+		items: [{
+			item: "ae2fc:dual_interface"
+		}]
+	}],
+	rewards: [{
+		uid: "aff870d5",
+		type: "item",
+		item: "appliedenergistics2:material 1 58"
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	x: -5.0d,
+	y: 2.5d,
+	dependencies: [
+		"3fb179f9",
+		"efcc72ed",
+		"1b94001b"
+	],
+	tasks: [{
+		uid: "f3bcfeec",
+		type: "item",
+		items: [{
+			item: "mets:titanium_ingot"
+		},
+		{
+			item: "qmd:ingot 1 3"
+		},
+		{
+			item: "frogcraftrebirth:metal_ingot 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "e19dccc5",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

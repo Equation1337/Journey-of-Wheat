@@ -1,0 +1,19 @@
+{
+	title: "泥土",
+	icon: "minecraft:dirt",
+	x: 1.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "88c8d9e3",
+		type: "item",
+		items: [{
+			item: "ic2:crafting 1 38"
+		}]
+	}],
+	rewards: [{
+		uid: "0986d075",
+		type: "item",
+		item: "minecraft:dirt",
+		count: 64
+	}]
+}

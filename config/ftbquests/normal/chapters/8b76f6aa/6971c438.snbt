@@ -1,0 +1,24 @@
+{
+	title: "为啥放屁能催熟树呢，难道史蒂夫是一个产乙烯的化学反应釜？",
+	x: 1.5d,
+	y: -1.5d,
+	text: [
+		"注意：由于空岛上方存在魔力火花，会影响树的生长，种树时最好另外开辟地区"
+	],
+	dependencies: [
+		"88c97eef"
+	],
+	tasks: [{
+		uid: "03fc9715",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling"
+		}]
+	}],
+	rewards: [{
+		uid: "ca25440b",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: -5.5d,
+	y: 3.0d,
+	dependencies: [
+		"5c421bd0"
+	],
+	tasks: [{
+		uid: "59f3ff0a",
+		type: "item",
+		items: [{
+			item: "embers:mech_core"
+		}]
+	}],
+	rewards: [{
+		uid: "cf24f7b9",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 10.0d,
+	y: 7.0d,
+	dependencies: [
+		"d17a96e3"
+	],
+	tasks: [{
+		uid: "eae3232c",
+		type: "item",
+		items: [{
+			item: "bloodmagic:ritual_stone"
+		}]
+	}],
+	rewards: [{
+		uid: "353e2897",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

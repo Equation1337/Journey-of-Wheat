@@ -1,0 +1,16 @@
+{
+	x: -4.0d,
+	y: -8.0d,
+	dependencies: [
+		"855ea445",
+		"75b7ad2c"
+	],
+	tasks: [{
+		uid: "b022b1a7",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:dataunit"
+		}],
+		ignore_nbt: 1b
+	}]
+}

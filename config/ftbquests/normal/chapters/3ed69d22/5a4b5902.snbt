@@ -1,0 +1,20 @@
+{
+	title: "工业高炉",
+	x: -5.0d,
+	y: 5.5d,
+	dependencies: [
+		"31cd484e"
+	],
+	tasks: [{
+		uid: "90b26e78",
+		type: "item",
+		items: [{
+			item: "modularmachinery:gaolu_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "ce0c6d5d",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

@@ -1,0 +1,329 @@
+{
+    "registryname": "juneng1",
+    "localizedname": "§b天体聚能水晶量子构建器",
+    "failure-action": "decrease",
+    "requires-blueprint": false,
+    "has-factory": false,
+    "color": "FFFFFF",
+    "parts": [
+        {
+            "x": 0,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockmarble@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarble@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "astralsorcery:fluidblockliquidstarlight@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "astralsorcery:blockmarble@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "astralsorcery:fluidblockliquidstarlight@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "astralsorcery:blockmarble@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockmarble@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "astralsorcery:blockmarble@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "astralsorcery:fluidblockliquidstarlight@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarble@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "astralsorcery:blockmarble@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "astralsorcery:fluidblockliquidstarlight@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "astralsorcery:blockmarble@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "astralsorcery:fluidblockliquidstarlight@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "astralsorcery:fluidblockliquidstarlight@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "astralsorcery:blockmarble@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "astralsorcery:blockmarble@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockmarble@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "astralsorcery:fluidblockliquidstarlight@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockmarble@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarble@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "astralsorcery:blockmarble@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarble@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "astralsorcery:blockmarble@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarble@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarble@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "astralsorcery:blockmarble@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "astralsorcery:blockmarble@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "astralsorcery:blockmarble@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "astralsorcery:fluidblockliquidstarlight@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockmarble@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockmarble@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarble@0"
+            ]
+        }
+    ]}

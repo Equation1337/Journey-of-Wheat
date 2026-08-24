@@ -1,0 +1,23 @@
+{
+	x: 9.0d,
+	y: 0.0d,
+	text: [
+		"通过凝矿兰转化而来的铁锭"
+	],
+	dependencies: [
+		"27d36f34"
+	],
+	tasks: [{
+		uid: "4772eb8a",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "6fb64fdb",
+		type: "item",
+		item: "minecraft:stone",
+		random_bonus: 31
+	}]
+}

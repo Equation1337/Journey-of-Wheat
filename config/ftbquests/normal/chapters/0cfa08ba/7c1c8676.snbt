@@ -1,0 +1,17 @@
+{
+	x: -14.5d,
+	y: -6.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"f91b5bab"
+	],
+	tasks: [{
+		uid: "f2a057ec",
+		type: "item",
+		items: [{
+			item: "modularmachinery:energy_factory_controller"
+		}]
+	}]
+}

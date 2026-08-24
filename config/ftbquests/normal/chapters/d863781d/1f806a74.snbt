@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: -4.0d,
+	text: [
+		"psi术式可以方便你的生活"
+	],
+	dependencies: [
+		"59026053",
+		"8640be72"
+	],
+	tasks: [{
+		uid: "cce713ba",
+		type: "item",
+		items: [{
+			item: "psi:programmer"
+		}]
+	}],
+	rewards: [{
+		uid: "16a9afa7",
+		type: "item",
+		item: "psi:spell_bullet",
+		random_bonus: 3
+	}]
+}

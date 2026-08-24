@@ -1,0 +1,23 @@
+{
+	x: -4.5d,
+	y: 2.0d,
+	text: [
+		"自动农场"
+	],
+	dependencies: [
+		"4d3ce2eb"
+	],
+	tasks: [{
+		uid: "0c8164ed",
+		type: "item",
+		items: [{
+			item: "forestry:farm_crops"
+		}]
+	}],
+	rewards: [{
+		uid: "a21d879e",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

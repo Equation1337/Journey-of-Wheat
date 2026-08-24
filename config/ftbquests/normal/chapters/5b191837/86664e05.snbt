@@ -1,0 +1,22 @@
+{
+	x: -4.0d,
+	y: 1.5d,
+	text: [
+		"电动发电机（迫真"
+	],
+	dependencies: [
+		"201a4531"
+	],
+	tasks: [{
+		uid: "1b4bd32a",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:flux_compressor"
+		}]
+	}],
+	rewards: [{
+		uid: "9a55a14e",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

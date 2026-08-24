@@ -1,0 +1,15 @@
+{
+	title: "约束正电子",
+	x: 12.5d,
+	y: -1.0d,
+	dependencies: [
+		"e353d073"
+	],
+	tasks: [{
+		uid: "26b1a457",
+		type: "item",
+		items: [{
+			item: "contenttweaker:zhengdianzi_guan"
+		}]
+	}]
+}

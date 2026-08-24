@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "03b30cf6",
+		type: "item",
+		items: [{
+			item: "modularmachinery:yuanzhi_factory_controller"
+		}]
+	}]
+}

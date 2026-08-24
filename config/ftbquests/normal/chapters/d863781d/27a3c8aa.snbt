@@ -1,0 +1,23 @@
+{
+	x: -12.0d,
+	y: -2.5d,
+	text: [
+		"蒸汽时代！"
+	],
+	dependencies: [
+		"aafc46b4"
+	],
+	tasks: [{
+		uid: "33716e5e",
+		type: "item",
+		items: [{
+			item: "efab:steamengine"
+		}]
+	}],
+	rewards: [{
+		uid: "554909f9",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

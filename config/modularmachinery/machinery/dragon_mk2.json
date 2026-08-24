@@ -1,0 +1,367 @@
+{
+    "registryname": "dragon_mk2",
+    "localizedname": "§d进阶龙巢",
+    "failure-action": "decrease",
+    "requires-blueprint": false,
+    "has-factory": false,
+    "color": "000000",
+    "parts": [
+        {
+            "x": -3,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 0,
+
+            "elements": [
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 0,
+
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": -2,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": -2,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "minecraft:torch@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": -3,
+
+            "elements": [
+                "modularmachinery:blockinputbus@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "minecraft:torch@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 3,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "minecraft:torch@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": -2,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": -3,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": -3,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "minecraft:bedrock@0"
+            ]
+        }
+    ]}

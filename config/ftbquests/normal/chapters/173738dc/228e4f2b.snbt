@@ -1,0 +1,14 @@
+{
+	x: 15.5d,
+	y: -1.0d,
+	dependencies: [
+		"8208e037"
+	],
+	tasks: [{
+		uid: "460adc3b",
+		type: "item",
+		items: [{
+			item: "modularmachinery:dragon_mk2_controller"
+		}]
+	}]
+}

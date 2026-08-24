@@ -1,0 +1,19 @@
+{
+	icon: "immersiveintelligence:metal_multiblock 1 5",
+	x: -5.5d,
+	y: 0.0d,
+	dependencies: [
+		"e8a2b783"
+	],
+	tasks: [{
+		uid: "71191931",
+		type: "checkmark",
+		title: "用于电解气体"
+	}],
+	rewards: [{
+		uid: "b96622dc",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

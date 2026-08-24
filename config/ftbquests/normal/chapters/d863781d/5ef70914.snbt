@@ -1,0 +1,29 @@
+{
+	x: -10.5d,
+	y: 0.5d,
+	dependencies: [
+		"37c75e00"
+	],
+	tasks: [{
+		uid: "9c3be2fe",
+		type: "item",
+		items: [{
+			item: "magneticraft:crushing_table"
+		}]
+	}],
+	rewards: [{
+		uid: "849fd3fe",
+		type: "item",
+		item: "magneticraft:steel_hammer"
+	},
+	{
+		uid: "47e82017",
+		type: "item",
+		item: "magneticraft:wrench"
+	},
+	{
+		uid: "a4297689",
+		type: "item",
+		item: "magneticraft:guide_book"
+	}]
+}

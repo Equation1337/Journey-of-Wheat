@@ -1,0 +1,44 @@
+{
+	x: 15.5d,
+	y: 7.5d,
+	dependencies: [
+		"dd60f5e5"
+	],
+	tasks: [{
+		uid: "78c1d9fc",
+		type: "item",
+		items: [{
+			item: "botania:alfheimportal"
+		}]
+	},
+	{
+		uid: "47e6a967",
+		type: "item",
+		items: [{
+			item: "botania:pylon 1 1"
+		}],
+		count: 2L
+	},
+	{
+		uid: "fc4d8f1f",
+		type: "item",
+		items: [{
+			item: "botania:livingwood 1 5"
+		}],
+		count: 3L
+	},
+	{
+		uid: "869dd7f9",
+		type: "item",
+		items: [{
+			item: "botania:livingwood"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "195984e9",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	title: "约束觉醒龙粒子",
+	x: 14.0d,
+	y: -2.5d,
+	dependencies: [
+		"e353d073",
+		"5db9fe2a"
+	],
+	tasks: [{
+		uid: "2df652e0",
+		type: "item",
+		items: [{
+			item: "contenttweaker:dragon_guan"
+		}]
+	}]
+}

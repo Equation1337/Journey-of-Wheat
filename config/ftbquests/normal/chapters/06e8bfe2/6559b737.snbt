@@ -1,0 +1,12 @@
+{
+	title: "也许你有兴致研究一下这个mod？",
+	x: 3.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "50c2a18b",
+		type: "item",
+		items: [{
+			item: "incorporeal:corporea_spark_tinkerer"
+		}]
+	}]
+}

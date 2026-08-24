@@ -1,0 +1,1 @@
+brewing.addBrew(<minecraft:potion>.withTag({Potion: "minecraft:awkward"}), <aetherworks:item_shovel_slime>, <minecraft:potion>.withTag({Potion: "minecraft:luck"}));

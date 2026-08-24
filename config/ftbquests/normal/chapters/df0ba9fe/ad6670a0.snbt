@@ -1,0 +1,25 @@
+{
+	x: 2.0d,
+	y: -3.0d,
+	text: [
+		"电子工程块和高级电子工程块使用电路板/高级电路板右键铝脚手架",
+		"机械工程块和重型机械工程块则分别用黄铜弹簧/铁弹簧右键防腐木脚手架"
+	],
+	dependencies: [
+		"d221e136",
+		"e2534fcc"
+	],
+	tasks: [{
+		uid: "a88c3b88",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 1 27"
+		}]
+	}],
+	rewards: [{
+		uid: "fbab5ac4",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

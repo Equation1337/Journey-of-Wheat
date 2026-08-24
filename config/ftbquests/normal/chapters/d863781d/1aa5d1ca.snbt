@@ -1,0 +1,23 @@
+{
+	x: -12.0d,
+	y: 3.5d,
+	text: [
+		"用于制作生物量"
+	],
+	dependencies: [
+		"4d3ce2eb"
+	],
+	tasks: [{
+		uid: "096b630e",
+		type: "item",
+		items: [{
+			item: "planttech2:seedsqueezer"
+		}]
+	}],
+	rewards: [{
+		uid: "c03a437a",
+		type: "item",
+		item: "planttech2:plantium_ingot",
+		random_bonus: 7
+	}]
+}

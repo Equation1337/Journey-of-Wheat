@@ -1,0 +1,17 @@
+{
+	x: 14.0d,
+	y: 2.0d,
+	text: [
+		"必须在13*13的压缩空间内工作"
+	],
+	dependencies: [
+		"f0c4b7a3"
+	],
+	tasks: [{
+		uid: "31765344",
+		type: "item",
+		items: [{
+			item: "modularmachinery:core_factory_controller"
+		}]
+	}]
+}

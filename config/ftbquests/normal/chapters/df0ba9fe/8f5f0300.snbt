@@ -1,0 +1,28 @@
+{
+	x: 6.5d,
+	y: 6.0d,
+	text: [
+		"世界盐右键工作台"
+	],
+	dependencies: [
+		"4073e63e"
+	],
+	tasks: [{
+		uid: "864b7745",
+		type: "item",
+		items: [{
+			item: "thaumcraft:arcane_workbench"
+		}]
+	}],
+	rewards: [{
+		uid: "f3fd07b8",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	},
+	{
+		uid: "4ee869a2",
+		type: "item",
+		item: "thaumcraft:arcane_workbench_charger"
+	}]
+}

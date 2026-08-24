@@ -1,0 +1,25 @@
+{
+	x: 3.5d,
+	y: -4.5d,
+	text: [
+		"是的也许你目前只能做到这，或者你可以做点回收机开废料玩XD",
+		"至此你可以自己造币了"
+	],
+	dependencies: [
+		"8d85b975",
+		"ad6670a0"
+	],
+	tasks: [{
+		uid: "3c113cdb",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 55"
+		}]
+	}],
+	rewards: [{
+		uid: "33536036",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 15.5d,
+	y: 3.0d,
+	dependencies: [
+		"064435cd"
+	],
+	tasks: [{
+		uid: "38900aec",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "28b9eec7",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

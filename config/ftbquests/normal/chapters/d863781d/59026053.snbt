@@ -1,0 +1,25 @@
+{
+	x: -4.5d,
+	y: -2.5d,
+	dependencies: [
+		"3d1213c8",
+		"fffe3c39"
+	],
+	tasks: [{
+		uid: "4c18bad9",
+		type: "item",
+		items: [{
+			tag: {
+				T: 3s
+			},
+			Damage: 3s,
+			id: "forestry:chipsets"
+		}]
+	}],
+	rewards: [{
+		uid: "35862789",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 7
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: -2.5d,
+	text: [
+		"你前期发电量较高的一类了"
+	],
+	dependencies: [
+		"2102c322",
+		"2dff61bc"
+	],
+	tasks: [{
+		uid: "31c82462",
+		type: "item",
+		items: [{
+			item: "environmentaltech:solar_cont_1"
+		}]
+	}],
+	rewards: [{
+		uid: "9b8b8219",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: -1.5d,
+	y: 2.0d,
+	dependencies: [
+		"703bea83"
+	],
+	tasks: [{
+		uid: "eaa2b450",
+		type: "item",
+		items: [{
+			item: "forestry:honey_drop"
+		}]
+	}],
+	rewards: [{
+		uid: "6216980a",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

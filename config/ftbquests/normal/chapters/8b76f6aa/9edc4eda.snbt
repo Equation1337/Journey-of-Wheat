@@ -1,0 +1,15 @@
+{
+	title: "正如雪傀儡那样，人造烈焰人",
+	x: 10.5d,
+	y: -1.5d,
+	dependencies: [
+		"a5721594"
+	],
+	tasks: [{
+		uid: "b949db29",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_bars"
+		}]
+	}]
+}

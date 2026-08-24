@@ -1,0 +1,17 @@
+{
+	title: "客制化箱子！",
+	x: 1.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "e5c54fa3",
+		type: "item",
+		items: [{
+			item: "compactstorage:chestbuilder"
+		}]
+	}],
+	rewards: [{
+		uid: "1aae25ac",
+		type: "item",
+		item: "avaritiaddons:avaritiaddons_chest"
+	}]
+}

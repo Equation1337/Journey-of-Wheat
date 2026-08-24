@@ -1,0 +1,22 @@
+{
+	title: "原始人，启动！",
+	x: 3.0d,
+	y: 3.0d,
+	dependencies: [
+		"c2d28486",
+		"f4a61711",
+		"b1778114"
+	],
+	tasks: [{
+		uid: "db8bd5c5",
+		type: "item",
+		items: [{
+			item: "roots:pyre"
+		}]
+	}],
+	rewards: [{
+		uid: "8044e1f1",
+		type: "item",
+		item: "roots:fire_starter"
+	}]
+}

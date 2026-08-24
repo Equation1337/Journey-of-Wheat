@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: -4.0d,
+	dependencies: [
+		"1612c35d"
+	],
+	tasks: [{
+		uid: "2e1ba7d1",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:rock_crusher"
+		}]
+	}]
+}

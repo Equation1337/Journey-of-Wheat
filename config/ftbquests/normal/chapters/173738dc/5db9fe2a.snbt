@@ -1,0 +1,20 @@
+{
+	x: 12.5d,
+	y: -2.5d,
+	dependencies: [
+		"a1c9ef29",
+		"84809eb3",
+		"9fd820eb",
+		"07f2f095",
+		"771f5713",
+		"6343385d",
+		"8207f919"
+	],
+	tasks: [{
+		uid: "c94acebe",
+		type: "item",
+		items: [{
+			item: "equation:chaoguangsu"
+		}]
+	}]
+}

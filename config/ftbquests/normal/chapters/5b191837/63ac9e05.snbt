@@ -1,0 +1,24 @@
+{
+	x: 5.0d,
+	y: 1.5d,
+	text: [
+		"现代彩钢（"
+	],
+	dependencies: [
+		"ef1191f1",
+		"90a5a64d",
+		"ae2b07c8"
+	],
+	tasks: [{
+		uid: "d4e42dc0",
+		type: "item",
+		items: [{
+			item: "extrautils2:decorativesolid 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "837bc2ea",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

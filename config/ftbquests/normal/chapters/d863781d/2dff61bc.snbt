@@ -1,0 +1,26 @@
+{
+	x: -4.5d,
+	y: -4.0d,
+	shape: "hexagon",
+	text: [
+		"镭射器疑似有点高级了"
+	],
+	dependencies: [
+		"80fcac28",
+		"59026053",
+		"08e026b9"
+	],
+	tasks: [{
+		uid: "0f491b84",
+		type: "item",
+		items: [{
+			item: "buildcraftsilicon:assembly_table"
+		}]
+	}],
+	rewards: [{
+		uid: "55c17a14",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

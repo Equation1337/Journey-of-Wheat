@@ -1,0 +1,20 @@
+{
+	x: 0.5d,
+	y: 1.5d,
+	dependencies: [
+		"38388fbc",
+		"680633cf"
+	],
+	tasks: [{
+		uid: "5b9e832c",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:printed_circuit_board"
+		}]
+	}],
+	rewards: [{
+		uid: "13dfafcc",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

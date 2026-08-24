@@ -1,0 +1,34 @@
+{
+	x: 15.5d,
+	y: 6.0d,
+	dependencies: [
+		"92c552f6"
+	],
+	tasks: [{
+		uid: "c05ac2f1",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 7"
+		}]
+	},
+	{
+		uid: "af816dce",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 9"
+		}]
+	},
+	{
+		uid: "4f38ccb8",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "23fe7713",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

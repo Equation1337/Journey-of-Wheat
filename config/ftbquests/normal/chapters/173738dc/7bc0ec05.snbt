@@ -1,0 +1,22 @@
+{
+	title: "机器升级",
+	x: 0.5d,
+	y: -4.0d,
+	dependencies: [
+		"db33e263"
+	],
+	tasks: [{
+		uid: "b9cff275",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:upgrade 1 1"
+		}]
+	},
+	{
+		uid: "963db098",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:upgrade"
+		}]
+	}]
+}

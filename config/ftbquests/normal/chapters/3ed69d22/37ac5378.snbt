@@ -1,0 +1,19 @@
+{
+	x: 7.0d,
+	y: 8.5d,
+	dependencies: [
+		"c65a554e"
+	],
+	tasks: [{
+		uid: "55663303",
+		type: "item",
+		items: [{
+			item: "bloodmagic:slate"
+		}]
+	}],
+	rewards: [{
+		uid: "25b2bd4d",
+		type: "item",
+		item: "bloodmagic:sigil_divination"
+	}]
+}

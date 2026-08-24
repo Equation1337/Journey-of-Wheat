@@ -1,0 +1,21 @@
+{
+	x: 5.0d,
+	y: -4.5d,
+	dependencies: [
+		"ad6670a0",
+		"e3160388"
+	],
+	tasks: [{
+		uid: "16f5cdc4",
+		type: "item",
+		items: [{
+			item: "environmentaltech:void_ore_miner_cont_2"
+		}]
+	}],
+	rewards: [{
+		uid: "58ae9ec9",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

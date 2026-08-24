@@ -1,0 +1,20 @@
+{
+	x: 6.0d,
+	y: 3.0d,
+	dependencies: [
+		"04becd72"
+	],
+	tasks: [{
+		uid: "d4d0fa30",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "3d53501e",
+		type: "item",
+		item: "botania:blacklotus",
+		random_bonus: 3
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	title: "晶体电路板-黑",
+	x: 6.5d,
+	y: -1.0d,
+	dependencies: [
+		"babd468e",
+		"321b2074"
+	],
+	tasks: [{
+		uid: "6f1daaa7",
+		type: "item",
+		items: [{
+			item: "contenttweaker:cir_black"
+		}]
+	}]
+}

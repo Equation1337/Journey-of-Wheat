@@ -1,0 +1,22 @@
+{
+	x: 6.5d,
+	y: -1.5d,
+	text: [
+		"应该是发电机吧，往上引雷即可"
+	],
+	dependencies: [
+		"c72f0e98"
+	],
+	tasks: [{
+		uid: "8a4a8272",
+		type: "item",
+		items: [{
+			item: "lightningcraft:air_terminal 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "08216a6d",
+		type: "item",
+		item: "minecraft:end_rod"
+	}]
+}

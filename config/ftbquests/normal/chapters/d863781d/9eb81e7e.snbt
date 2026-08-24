@@ -1,0 +1,20 @@
+{
+	x: -4.5d,
+	y: 3.5d,
+	dependencies: [
+		"d493ce48"
+	],
+	tasks: [{
+		uid: "2355301e",
+		type: "item",
+		items: [{
+			item: "planttech2:kinnoium_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "735c74de",
+		type: "item",
+		item: "planttech2:plantium_ingot",
+		random_bonus: 7
+	}]
+}

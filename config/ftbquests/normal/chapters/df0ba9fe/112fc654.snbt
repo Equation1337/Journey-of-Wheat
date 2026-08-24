@@ -1,0 +1,20 @@
+{
+	x: 2.0d,
+	y: 3.0d,
+	dependencies: [
+		"6b14302b"
+	],
+	tasks: [{
+		uid: "a59cabf1",
+		type: "item",
+		items: [{
+			item: "embers:flame_barrier"
+		}]
+	}],
+	rewards: [{
+		uid: "6099a9c2",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

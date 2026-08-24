@@ -1,0 +1,49 @@
+{
+	title: "晶簇之源",
+	x: 13.0d,
+	y: 14.5d,
+	dependencies: [
+		"60f0fba3",
+		"fe9945d2"
+	],
+	tasks: [{
+		uid: "63b4e8e2",
+		type: "item",
+		items: [{
+			item: "bloodmagic:demon_crystal"
+		}]
+	},
+	{
+		uid: "49196676",
+		type: "item",
+		items: [{
+			item: "bloodmagic:demon_crystal 1 1"
+		}]
+	},
+	{
+		uid: "dfeab200",
+		type: "item",
+		items: [{
+			item: "bloodmagic:demon_crystal 1 2"
+		}]
+	},
+	{
+		uid: "30852c35",
+		type: "item",
+		items: [{
+			item: "bloodmagic:demon_crystal 1 3"
+		}]
+	},
+	{
+		uid: "c8341716",
+		type: "item",
+		items: [{
+			item: "bloodmagic:demon_crystal 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "484ab808",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

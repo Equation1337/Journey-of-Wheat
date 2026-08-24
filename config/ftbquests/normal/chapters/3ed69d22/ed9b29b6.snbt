@@ -1,0 +1,22 @@
+{
+	x: -2.0d,
+	y: -0.5d,
+	dependencies: [
+		"de85941c"
+	],
+	tasks: [{
+		uid: "9c08b568",
+		type: "item",
+		items: [{
+			tag: {
+				advDmg: 0
+			},
+			id: "ic2:quad_uranium_fuel_rod"
+		}]
+	}],
+	rewards: [{
+		uid: "69ccbefd",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

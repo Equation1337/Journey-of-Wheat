@@ -1,0 +1,22 @@
+{
+	x: 13.5d,
+	y: -1.5d,
+	text: [
+		"一种全新的漂亮植物"
+	],
+	dependencies: [
+		"93e38aa4"
+	],
+	tasks: [{
+		uid: "63892f32",
+		type: "item",
+		items: [{
+			item: "minecraft:nether_wart"
+		}]
+	}],
+	rewards: [{
+		uid: "65ebb23d",
+		type: "item",
+		item: "bonsaitrees:bonsaipot 1 1"
+	}]
+}

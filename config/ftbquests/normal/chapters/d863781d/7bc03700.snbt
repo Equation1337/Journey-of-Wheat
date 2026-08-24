@@ -1,0 +1,20 @@
+{
+	x: -10.5d,
+	y: 2.0d,
+	dependencies: [
+		"b83890dc"
+	],
+	tasks: [{
+		uid: "cc919847",
+		type: "item",
+		items: [{
+			item: "magneticraft:crafting 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "b8766c35",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

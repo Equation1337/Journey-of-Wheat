@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: -6.5d,
+	dependencies: [
+		"c614a9a4"
+	],
+	tasks: [{
+		uid: "892c5cf5",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:satelliteidchip"
+		}]
+	}]
+}

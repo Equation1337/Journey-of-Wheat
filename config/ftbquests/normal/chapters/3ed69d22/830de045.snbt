@@ -1,0 +1,19 @@
+{
+	x: -0.5d,
+	y: 10.0d,
+	dependencies: [
+		"0fb18134"
+	],
+	tasks: [{
+		uid: "b669d3df",
+		type: "item",
+		items: [{
+			item: "essentialcraft:magiciantable"
+		}]
+	}],
+	rewards: [{
+		uid: "5af8c99b",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

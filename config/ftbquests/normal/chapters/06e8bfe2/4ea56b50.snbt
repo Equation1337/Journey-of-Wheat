@@ -1,0 +1,17 @@
+{
+	title: "咋瓦鲁多",
+	x: -1.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "aff60928",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockbore"
+		}]
+	}],
+	rewards: [{
+		uid: "b679c645",
+		type: "item",
+		item: "astralsorcery:itemcraftingcomponent 1 4"
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -7.0d,
+	y: 0.0d,
+	dependencies: [
+		"6bfbbda6"
+	],
+	tasks: [{
+		uid: "306b737b",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:thermopneumatic_processing_plant"
+		}]
+	}],
+	rewards: [{
+		uid: "03033e6e",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

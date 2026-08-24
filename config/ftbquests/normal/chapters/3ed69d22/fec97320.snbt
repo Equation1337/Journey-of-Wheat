@@ -1,0 +1,23 @@
+{
+	x: 14.5d,
+	y: 10.0d,
+	dependencies: [
+		"42abf99f"
+	],
+	tasks: [{
+		uid: "cf4ac203",
+		type: "item",
+		items: [{
+			tag: {
+				orb: "bloodmagic:archmage"
+			},
+			id: "bloodmagic:blood_orb"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9720fde8",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

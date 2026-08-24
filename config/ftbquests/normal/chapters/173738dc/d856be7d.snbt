@@ -1,0 +1,15 @@
+{
+	x: 3.5d,
+	y: -4.0d,
+	dependencies: [
+		"dc1fa512",
+		"24a311a0"
+	],
+	tasks: [{
+		uid: "dd4689da",
+		type: "item",
+		items: [{
+			item: "modularmachinery:nianheji_controller"
+		}]
+	}]
+}

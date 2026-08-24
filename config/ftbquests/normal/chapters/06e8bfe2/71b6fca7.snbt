@@ -1,0 +1,19 @@
+{
+	title: "生物群系 指南针×命名牌√",
+	x: 4.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "1c27b54b",
+		type: "item",
+		items: [{
+			item: "ancientspellcraft:enchanted_name_tag"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "679a0e6f",
+		type: "item",
+		item: "ancientspellcraft:enchanted_name_tag"
+	}]
+}

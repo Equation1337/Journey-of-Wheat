@@ -1,0 +1,20 @@
+{
+	x: 3.5d,
+	y: 1.5d,
+	dependencies: [
+		"c2d34510"
+	],
+	tasks: [{
+		uid: "9078ca51",
+		type: "item",
+		items: [{
+			item: "embers:ancient_motive_core"
+		}]
+	}],
+	rewards: [{
+		uid: "a7a646e9",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

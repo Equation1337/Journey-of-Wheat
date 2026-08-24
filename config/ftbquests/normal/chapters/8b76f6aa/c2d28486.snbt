@@ -1,0 +1,24 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	text: [
+		"用小刀刮苔石获得"
+	],
+	dependencies: [
+		"6f8697ca",
+		"5d71a01f"
+	],
+	tasks: [{
+		uid: "6a883d62",
+		type: "item",
+		items: [{
+			item: "roots:terra_moss"
+		}]
+	}],
+	rewards: [{
+		uid: "45dd900e",
+		type: "item",
+		item: "roots:terra_moss",
+		count: 3
+	}]
+}

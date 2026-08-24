@@ -1,0 +1,23 @@
+{
+	title: "并非剪刀",
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"0a3c8069"
+	],
+	tasks: [{
+		uid: "f3693e5d",
+		type: "item",
+		items: [{
+			item: "roots:runic_shears"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "65c8d468",
+		type: "item",
+		item: "roots:fey_leather",
+		random_bonus: 3
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -2.5d,
+	y: -11.0d,
+	dependencies: [
+		"ef4641a2"
+	],
+	tasks: [{
+		uid: "d9b37bee",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:ic"
+		}]
+	}]
+}

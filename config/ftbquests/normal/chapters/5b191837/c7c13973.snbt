@@ -1,0 +1,22 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	text: [
+		"活板印刷术"
+	],
+	dependencies: [
+		"442e246c"
+	],
+	tasks: [{
+		uid: "13107af0",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:pcb_blueprint"
+		}]
+	}],
+	rewards: [{
+		uid: "e6664169",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	x: 8.0d,
+	y: -4.5d,
+	text: [
+		"1.合成神秘粒神秘粒烧恶魔之血无限增产",
+		"2.套索套上恶魔丢刷怪笼自己产"
+	],
+	dependencies: [
+		"1f794fc3",
+		"0b6b6aad"
+	],
+	tasks: [{
+		uid: "2b712831",
+		type: "item",
+		items: [{
+			item: "lightningcraft:ingot 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "b5be331a",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 5.5d,
+	y: 8.5d,
+	dependencies: [
+		"d82c98de"
+	],
+	tasks: [{
+		uid: "a90a5ef8",
+		type: "checkmark",
+		title: "海尔纳世界"
+	}],
+	rewards: [{
+		uid: "8c291344",
+		type: "item",
+		item: {
+			tag: {},
+			id: "draconicevolution:dislocator_advanced"
+		}
+	}]
+}

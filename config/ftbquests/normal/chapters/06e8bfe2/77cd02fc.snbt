@@ -1,0 +1,17 @@
+{
+	title: "绝对方便的物流mod",
+	x: 4.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "68c678c9",
+		type: "item",
+		items: [{
+			item: "modularrouters:item_router"
+		}]
+	}],
+	rewards: [{
+		uid: "260eba94",
+		type: "item",
+		item: "modularrouters:item_router"
+	}]
+}

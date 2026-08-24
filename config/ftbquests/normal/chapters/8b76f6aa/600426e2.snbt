@@ -1,0 +1,24 @@
+{
+	title: "正如雪傀儡那样，人造烈焰人",
+	x: 10.5d,
+	y: 1.5d,
+	text: [
+		"值得一提的是，人造烈焰人只会掉落烈焰粉而非烈焰棒"
+	],
+	dependencies: [
+		"7cf02fa5"
+	],
+	tasks: [{
+		uid: "0a2fe28c",
+		type: "item",
+		items: [{
+			item: "botania:felpumpkin"
+		}]
+	}],
+	rewards: [{
+		uid: "c371433d",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

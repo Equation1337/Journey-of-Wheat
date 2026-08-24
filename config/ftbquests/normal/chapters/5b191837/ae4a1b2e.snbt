@@ -1,0 +1,19 @@
+{
+	x: -7.0d,
+	y: 12.0d,
+	dependencies: [
+		"7f4678a3"
+	],
+	tasks: [{
+		uid: "51d437c7",
+		type: "item",
+		items: [{
+			item: "enderio:block_experience_obelisk"
+		}]
+	}],
+	rewards: [{
+		uid: "b92b61b9",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

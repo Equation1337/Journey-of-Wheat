@@ -1,0 +1,14 @@
+{
+	x: -13.0d,
+	y: -6.5d,
+	dependencies: [
+		"f91b5bab"
+	],
+	tasks: [{
+		uid: "d7ca8b02",
+		type: "item",
+		items: [{
+			item: "modularmachinery:moni_factory_controller"
+		}]
+	}]
+}

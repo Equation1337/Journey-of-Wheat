@@ -1,0 +1,24 @@
+{
+	x: 6.5d,
+	y: 0.0d,
+	text: [
+		"bro喜欢往自己身上引雷我觉得不如psi"
+	],
+	dependencies: [
+		"c72f0e98"
+	],
+	tasks: [{
+		uid: "44f70cb9",
+		type: "item",
+		items: [{
+			item: "lightningcraft:golf_club_gold"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f2317827",
+		type: "item",
+		item: "draconicadditions:basic_shield_necklace"
+	}]
+}

@@ -1,0 +1,4986 @@
+{
+    "registryname": "stellar",
+    "localizedname": "#50eaff-ff66ff-ff6633恒星塌缩装置",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "color": "000000",
+    "parts": [
+        {
+            "x": 2,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 0,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 0,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "minecraft:end_rod@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:end_rod@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 0,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 6,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 14,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 0,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 6,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 7,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 0,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 0,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:end_rod@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_small_blocks@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@4"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@4"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 8,
+
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 16,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "minecraft:end_rod@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 10,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 16,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 16,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 16,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 16,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 0,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 13,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "minecraft:end_rod@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 10,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 16,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 16,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "minecraft:end_rod@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_small_blocks@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 16,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_small_blocks@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 16,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 2,
+            "z": 9,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 6,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 8,
+
+            "elements": [
+                "matteroverdrive:gravitational_anomaly@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 15,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_small_blocks@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_small_blocks@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:end_rod@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 9,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 11,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 10,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 10,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "z": 7,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 8,
+
+            "elements": [
+                "modularmachinery:blocksmartinterface"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 16,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "minecraft:end_rod@3"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 8,
+
+            "elements": [
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 2,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 6,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 7,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 6,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 16,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_small_blocks@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 12,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 14,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_small_blocks@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "minecraft:end_rod@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_small_blocks@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 10,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 13,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 13,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 9,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 15,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 16,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 16,
+
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 16,
+            "elements": [
+                "minecraft:end_rod@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 13,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 15,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 2,
+            "z": 7,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_small_blocks@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 15,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_small_blocks@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "z": 9,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 6,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 9,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:end_rod@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 10,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 14,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 10,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_small_blocks@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 0,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 14,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "rftoolsdim:dimensional_small_blocks@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:end_rod@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 0,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 7,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "libvulpes:advstructuremachine@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 8,
+
+            "elements": [
+                "appliedenergistics2:spatial_pylon@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "fluxnetworks:fluxblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "rftoolsdim:dimensional_pattern1_block@3"
+            ]
+        }
+    ]}

@@ -1,0 +1,6784 @@
+{
+    "registryname": "tokmak",
+    "localizedname": "§c托卡马克聚变反应堆",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "color": "FFFFFF",
+    "parts": [
+        {
+            "x": -11,
+            "y": 2,
+            "z": 15,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 20,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 21,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 22,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 23,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 22,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 21,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 2,
+            "z": 20,
+
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 16,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -2,
+            "z": 12,
+
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 23,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 23,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": 16,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 20,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 18,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -2,
+            "z": 20,
+
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 23,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 22,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 23,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 23,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 19,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 0,
+            "z": 12,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 21,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 19,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 3,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 17,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 23,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 20,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": 20,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 22,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 23,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 17,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 26,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 6,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 1,
+            "z": 17,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 21,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 21,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 22,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 23,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 17,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 22,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 24,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 25,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -2,
+            "z": 14,
+
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 23,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 22,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 24,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 24,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 24,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 22,
+
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 23,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 19,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 25,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 23,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 22,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 21,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 14,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 24,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 23,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 23,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 24,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 2,
+            "z": 12,
+
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 24,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 25,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 21,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 21,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 19,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 24,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 24,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 1,
+            "z": 16,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 24,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 24,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 2,
+            "z": 13,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 24,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 18,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "z": 6,
+
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 24,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 16,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 24,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 20,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 24,
+
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 1,
+            "z": 18,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -2,
+            "z": 12,
+
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 12,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 18,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 22,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 20,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 24,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 22,
+
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 24,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 18,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 25,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 24,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 24,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 20,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 24,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 26,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 23,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 18,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 21,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 21,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 24,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 24,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 1,
+            "z": 17,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 18,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "z": 21,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 25,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 24,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 18,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 25,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 2,
+            "z": 18,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 20,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 24,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 23,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 25,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 18,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 21,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 25,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 21,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 20,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 25,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 25,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 21,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 20,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 25,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 25,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 21,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 20,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "z": 19,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 21,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 2,
+            "z": 14,
+
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 17,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 21,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 21,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 20,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 21,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 21,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": 17,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 19,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 19,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 19,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 19,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 22,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 22,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 22,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 22,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 22,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 22,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 2,
+            "z": 13,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 17,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 23,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 19,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 22,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 22,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 2,
+            "z": 6,
+
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 6,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 23,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 22,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 22,
+
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 22,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 22,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 5,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 23,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 20,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 16,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 20,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 23,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 23,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": 18,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 22,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 19,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 22,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 24,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 23,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 20,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 24,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 23,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 24,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 23,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 17,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 22,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 21,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -2,
+            "z": 6,
+
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 20,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 12,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 18,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 23,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 24,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 18,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 24,
+
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 23,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 24,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 20,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 20,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 21,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 18,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 22,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 24,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 24,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 2,
+            "z": 14,
+
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 24,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 17,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 24,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 24,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 21,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 20,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 17,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": 18,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 2,
+            "z": 21,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 23,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 24,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 18,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 24,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 24,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 18,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 23,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 24,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 22,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 21,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 18,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 21,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 22,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 18,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 24,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 0,
+            "z": 17,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 19,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 25,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 22,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 22,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 22,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 26,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 21,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 17,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 19,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -2,
+            "z": 6,
+
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 21,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 23,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 19,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 7,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 17,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 22,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 17,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 23,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 21,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 19,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 16,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 14,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 0,
+            "z": 18,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 2,
+            "z": 16,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -2,
+            "z": 19,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 25,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 20,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 22,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 19,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "z": 20,
+
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 19,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 25,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 22,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -2,
+            "z": 20,
+
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 20,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 12,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 25,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 22,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 20,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 26,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 7,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": 17,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 24,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 22,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 24,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 25,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 18,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 22,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 24,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 22,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 18,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 22,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 18,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 22,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 22,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 18,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 24,
+
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 26,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 22,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 24,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 24,
+
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 23,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 17,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 18,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 22,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 2,
+            "z": 17,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 3,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 19,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 21,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": 19,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 17,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 23,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 2,
+            "z": 15,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 1,
+            "z": 16,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 2,
+            "z": 12,
+
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 2,
+            "z": 19,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 19,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 5,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 16,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 21,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 19,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -2,
+            "z": 19,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 21,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 17,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 19,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 21,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 21,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 14,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 25,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 21,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 23,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 23,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 22,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 1,
+            "z": 18,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 23,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 22,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 16,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 23,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 23,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 22,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 25,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 24,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 25,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 22,
+
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 0,
+            "z": 14,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -2,
+            "z": 14,
+
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 21,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 22,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 23,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 22,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 20,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "libvulpes:structuremachine@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 23,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 25,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 19,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 22,
+            "elements": [
+                "contenttweaker:dragon_coil@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "calculator:flawlessglass@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 20,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        }
+    ]}

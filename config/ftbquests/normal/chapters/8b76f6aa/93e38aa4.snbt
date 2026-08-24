@@ -1,0 +1,22 @@
+{
+	title: "地狱之旅",
+	x: 12.0d,
+	y: 0.0d,
+	text: [
+		"用烈焰网搭成地狱门的形状然后用嬗变仪式转化成黑曜石即可"
+	],
+	dependencies: [
+		"b5398839"
+	],
+	tasks: [{
+		uid: "36bf6011",
+		type: "dimension",
+		dim: -1
+	}],
+	rewards: [{
+		uid: "e8802767",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

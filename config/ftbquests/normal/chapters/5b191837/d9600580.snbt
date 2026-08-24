@@ -1,0 +1,32 @@
+{
+	title: "天华熔炉",
+	x: 13.0d,
+	y: 0.0d,
+	text: [
+		"核心置于其中心上",
+		"温度满了会炸"
+	],
+	dependencies: [
+		"c7e496e0"
+	],
+	tasks: [{
+		uid: "430e0036",
+		type: "item",
+		items: [{
+			item: "embers:block_dawnstone"
+		}],
+		count: 9L
+	},
+	{
+		uid: "b6e293e2",
+		type: "item",
+		items: [{
+			item: "aetherworks:forge_component"
+		}]
+	}],
+	rewards: [{
+		uid: "3f35e8cf",
+		type: "item",
+		item: "aetherworks:heat_dial"
+	}]
+}

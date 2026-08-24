@@ -1,0 +1,29 @@
+{
+	title: "水槽大能以水合道（",
+	x: 3.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "ca9e2d41",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:sink"
+		}]
+	}],
+	rewards: [{
+		uid: "8a736cb3",
+		type: "item",
+		item: {
+			tag: {
+				t: "f",
+				r: {
+					FluidName: "water",
+					Cnt: 1,
+					Count: 0,
+					Req: 0,
+					Craft: 0
+				}
+			},
+			id: "extendedae:infinity_cell"
+		}
+	}]
+}

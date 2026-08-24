@@ -1,0 +1,24 @@
+{
+	title: "没有最强的矛也没有最强的盾",
+	x: 1.0d,
+	y: 7.0d,
+	shape: "gear",
+	dependencies: [
+		"562d240b"
+	],
+	tasks: [{
+		uid: "8457203b",
+		type: "item",
+		items: [{
+			tag: {},
+			id: "mets:electric_life_support_ring"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7791201b",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

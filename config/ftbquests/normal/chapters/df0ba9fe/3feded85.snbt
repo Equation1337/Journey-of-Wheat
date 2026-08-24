@@ -1,0 +1,22 @@
+{
+	x: 3.5d,
+	y: 6.0d,
+	text: [
+		"神秘4还是神秘6？"
+	],
+	dependencies: [
+		"4073e63e"
+	],
+	tasks: [{
+		uid: "4b6d59e6",
+		type: "item",
+		items: [{
+			item: "thaumcraft:table_wood"
+		}]
+	}],
+	rewards: [{
+		uid: "e4aa0c72",
+		type: "item",
+		item: "thaumcraft:scribing_tools"
+	}]
+}

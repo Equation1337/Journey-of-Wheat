@@ -1,0 +1,14 @@
+{
+	x: 11.0d,
+	y: 3.5d,
+	dependencies: [
+		"ae106f76"
+	],
+	tasks: [{
+		uid: "efc9005a",
+		type: "item",
+		items: [{
+			item: "qmd:ring_accelerator_controller"
+		}]
+	}]
+}

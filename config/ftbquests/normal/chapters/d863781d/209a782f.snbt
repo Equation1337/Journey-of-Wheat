@@ -1,0 +1,23 @@
+{
+	x: 0.0d,
+	y: 2.0d,
+	text: [
+		"欧皇大抽奖"
+	],
+	dependencies: [
+		"d57d9d61"
+	],
+	tasks: [{
+		uid: "e29bd4a2",
+		type: "item",
+		items: [{
+			item: "psi:material 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "08dd6358",
+		type: "item",
+		item: "psi:material 1 5",
+		random_bonus: 64
+	}]
+}

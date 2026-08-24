@@ -1,0 +1,23 @@
+{
+	x: -3.5d,
+	y: -0.5d,
+	shape: "hexagon",
+	text: [
+		"此章任务损坏懒得修"
+	],
+	dependencies: [
+		"d2c8333c"
+	],
+	tasks: [{
+		uid: "2764be02",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 52"
+		}]
+	}],
+	rewards: [{
+		uid: "bf36408e",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

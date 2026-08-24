@@ -1,0 +1,16 @@
+{
+	title: "晶体电路板-灰",
+	x: 5.0d,
+	y: 2.0d,
+	dependencies: [
+		"babd468e",
+		"321b2074"
+	],
+	tasks: [{
+		uid: "ebffbc1d",
+		type: "item",
+		items: [{
+			item: "contenttweaker:cir_gray"
+		}]
+	}]
+}

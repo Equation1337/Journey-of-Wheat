@@ -1,0 +1,19 @@
+{
+	x: -9.0d,
+	y: -4.0d,
+	dependencies: [
+		"e84f85cf"
+	],
+	tasks: [{
+		uid: "683a45b3",
+		type: "item",
+		items: [{
+			item: "buildcraftfactory:pump"
+		}]
+	}],
+	rewards: [{
+		uid: "0189ed78",
+		type: "item",
+		item: "buildcraftfactory:tank"
+	}]
+}

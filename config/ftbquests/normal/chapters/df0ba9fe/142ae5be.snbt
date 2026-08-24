@@ -1,0 +1,20 @@
+{
+	x: 3.5d,
+	y: 3.0d,
+	dependencies: [
+		"c2d34510"
+	],
+	tasks: [{
+		uid: "bd43e0bc",
+		type: "item",
+		items: [{
+			item: "embers:intelligent_apparatus"
+		}]
+	}],
+	rewards: [{
+		uid: "cc0458cd",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

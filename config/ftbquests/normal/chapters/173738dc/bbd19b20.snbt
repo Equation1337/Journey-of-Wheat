@@ -1,0 +1,16 @@
+{
+	title: "晶体电路板-棕",
+	x: 6.5d,
+	y: 0.5d,
+	dependencies: [
+		"babd468e",
+		"321b2074"
+	],
+	tasks: [{
+		uid: "d5aa940c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:cir_brown"
+		}]
+	}]
+}

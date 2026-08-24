@@ -1,0 +1,32 @@
+{
+	title: "彩虹源质",
+	x: 3.5d,
+	y: 0.0d,
+	text: [
+		"这就是色素",
+		"投入的塑料要彩虹七种颜色的"
+	],
+	dependencies: [
+		"9a48b81e",
+		"817a5fac",
+		"201a4531"
+	],
+	tasks: [{
+		uid: "8971ac8d",
+		type: "item",
+		items: [{
+			tag: {
+				Amount: 1000,
+				FluidName: "rainbow"
+			},
+			id: "forge:bucketfilled"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e07eaf53",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

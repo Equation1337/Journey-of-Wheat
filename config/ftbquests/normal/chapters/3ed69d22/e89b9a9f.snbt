@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: 4.0d,
+	dependencies: [
+		"e5b0f1c6"
+	],
+	tasks: [{
+		uid: "e5a69d85",
+		type: "item",
+		items: [{
+			item: "ic2:nuclear 1 7"
+		}]
+	}],
+	rewards: [{
+		uid: "34da0aad",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

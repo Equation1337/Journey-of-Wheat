@@ -1,0 +1,21 @@
+{
+	title: "概率较低，建议最好种植一下",
+	x: 1.5d,
+	y: 3.0d,
+	dependencies: [
+		"42f471f3"
+	],
+	tasks: [{
+		uid: "2a2caa43",
+		type: "item",
+		items: [{
+			item: "roots:wildroot"
+		}]
+	}],
+	rewards: [{
+		uid: "800c1f1e",
+		type: "item",
+		item: "roots:wildroot",
+		random_bonus: 3
+	}]
+}

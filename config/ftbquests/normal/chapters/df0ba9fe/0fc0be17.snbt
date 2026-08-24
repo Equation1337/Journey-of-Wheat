@@ -1,0 +1,23 @@
+{
+	x: 11.0d,
+	y: -4.5d,
+	text: [
+		"本mod的核心工作台"
+	],
+	dependencies: [
+		"c5746afc"
+	],
+	tasks: [{
+		uid: "e073a9ad",
+		type: "item",
+		items: [{
+			item: "refraction:assembly_table"
+		}]
+	}],
+	rewards: [{
+		uid: "b4f66716",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

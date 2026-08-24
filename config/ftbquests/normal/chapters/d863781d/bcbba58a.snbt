@@ -1,0 +1,23 @@
+{
+	x: -12.0d,
+	y: -1.0d,
+	text: [
+		"二倍矿照亮世界"
+	],
+	dependencies: [
+		"08e026b9"
+	],
+	tasks: [{
+		uid: "9c380a62",
+		type: "item",
+		items: [{
+			item: "magneticraft:grinder"
+		}]
+	}],
+	rewards: [{
+		uid: "9c03a674",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

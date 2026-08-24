@@ -1,0 +1,19 @@
+{
+	x: -5.5d,
+	y: 4.5d,
+	dependencies: [
+		"4973e058"
+	],
+	tasks: [{
+		uid: "151cae74",
+		type: "item",
+		items: [{
+			item: "enderio:item_material"
+		}]
+	}],
+	rewards: [{
+		uid: "b3b863f4",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

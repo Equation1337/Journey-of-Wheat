@@ -1,0 +1,22 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	text: [
+		"哥们你一个灯箱怎么还能通气亮的"
+	],
+	dependencies: [
+		"c7c13973"
+	],
+	tasks: [{
+		uid: "61d9ab93",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:uv_light_box"
+		}]
+	}],
+	rewards: [{
+		uid: "4d8f6135",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

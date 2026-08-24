@@ -1,0 +1,14 @@
+{
+	x: -2.5d,
+	y: -3.5d,
+	dependencies: [
+		"87d88a9d"
+	],
+	tasks: [{
+		uid: "ecaa2a36",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_ore"
+		}]
+	}]
+}

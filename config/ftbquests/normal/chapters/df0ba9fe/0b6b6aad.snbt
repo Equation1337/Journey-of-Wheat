@@ -1,0 +1,20 @@
+{
+	x: 8.0d,
+	y: -3.0d,
+	dependencies: [
+		"22e7b553"
+	],
+	tasks: [{
+		uid: "4003bec7",
+		type: "item",
+		items: [{
+			item: "lightningcraft:ingot 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "140f76fa",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

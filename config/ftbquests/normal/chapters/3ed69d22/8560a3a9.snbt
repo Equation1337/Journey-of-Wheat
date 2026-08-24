@@ -1,0 +1,22 @@
+{
+	title: "物质扭曲仪",
+	x: 1.0d,
+	y: 4.0d,
+	shape: "gear",
+	dependencies: [
+		"a64bbc57",
+		"161f4dd8"
+	],
+	tasks: [{
+		uid: "47afa114",
+		type: "item",
+		items: [{
+			item: "modularmachinery:uu_factory_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "c2f9a0a3",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

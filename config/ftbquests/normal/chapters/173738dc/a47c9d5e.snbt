@@ -1,0 +1,15 @@
+{
+	title: "海珀珍线圈",
+	x: 18.5d,
+	y: -1.0d,
+	dependencies: [
+		"eeb08606"
+	],
+	tasks: [{
+		uid: "a04a15b7",
+		type: "item",
+		items: [{
+			item: "contenttweaker:haipozhen_coil"
+		}]
+	}]
+}

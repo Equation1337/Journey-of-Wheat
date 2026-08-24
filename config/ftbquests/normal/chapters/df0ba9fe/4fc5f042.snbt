@@ -1,0 +1,25 @@
+{
+	x: 11.0d,
+	y: 0.0d,
+	dependencies: [
+		"1c67de4f",
+		"b2ace3c4",
+		"2b8997bc"
+	],
+	tasks: [{
+		uid: "43a6d4b5",
+		type: "item",
+		items: [{
+			tag: {},
+			id: "calculator:scientificcalculator"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "21bfb061",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

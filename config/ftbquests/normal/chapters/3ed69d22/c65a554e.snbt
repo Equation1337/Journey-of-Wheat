@@ -1,0 +1,24 @@
+{
+	x: 5.5d,
+	y: 7.0d,
+	dependencies: [
+		"273f2b7a"
+	],
+	tasks: [{
+		uid: "a0354a75",
+		type: "item",
+		items: [{
+			item: "bloodmagic:altar"
+		}]
+	}],
+	rewards: [{
+		uid: "c1c734cd",
+		type: "item",
+		item: "guideapi:bloodmagic-guide"
+	},
+	{
+		uid: "3d90885a",
+		type: "item",
+		item: "bloodmagic:sanguine_book"
+	}]
+}

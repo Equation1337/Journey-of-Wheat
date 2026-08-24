@@ -1,0 +1,19 @@
+{
+	x: -1.0d,
+	y: -4.5d,
+	dependencies: [
+		"e8a2b783"
+	],
+	tasks: [{
+		uid: "f734f750",
+		type: "checkmark",
+		title: "用于获取种子油",
+		icon: "immersiveengineering:metal_multiblock 1 7"
+	}],
+	rewards: [{
+		uid: "4d648d51",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

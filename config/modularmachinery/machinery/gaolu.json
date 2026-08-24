@@ -1,0 +1,359 @@
+{
+    "registryname": "gaolu",
+    "localizedname": "§b工业高炉",
+    "failure-action": "decrease",
+    "requires-blueprint": false,
+    "has-factory": false,
+    "color": "3CB371",
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0",
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2",
+                "contenttweaker:star_coil", "contenttweaker:infinity_coil", "contenttweaker:dragon_coil"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2",
+                "contenttweaker:star_coil", "contenttweaker:infinity_coil", "contenttweaker:dragon_coil"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2",
+                "contenttweaker:star_coil", "contenttweaker:infinity_coil", "contenttweaker:dragon_coil"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0",
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2",
+                "contenttweaker:star_coil", "contenttweaker:infinity_coil", "contenttweaker:dragon_coil"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2",
+                "contenttweaker:star_coil", "contenttweaker:infinity_coil", "contenttweaker:dragon_coil"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2",
+                "contenttweaker:star_coil", "contenttweaker:infinity_coil", "contenttweaker:dragon_coil"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2",
+                "contenttweaker:star_coil", "contenttweaker:infinity_coil", "contenttweaker:dragon_coil"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2",
+                "contenttweaker:star_coil", "contenttweaker:infinity_coil", "contenttweaker:dragon_coil"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2",
+                "contenttweaker:star_coil", "contenttweaker:infinity_coil", "contenttweaker:dragon_coil"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0",
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0",
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0",
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2",
+                "contenttweaker:star_coil", "contenttweaker:infinity_coil", "contenttweaker:dragon_coil"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2",
+                "contenttweaker:star_coil", "contenttweaker:infinity_coil", "contenttweaker:dragon_coil"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2",
+                "contenttweaker:star_coil", "contenttweaker:infinity_coil", "contenttweaker:dragon_coil"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2",
+                "contenttweaker:star_coil", "contenttweaker:infinity_coil", "contenttweaker:dragon_coil"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "mets:titanium_scaffold@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2",
+                "contenttweaker:star_coil", "contenttweaker:infinity_coil", "contenttweaker:dragon_coil"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2",
+                "contenttweaker:star_coil", "contenttweaker:infinity_coil", "contenttweaker:dragon_coil"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2",
+                "contenttweaker:star_coil", "contenttweaker:infinity_coil", "contenttweaker:dragon_coil"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0",
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0",
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        }
+    ]}

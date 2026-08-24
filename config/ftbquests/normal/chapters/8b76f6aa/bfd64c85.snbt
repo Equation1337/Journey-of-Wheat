@@ -1,0 +1,35 @@
+{
+	x: -1.5d,
+	y: 1.5d,
+	dependencies: [
+		"40c86888",
+		"5b8ada2b",
+		"771e1417",
+		"479ac679",
+		"b1724f27"
+	],
+	tasks: [{
+		uid: "8ed9135c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderMost: 12300L,
+					AS_Amulet_HolderLeast: -7220265544684617936L
+				}
+			},
+			tag: {
+				spell_storage: {
+					s: "roots:spell_chrysopoeia"
+				}
+			},
+			id: "roots:spell_dust"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "73adb7f6",
+		type: "item",
+		item: "roots:imbuer"
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -1.0d,
+	y: 10.5d,
+	dependencies: [
+		"abe1589f"
+	],
+	tasks: [{
+		uid: "061bc931",
+		type: "item",
+		items: [{
+			item: "ae2fc:part_fluid_pattern_ex_terminal"
+		}]
+	}],
+	rewards: [{
+		uid: "abde36d9",
+		type: "item",
+		item: "appliedenergistics2:material 1 58"
+	}]
+}

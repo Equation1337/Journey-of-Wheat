@@ -1,0 +1,33 @@
+{
+	x: 17.5d,
+	y: 1.5d,
+	text: [
+		"后期当两个圣杯邻近时其中一个至少拥有4000纯净天华（概率消耗）另一个至少拥有6000的星能液时消耗星能液产出水晶石矿石"
+	],
+	dependencies: [
+		"7dea67d5",
+		"4257623c"
+	],
+	tasks: [{
+		uid: "fb37b706",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockcustomore"
+		}]
+	}],
+	rewards: [{
+		uid: "76dc272e",
+		type: "item",
+		item: {
+			tag: {
+				astralsorcery: {}
+			},
+			id: "astralsorcery:itemwand"
+		}
+	},
+	{
+		uid: "ad7fc698",
+		type: "item",
+		item: "astralsorcery:itemjournal"
+	}]
+}

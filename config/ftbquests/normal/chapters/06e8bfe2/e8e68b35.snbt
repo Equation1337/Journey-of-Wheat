@@ -1,0 +1,49 @@
+{
+	title: "来自异星的神秘ae科技",
+	x: -4.5d,
+	y: -4.0d,
+	tasks: [{
+		uid: "c3b9515f",
+		type: "item",
+		items: [{
+			item: "modularmachinery:eco_factory_controller"
+		}]
+	},
+	{
+		uid: "368c9147",
+		type: "item",
+		items: [{
+			item: "novaeng_core:extendable_digital_storage_subsystem_l4"
+		}]
+	},
+	{
+		uid: "25135f9b",
+		type: "item",
+		items: [{
+			item: "novaeng_core:extendable_fabricator_subsystem_l4"
+		}]
+	},
+	{
+		uid: "57d7f7df",
+		type: "item",
+		items: [{
+			item: "novaeng_core:extendable_calculator_subsystem_l4"
+		}]
+	}],
+	rewards: [{
+		uid: "fd1738bd",
+		type: "item",
+		item: {
+			tag: {},
+			id: "novaeng_core:estorage_cell_item_16m"
+		}
+	},
+	{
+		uid: "dfb2e323",
+		type: "item",
+		item: {
+			tag: {},
+			id: "novaeng_core:estorage_cell_fluid_16m"
+		}
+	}]
+}

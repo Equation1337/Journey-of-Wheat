@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "3a4230fb",
+		type: "item",
+		items: [{
+			item: "modularmachinery:sun_controller"
+		}]
+	}]
+}

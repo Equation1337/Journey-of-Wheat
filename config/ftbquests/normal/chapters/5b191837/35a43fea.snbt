@@ -1,0 +1,19 @@
+{
+	x: -8.5d,
+	y: 9.0d,
+	dependencies: [
+		"74089825"
+	],
+	tasks: [{
+		uid: "a4ee4d0f",
+		type: "item",
+		items: [{
+			item: "enderio:block_enhanced_vat"
+		}]
+	}],
+	rewards: [{
+		uid: "57ea8773",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

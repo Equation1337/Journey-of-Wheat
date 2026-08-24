@@ -1,0 +1,19 @@
+{
+	title: "用于制作乙醇",
+	icon: "immersiveengineering:metal_multiblock 1 8",
+	x: -1.0d,
+	y: -3.0d,
+	dependencies: [
+		"e8a2b783"
+	],
+	tasks: [{
+		uid: "33aea2af",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "0b47314d",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

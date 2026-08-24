@@ -1,0 +1,30 @@
+{
+	title: "无神论者",
+	x: 6.5d,
+	y: -6.0d,
+	text: [
+		"击败下界的恶魔士兵获得"
+	],
+	dependencies: [
+		"93e38aa4"
+	],
+	tasks: [{
+		uid: "d4d0610a",
+		type: "item",
+		items: [{
+			item: "lightningcraft:material 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "faac559f",
+		type: "item",
+		item: {
+			tag: {
+				EntityTag: {
+					id: "lightningcraft:demon_soldier"
+				}
+			},
+			id: "minecraft:spawn_egg"
+		}
+	}]
+}

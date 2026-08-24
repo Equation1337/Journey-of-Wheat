@@ -1,0 +1,19 @@
+{
+	x: -3.5d,
+	y: 4.0d,
+	dependencies: [
+		"de85941c"
+	],
+	tasks: [{
+		uid: "0bfabfa7",
+		type: "item",
+		items: [{
+			item: "frogcraftrebirth:intermediate_product 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "ed92532e",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

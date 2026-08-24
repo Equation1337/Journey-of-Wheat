@@ -1,0 +1,23 @@
+{
+	x: 1.5d,
+	y: 4.5d,
+	text: [
+		"右键临近水源的圆石可变苔石"
+	],
+	dependencies: [
+		"42f471f3"
+	],
+	tasks: [{
+		uid: "1c866257",
+		type: "item",
+		items: [{
+			item: "roots:terra_spores"
+		}]
+	}],
+	rewards: [{
+		uid: "9a026b79",
+		type: "item",
+		item: "roots:terra_spores",
+		random_bonus: 3
+	}]
+}

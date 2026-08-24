@@ -1,0 +1,19 @@
+{
+	x: -5.5d,
+	y: 1.5d,
+	dependencies: [
+		"e0927cf6"
+	],
+	tasks: [{
+		uid: "014966ca",
+		type: "item",
+		items: [{
+			item: "enderio:item_capacitor_crystalline"
+		}]
+	}],
+	rewards: [{
+		uid: "3f232f32",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

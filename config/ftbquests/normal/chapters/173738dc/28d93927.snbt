@@ -1,0 +1,15 @@
+{
+	x: 8.0d,
+	y: 2.0d,
+	dependencies: [
+		"088cdbd4",
+		"a9357edf"
+	],
+	tasks: [{
+		uid: "f4adea7e",
+		type: "item",
+		items: [{
+			item: "qmd:semiconductor 1 4"
+		}]
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: 8.0d,
+	y: 0.0d,
+	text: [
+		"雷电锭的合成查找jei",
+		"懒得查就是铁锭金锭钻石雷劈一下"
+	],
+	dependencies: [
+		"530e2656"
+	],
+	tasks: [{
+		uid: "9938e1b5",
+		type: "item",
+		items: [{
+			item: "lightningcraft:lightning_cell"
+		}]
+	}],
+	rewards: [{
+		uid: "d37ee16b",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

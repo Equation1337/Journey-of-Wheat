@@ -1,0 +1,56 @@
+{
+	title: "万用懒人ae",
+	x: 0.5d,
+	y: 7.5d,
+	dependencies: [
+		"46217b23"
+	],
+	tasks: [{
+		uid: "de67573a",
+		type: "item",
+		items: [{
+			item: "threng:machine"
+		}]
+	},
+	{
+		uid: "5996ed0c",
+		type: "item",
+		items: [{
+			item: "threng:machine 1 1"
+		}]
+	},
+	{
+		uid: "6b5c382b",
+		type: "item",
+		items: [{
+			item: "threng:machine 1 2"
+		}]
+	},
+	{
+		uid: "9d05f31c",
+		type: "item",
+		items: [{
+			item: "threng:machine 1 5"
+		}]
+	},
+	{
+		uid: "187bfa03",
+		type: "item",
+		items: [{
+			item: "modularmachinery:yayin_controller"
+		}],
+		only_from_crafting: 0b
+	},
+	{
+		uid: "025ed2b7",
+		type: "item",
+		items: [{
+			item: "modularmachinery:jingti_factory_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "2f4845bb",
+		type: "item",
+		item: "appliedenergistics2:material 1 58"
+	}]
+}

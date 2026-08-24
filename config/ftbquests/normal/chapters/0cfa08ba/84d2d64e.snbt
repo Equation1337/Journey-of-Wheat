@@ -1,0 +1,16 @@
+{
+	title: "魔力促生园林",
+	x: -1.0d,
+	y: -0.5d,
+	dependencies: [
+		"dc7a633b",
+		"eb193d83"
+	],
+	tasks: [{
+		uid: "22bd58da",
+		type: "item",
+		items: [{
+			item: "modularmachinery:flower_factory_controller"
+		}]
+	}]
+}

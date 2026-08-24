@@ -1,0 +1,20 @@
+{
+	title: "记得附魔时运哦",
+	x: 13.5d,
+	y: 0.0d,
+	dependencies: [
+		"93e38aa4"
+	],
+	tasks: [{
+		uid: "63e8830f",
+		type: "item",
+		items: [{
+			item: "minecraft:skull 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "3baa9e53",
+		type: "item",
+		item: "minecraft:skull 1 1"
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: 13.0d,
+	y: 10.0d,
+	dependencies: [
+		"760a44c1"
+	],
+	tasks: [{
+		uid: "8b18ca97",
+		type: "item",
+		items: [{
+			item: "bloodmagic:ritual_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "ce01ec2c",
+		type: "item",
+		item: "bloodmagic:ritual_diviner 1 1"
+	},
+	{
+		uid: "dee5ac9e",
+		type: "item",
+		item: "bloodmagic:activation_crystal 1 1"
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 2.5d,
+	y: 5.5d,
+	shape: "hexagon",
+	dependencies: [
+		"91fd10fe"
+	],
+	tasks: [{
+		uid: "1ae25de0",
+		type: "item",
+		items: [{
+			item: "mets:neutron_plate"
+		}]
+	}],
+	rewards: [{
+		uid: "10675b20",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

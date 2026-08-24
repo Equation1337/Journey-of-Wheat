@@ -1,0 +1,19 @@
+{
+	x: -0.5d,
+	y: 1.0d,
+	dependencies: [
+		"67fed0b1"
+	],
+	tasks: [{
+		uid: "8c50565a",
+		type: "item",
+		items: [{
+			item: "fm:coaxium_ore"
+		}]
+	}],
+	rewards: [{
+		uid: "f50aedc1",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

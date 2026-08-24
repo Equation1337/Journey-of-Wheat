@@ -1,0 +1,32 @@
+{
+	title: "完全干爆了伪合成",
+	x: 1.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "5ffe450f",
+		type: "item",
+		items: [{
+			item: "packagedauto:encoder"
+		}]
+	},
+	{
+		uid: "c8bb6549",
+		type: "item",
+		items: [{
+			item: "packagedauto:packager"
+		}]
+	},
+	{
+		uid: "de3f87c9",
+		type: "item",
+		items: [{
+			item: "packagedauto:unpackager"
+		}]
+	}],
+	rewards: [{
+		uid: "e547187a",
+		type: "item",
+		item: "packagedauto:recipe_holder",
+		count: 2
+	}]
+}

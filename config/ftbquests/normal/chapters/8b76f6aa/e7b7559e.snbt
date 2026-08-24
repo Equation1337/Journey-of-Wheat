@@ -1,0 +1,24 @@
+{
+	title: "寻找烈焰人刷怪笼即可",
+	x: 12.0d,
+	y: 1.5d,
+	text: [
+		"获取烈焰棒后可以用烈焰棒右键石英块来获取烈焰网"
+	],
+	dependencies: [
+		"93e38aa4"
+	],
+	tasks: [{
+		uid: "7e89bc9b",
+		type: "item",
+		items: [{
+			item: "minecraft:blaze_rod"
+		}]
+	}],
+	rewards: [{
+		uid: "6d721fae",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

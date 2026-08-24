@@ -1,0 +1,21 @@
+{
+	x: 6.5d,
+	y: 6.0d,
+	dependencies: [
+		"b39703bb",
+		"d550daa7"
+	],
+	tasks: [{
+		uid: "4863c464",
+		type: "item",
+		items: [{
+			item: "extrautils2:unstableingots"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "23b7a0d7",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

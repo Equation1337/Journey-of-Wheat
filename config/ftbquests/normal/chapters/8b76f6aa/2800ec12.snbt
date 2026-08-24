@@ -1,0 +1,24 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	text: [
+		"记得用熔炉先把圆石烧成石头",
+		""
+	],
+	dependencies: [
+		"36915105"
+	],
+	tasks: [{
+		uid: "e8b0d35e",
+		type: "item",
+		items: [{
+			item: "botania:livingrock"
+		}]
+	}],
+	rewards: [{
+		uid: "df3e1bc5",
+		type: "item",
+		item: "botania:livingrock",
+		random_bonus: 6
+	}]
+}

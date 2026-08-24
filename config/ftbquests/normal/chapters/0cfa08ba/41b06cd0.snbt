@@ -1,0 +1,22 @@
+{
+	title: "火箭",
+	x: -8.5d,
+	y: -9.5d,
+	dependencies: [
+		"a79a51c4"
+	],
+	tasks: [{
+		uid: "8ff9a924",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:rocketmotor"
+		}]
+	},
+	{
+		uid: "5f6b4b6b",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:seat"
+		}]
+	}]
+}

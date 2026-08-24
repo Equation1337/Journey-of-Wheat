@@ -1,0 +1,25 @@
+{
+	x: -6.5d,
+	y: 1.0d,
+	dependencies: [
+		"571c0256"
+	],
+	tasks: [{
+		uid: "25eb67c6",
+		type: "item",
+		items: [{
+			tag: {
+				Amount: 1000,
+				FluidName: "coal_tar"
+			},
+			id: "forge:bucketfilled"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2c28c40a",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

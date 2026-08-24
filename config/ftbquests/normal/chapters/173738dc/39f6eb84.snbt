@@ -1,0 +1,17 @@
+{
+	x: -1.0d,
+	y: 0.5d,
+	dependencies: [
+		"3d8dfd71",
+		"12073abd",
+		"47ed6632"
+	],
+	tasks: [{
+		uid: "c8c96f94",
+		type: "item",
+		items: [{
+			item: "calculator:circuitboard"
+		}],
+		ignore_nbt: 1b
+	}]
+}

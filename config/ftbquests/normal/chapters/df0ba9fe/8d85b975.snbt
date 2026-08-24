@@ -1,0 +1,22 @@
+{
+	x: 2.0d,
+	y: -4.5d,
+	text: [
+		"钢板右键铁板金属"
+	],
+	dependencies: [
+		"ee304cdb"
+	],
+	tasks: [{
+		uid: "8a16a452",
+		type: "item",
+		items: [{
+			item: "ic2:resource 1 12"
+		}]
+	}],
+	rewards: [{
+		uid: "a201bc80",
+		type: "item",
+		item: "ic2:forge_hammer"
+	}]
+}

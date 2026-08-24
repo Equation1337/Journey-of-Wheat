@@ -1,0 +1,20 @@
+{
+	title: "Chapter 5:革命——驱动发展",
+	icon: "mets:field_generator",
+	always_invisible: 0b,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: -8.5d,
+		y: 1.0d,
+		width: 3.0d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "contenttweaker:textures/items/lengning.png",
+		hover: [
+			"冷凝塔结构，出口可加2-5个"
+		],
+		click: "",
+		dev: 0b
+	}]
+}

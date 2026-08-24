@@ -1,0 +1,14 @@
+{
+	x: -3.0d,
+	y: -4.0d,
+	dependencies: [
+		"2dff61bc"
+	],
+	tasks: [{
+		uid: "bb49a583",
+		type: "item",
+		items: [{
+			item: "modularmachinery:wither_controller"
+		}]
+	}]
+}

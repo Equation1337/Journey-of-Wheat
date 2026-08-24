@@ -1,0 +1,32 @@
+{
+	x: 4.5d,
+	y: -1.5d,
+	text: [
+		"你可以选择花时间来获得这个无法破坏的套索",
+		"或者你也可以自己制作普通的套索,当然你也可以选择建造刷怪塔而不使用此mod的刷怪笼",
+		"依据个人喜好即可"
+	],
+	can_repeat: 1b,
+	dependencies: [
+		"5b8bf7c3"
+	],
+	tasks: [{
+		uid: "e4c91bc7",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 32768L,
+		consume_items: 1b
+	}],
+	rewards: [{
+		uid: "3d85d406",
+		type: "item",
+		item: {
+			tag: {
+				Unbreakable: 1b
+			},
+			id: "tinymobfarm:lasso"
+		}
+	}]
+}

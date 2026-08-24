@@ -1,0 +1,28 @@
+{
+	x: -8.5d,
+	y: 1.5d,
+	shape: "hexagon",
+	text: [
+		"爆炸就是艺术"
+	],
+	dependencies: [
+		"40f83448"
+	],
+	tasks: [{
+		uid: "60b48468",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:ingot_iron_compressed"
+		}]
+	}],
+	rewards: [{
+		uid: "739028ca",
+		type: "item",
+		item: {
+			tag: {
+				"patchouli:book": "pneumaticcraft:book"
+			},
+			id: "patchouli:guide_book"
+		}
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "击败麦神",
+	x: 0.5d,
+	y: 0.0d,
+	text: [
+		"",
+		"不是没有贴图，不可视不可知，在历经万难之后你得以在时间长河之上窥见麦神的身影，你牺牲掉加速火把跨越时间长河并找到了诞生之初的麦神，用创造me元件将麦神收容其中，终于，一切都结束了"
+	],
+	dependencies: [
+		"535aa531",
+		"21833d96",
+		"c0e8f0d6",
+		"798eb629"
+	],
+	tasks: [{
+		uid: "00e6890d",
+		type: "item",
+		items: [{
+			item: "contenttweaker:wheat"
+		}]
+	}],
+	rewards: [{
+		uid: "f3ed83f7",
+		type: "item",
+		item: "contenttweaker:real_wheat"
+	}]
+}

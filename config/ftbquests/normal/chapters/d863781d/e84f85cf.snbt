@@ -1,0 +1,24 @@
+{
+	x: -7.5d,
+	y: 0.5d,
+	shape: "hexagon",
+	text: [
+		"可以用来制造电子管来加速林业机器的工作"
+	],
+	dependencies: [
+		"37c75e00",
+		"e89714b4"
+	],
+	tasks: [{
+		uid: "05c976b8",
+		type: "item",
+		items: [{
+			item: "forestry:fabricator"
+		}]
+	}],
+	rewards: [{
+		uid: "6028b3a6",
+		type: "item",
+		item: "forestry:soldering_iron"
+	}]
+}

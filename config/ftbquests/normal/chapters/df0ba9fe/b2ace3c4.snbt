@@ -1,0 +1,20 @@
+{
+	x: 11.0d,
+	y: -3.0d,
+	dependencies: [
+		"0fc0be17"
+	],
+	tasks: [{
+		uid: "978a5cc5",
+		type: "item",
+		items: [{
+			item: "efab:upgrade_digital"
+		}]
+	}],
+	rewards: [{
+		uid: "8417a187",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

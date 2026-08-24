@@ -1,0 +1,14 @@
+{
+	x: -7.0d,
+	y: -8.0d,
+	dependencies: [
+		"855ea445"
+	],
+	tasks: [{
+		uid: "fca63983",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:rocketbuilder"
+		}]
+	}]
+}

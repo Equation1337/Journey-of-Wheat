@@ -1,0 +1,23 @@
+{
+	x: 17.0d,
+	y: 3.0d,
+	dependencies: [
+		"48f5e09c"
+	],
+	tasks: [{
+		uid: "34450aa0",
+		type: "item",
+		items: [{
+			tag: {
+				type: "shulk_me_not"
+			},
+			id: "botania:specialflower"
+		}]
+	}],
+	rewards: [{
+		uid: "34b8d969",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

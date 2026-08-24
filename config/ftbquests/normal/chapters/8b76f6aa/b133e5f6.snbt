@@ -1,0 +1,23 @@
+{
+	title: "谁家青铜不用锡啊，因为这是炼金术",
+	x: -1.5d,
+	y: 4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"43d1bf0c",
+		"bfd64c85"
+	],
+	tasks: [{
+		uid: "1ec6f7d0",
+		type: "item",
+		items: [{
+			item: "ic2:ingot 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "5abccc79",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		count: 64
+	}]
+}

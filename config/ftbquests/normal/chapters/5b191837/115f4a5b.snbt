@@ -1,0 +1,19 @@
+{
+	x: -2.5d,
+	y: 12.0d,
+	dependencies: [
+		"9525b89e"
+	],
+	tasks: [{
+		uid: "e947bb12",
+		type: "item",
+		items: [{
+			item: "advanced_solar_panels:machines 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "a80eb56c",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

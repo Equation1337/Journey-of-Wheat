@@ -1,0 +1,26 @@
+{
+	title: "MRU",
+	x: -2.0d,
+	y: 10.0d,
+	dependencies: [
+		"61cc25e1",
+		"8ad52c54"
+	],
+	tasks: [{
+		uid: "2dc451a1",
+		type: "item",
+		items: [{
+			tag: {
+				tier: 1
+			},
+			id: "essentialcraft:research_book"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1d5932fc",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

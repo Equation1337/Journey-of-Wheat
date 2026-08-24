@@ -1,0 +1,20 @@
+{
+	x: 11.0d,
+	y: 6.0d,
+	dependencies: [
+		"447a9042"
+	],
+	tasks: [{
+		uid: "d909ca3b",
+		type: "item",
+		items: [{
+			item: "thaumcraft:ingot 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "792f2b58",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

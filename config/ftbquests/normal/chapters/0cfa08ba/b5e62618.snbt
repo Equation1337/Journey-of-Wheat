@@ -1,0 +1,14 @@
+{
+	x: -8.5d,
+	y: -2.0d,
+	dependencies: [
+		"75b7ad2c"
+	],
+	tasks: [{
+		uid: "0bd7fd18",
+		type: "item",
+		items: [{
+			item: "avaritia:cosmic_meatballs"
+		}]
+	}]
+}

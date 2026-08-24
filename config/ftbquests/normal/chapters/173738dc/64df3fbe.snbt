@@ -1,0 +1,14 @@
+{
+	x: 17.0d,
+	y: -1.0d,
+	dependencies: [
+		"10517f95"
+	],
+	tasks: [{
+		uid: "722d7de8",
+		type: "item",
+		items: [{
+			item: "modularmachinery:tokmak_factory_controller"
+		}]
+	}]
+}

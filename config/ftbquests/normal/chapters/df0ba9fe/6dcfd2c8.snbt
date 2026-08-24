@@ -1,0 +1,24 @@
+{
+	x: 14.0d,
+	y: 6.0d,
+	text: [
+		"研究前置是神秘进阶的元动矩阵",
+		"解锁研究之后仍然没有配方请尝试小退或大退游戏"
+	],
+	dependencies: [
+		"5e60c2c0"
+	],
+	tasks: [{
+		uid: "b60e827a",
+		type: "item",
+		items: [{
+			item: "botania:terraplate"
+		}]
+	}],
+	rewards: [{
+		uid: "e4ec2ec6",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

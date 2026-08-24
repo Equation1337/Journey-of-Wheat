@@ -1,0 +1,1 @@
+mods.extendedcrafting.CompressionCrafting.addRecipe(<contenttweaker:forest_bat>, <contenttweaker:youzi_charged>, 2333, <extendedcrafting:material:13>, 1919810);

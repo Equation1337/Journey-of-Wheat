@@ -1,0 +1,22 @@
+{
+	title: "五行之风",
+	x: 4.5d,
+	y: 4.5d,
+	dependencies: [
+		"3b3d4ea0",
+		"6971c438"
+	],
+	tasks: [{
+		uid: "76a48b1c",
+		type: "item",
+		items: [{
+			item: "roots:cloud_berry"
+		}]
+	}],
+	rewards: [{
+		uid: "09bc6fac",
+		type: "item",
+		item: "roots:elemental_soil_air",
+		random_bonus: 3
+	}]
+}

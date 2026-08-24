@@ -1,0 +1,19 @@
+{
+	x: -7.0d,
+	y: -6.0d,
+	shape: "square",
+	can_repeat: 1b,
+	dependencies: [
+		"47aeabd3"
+	],
+	tasks: [{
+		uid: "6b9d9a34",
+		type: "fluid",
+		fluid: "creosote"
+	}],
+	rewards: [{
+		uid: "edccb276",
+		type: "item",
+		item: "ic2:crafting 1 38"
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -6.5d,
+	y: 7.0d,
+	dependencies: [
+		"9922a369"
+	],
+	tasks: [{
+		uid: "3e3d7906",
+		type: "item",
+		items: [{
+			item: "mets:niobium_titanium_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "63de94b1",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

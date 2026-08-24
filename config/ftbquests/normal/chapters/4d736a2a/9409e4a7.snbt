@@ -1,0 +1,35 @@
+{
+	x: -1.0d,
+	y: -1.5d,
+	text: [
+		"加速火把需要在研究台中研究，用加速火把右键柚子树苗制作充能柚子树苗"
+	],
+	tasks: [{
+		uid: "56e836c7",
+		type: "item",
+		items: [{
+			item: "torcherino:blocktorcherino"
+		}],
+		consume_items: 1b
+	},
+	{
+		uid: "03d8ba02",
+		type: "item",
+		items: [{
+			item: "researchtable:table"
+		}]
+	},
+	{
+		uid: "be19e951",
+		type: "item",
+		items: [{
+			item: "treetweaker:youzi"
+		}],
+		consume_items: 1b
+	}],
+	rewards: [{
+		uid: "25cce91c",
+		type: "item",
+		item: "treetweaker:youzi_charged"
+	}]
+}

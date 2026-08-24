@@ -1,0 +1,17 @@
+{
+	title: "更高！更快！更强！",
+	x: 0.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "f2fee9c0",
+		type: "item",
+		items: [{
+			item: "snad:snad"
+		}]
+	}],
+	rewards: [{
+		uid: "c190d676",
+		type: "item",
+		item: "minecraft:reeds"
+	}]
+}

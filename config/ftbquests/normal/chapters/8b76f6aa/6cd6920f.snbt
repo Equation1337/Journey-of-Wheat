@@ -1,0 +1,25 @@
+{
+	title: "做不了打火石？",
+	x: 12.0d,
+	y: -1.5d,
+	text: [
+		"不必麻烦的引火，火焰弹可以发射",
+		"ps:其实两个木棍就能引火hhh"
+	],
+	dependencies: [
+		"b5398839"
+	],
+	tasks: [{
+		uid: "1e4479b3",
+		type: "item",
+		items: [{
+			item: "minecraft:fire_charge"
+		}]
+	}],
+	rewards: [{
+		uid: "791bb376",
+		type: "item",
+		item: "minecraft:fire_charge",
+		random_bonus: 5
+	}]
+}

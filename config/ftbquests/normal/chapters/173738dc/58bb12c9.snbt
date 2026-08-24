@@ -1,0 +1,17 @@
+{
+	x: 14.0d,
+	y: 0.5d,
+	text: [
+		"将四个充能龙块摆在地上，龙心丢在上面进行合成"
+	],
+	dependencies: [
+		"9ddc99f0"
+	],
+	tasks: [{
+		uid: "486cb4fd",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_block"
+		}]
+	}]
+}

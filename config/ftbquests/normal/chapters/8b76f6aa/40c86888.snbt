@@ -1,0 +1,24 @@
+{
+	title: "五行之水",
+	x: 10.5d,
+	y: 4.5d,
+	text: [
+		"利用柴堆嬗变仪式获得睡莲"
+	],
+	dependencies: [
+		"a886c43b"
+	],
+	tasks: [{
+		uid: "c7213e92",
+		type: "item",
+		items: [{
+			item: "roots:dewgonia"
+		}]
+	}],
+	rewards: [{
+		uid: "deece0ca",
+		type: "item",
+		item: "roots:elemental_soil_water",
+		random_bonus: 3
+	}]
+}

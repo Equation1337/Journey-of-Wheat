@@ -1,0 +1,8 @@
+import mods.forestry.Carpenter;
+
+Carpenter.removeRecipe(<forestry:chipsets:3>.withTag({T: 3 as short}));
+
+Carpenter.addRecipe(<forestry:chipsets:3>.withTag({T: 3 as short}) * 4, [[<magneticraft:heavy_plates:2>,<magneticraft:crafting:4>,<magneticraft:heavy_plates:2>],[<magneticraft:heavy_plates:1>,<magneticraft:crafting:4>,<magneticraft:heavy_plates:1>],[<magneticraft:heavy_plates:2>,<magneticraft:crafting:4>,<magneticraft:heavy_plates:2>]], 60, <liquid:fuel_mixed_light> * 25, <forestry:impregnated_casing>);
+Carpenter.addRecipe(<forestry:chipsets:3>.withTag({T: 3 as short}) * 4, [[<magneticraft:heavy_plates:2>,<magneticraft:crafting:4>,<magneticraft:heavy_plates:2>],[<magneticraft:heavy_plates:1>,<magneticraft:crafting:4>,<magneticraft:heavy_plates:1>],[<magneticraft:heavy_plates:2>,<magneticraft:crafting:4>,<magneticraft:heavy_plates:2>]], 60, <liquid:plastic> * 1000, <forestry:impregnated_casing>);
+Carpenter.addRecipe(<buildcraftfactory:distiller>, [[null,<ore:gearDiamond>,null],[<efab:pipes>,<efab:pipes>,<efab:pipes>],[<magneticraft:storage_blocks:2>,<ore:blockTungsten>,<planttech2:plantium_block>]], 60, <liquid:lava> * 2000, <buildcraftfactory:tank>);
+Carpenter.addRecipe(<buildcraftcore:engine>, [[null,<ore:blockRedstone>,null],[<forestry:impregnated_casing>,<ore:blockRedstone>, <forestry:impregnated_casing>],[<roots:wildwood_log>,<ore:blockRedstone>, <roots:wildwood_log>]], 60, <liquid:water> * 2000, <minecraft:lever>);

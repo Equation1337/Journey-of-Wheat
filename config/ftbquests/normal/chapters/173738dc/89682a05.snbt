@@ -1,0 +1,14 @@
+{
+	x: 14.0d,
+	y: 3.5d,
+	dependencies: [
+		"f0c4b7a3"
+	],
+	tasks: [{
+		uid: "12b66df8",
+		type: "item",
+		items: [{
+			item: "modularmachinery:chaoweidu_factory_controller"
+		}]
+	}]
+}

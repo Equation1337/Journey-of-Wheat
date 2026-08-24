@@ -1,0 +1,15 @@
+{
+	title: "水晶石粉",
+	x: 3.5d,
+	y: -1.0d,
+	dependencies: [
+		"91c4e98a"
+	],
+	tasks: [{
+		uid: "9e3bb2db",
+		type: "item",
+		items: [{
+			item: "contenttweaker:crystal_dust"
+		}]
+	}]
+}

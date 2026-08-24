@@ -1,0 +1,17 @@
+{
+	x: -5.5d,
+	y: -8.0d,
+	dependencies: [
+		"41b06cd0",
+		"33ca59e7",
+		"366f60a9",
+		"1ba3380d"
+	],
+	tasks: [{
+		uid: "2bf6cca7",
+		type: "item",
+		items: [{
+			item: "libvulpes:productgem"
+		}]
+	}]
+}

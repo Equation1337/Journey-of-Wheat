@@ -1,0 +1,24 @@
+{
+	title: "碗能装水",
+	x: 3.0d,
+	y: -1.5d,
+	text: [
+		"岛屿下方的水源可以用碗盛接来供给花药台"
+	],
+	dependencies: [
+		"6971c438"
+	],
+	tasks: [{
+		uid: "def3ca1f",
+		type: "item",
+		items: [{
+			item: "minecraft:bowl"
+		}]
+	}],
+	rewards: [{
+		uid: "a6d833b9",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

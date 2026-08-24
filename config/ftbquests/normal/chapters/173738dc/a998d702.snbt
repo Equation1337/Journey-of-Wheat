@@ -1,0 +1,30 @@
+{
+	x: 8.0d,
+	y: -2.5d,
+	dependencies: [
+		"9e0a6728",
+		"cd7463d1",
+		"7a5eaf56",
+		"5b84144d",
+		"4b659449",
+		"4635e885",
+		"bbd19b20",
+		"ed139741",
+		"cb1210c6",
+		"9b3bc74e",
+		"fa814d77",
+		"da5cdc4b",
+		"9d1c9944",
+		"a3fac0a3",
+		"0f44d6ff",
+		"57635bbf",
+		"a4d361ae"
+	],
+	tasks: [{
+		uid: "d3d96084",
+		type: "item",
+		items: [{
+			item: "contenttweaker:memory_matrix"
+		}]
+	}]
+}

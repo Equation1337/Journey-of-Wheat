@@ -1,0 +1,20 @@
+{
+    "catalystStack": {
+      "registryName": {
+        "domain": "avaritiatweaks",
+        "path": "enhancement_crystal"      
+      },
+      "meta": 0                   
+    },
+    "components": [               
+      {
+        "weight": 400,            
+        "oreName": "oreDraconium"      
+      }
+    ],
+    "explosionStrength": 15.0,
+    "radius": 5,                   
+    "maxWeight": 400,             
+    "version": 3, 
+    "cost": 500000                
+  }

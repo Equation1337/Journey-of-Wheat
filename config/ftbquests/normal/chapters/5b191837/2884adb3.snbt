@@ -1,0 +1,19 @@
+{
+	x: 3.5d,
+	y: 6.0d,
+	dependencies: [
+		"4e7a04d6"
+	],
+	tasks: [{
+		uid: "793e249a",
+		type: "item",
+		items: [{
+			item: "immersiveintelligence:material_boule"
+		}]
+	}],
+	rewards: [{
+		uid: "3aaeb984",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

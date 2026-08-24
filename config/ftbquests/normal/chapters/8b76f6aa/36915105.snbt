@@ -1,0 +1,29 @@
+{
+	title: "你的第一朵功能花",
+	x: 4.5d,
+	y: 0.0d,
+	text: [
+		"之后有建筑小帮手了可以更方便的转化"
+	],
+	dependencies: [
+		"dd66ae3e",
+		"162a49a3",
+		"ac7592ca"
+	],
+	tasks: [{
+		uid: "36906324",
+		type: "item",
+		items: [{
+			tag: {
+				type: "puredaisy"
+			},
+			id: "botania:specialflower"
+		}]
+	}],
+	rewards: [{
+		uid: "d0928de6",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

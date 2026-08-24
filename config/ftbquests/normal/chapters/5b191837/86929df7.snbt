@@ -1,0 +1,22 @@
+{
+	x: 16.0d,
+	y: -1.5d,
+	text: [
+		"置于四周黎明石块上至需求温度将物品放入其上浮出感叹号，待感叹号为绿色时以铁匠锤右键敲击如此往复直至达到指定次数合成完毕方可导出"
+	],
+	dependencies: [
+		"ea5f9f81"
+	],
+	tasks: [{
+		uid: "277d2a00",
+		type: "item",
+		items: [{
+			item: "aetherworks:forge_component 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "5b520fa5",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

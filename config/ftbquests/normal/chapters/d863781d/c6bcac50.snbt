@@ -1,0 +1,23 @@
+{
+	x: -3.0d,
+	y: -2.5d,
+	text: [
+		"1.12.2的psi需要循序渐进解锁，在按键配置中查看热键"
+	],
+	dependencies: [
+		"59026053"
+	],
+	tasks: [{
+		uid: "a2a60c2b",
+		type: "item",
+		items: [{
+			item: "psi:cad_assembler"
+		}]
+	}],
+	rewards: [{
+		uid: "655cdb59",
+		type: "item",
+		item: "psi:spell_bullet",
+		random_bonus: 3
+	}]
+}

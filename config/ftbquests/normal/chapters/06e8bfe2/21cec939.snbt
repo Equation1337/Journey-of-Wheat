@@ -1,0 +1,33 @@
+{
+	title: "更好的末影物流",
+	x: -3.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "da7d9ae6",
+		type: "item",
+		items: [{
+			item: "enderstorage:ender_storage"
+		}]
+	},
+	{
+		uid: "ff77bc85",
+		type: "item",
+		items: [{
+			item: "enderstorage:ender_storage 1 1"
+		}]
+	},
+	{
+		uid: "0f7b38e0",
+		type: "item",
+		items: [{
+			item: "enderstorage:ender_pouch"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8c0abe41",
+		type: "item",
+		item: "minecraft:diamond"
+	}]
+}

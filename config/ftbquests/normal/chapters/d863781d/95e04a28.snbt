@@ -1,0 +1,20 @@
+{
+	x: -12.0d,
+	y: 0.5d,
+	dependencies: [
+		"5ef70914"
+	],
+	tasks: [{
+		uid: "f22b4de4",
+		type: "item",
+		items: [{
+			item: "magneticraft:big_combustion_chamber"
+		}]
+	}],
+	rewards: [{
+		uid: "f4591d21",
+		type: "item",
+		item: "minecraft:coal_block",
+		random_bonus: 7
+	}]
+}

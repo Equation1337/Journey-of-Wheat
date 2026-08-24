@@ -1,0 +1,23 @@
+{
+	x: -9.0d,
+	y: 2.0d,
+	text: [
+		"用于压缩颗粒成锭"
+	],
+	dependencies: [
+		"4d3ce2eb"
+	],
+	tasks: [{
+		uid: "e2541cbb",
+		type: "item",
+		items: [{
+			item: "planttech2:compressor"
+		}]
+	}],
+	rewards: [{
+		uid: "86616185",
+		type: "item",
+		item: "planttech2:plantium_ingot",
+		random_bonus: 7
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: -1.0d,
+	text: [
+		"我是不是特别善良虽然一级的可能还没有养蜂好用"
+	],
+	dependencies: [
+		"2102c322",
+		"2dff61bc"
+	],
+	tasks: [{
+		uid: "2c52afd1",
+		type: "item",
+		items: [{
+			item: "environmentaltech:void_ore_miner_cont_1"
+		}]
+	}],
+	rewards: [{
+		uid: "0ab35a28",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

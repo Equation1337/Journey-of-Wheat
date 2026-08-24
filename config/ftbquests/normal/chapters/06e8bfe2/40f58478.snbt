@@ -1,0 +1,24 @@
+{
+	title: "另另一个自动化之友",
+	x: 3.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "f70e17ae",
+		type: "item",
+		items: [{
+			item: "xnet:controller"
+		}]
+	}],
+	rewards: [{
+		uid: "6817a10d",
+		type: "item",
+		item: {
+			tag: {
+				display: {
+					LocName: "tile.xnet.advanced_connector_blue.name"
+				}
+			},
+			id: "xnet:advanced_connector"
+		}
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: -10.5d,
+	y: 3.5d,
+	text: [
+		"种子分析仪"
+	],
+	dependencies: [
+		"4d3ce2eb"
+	],
+	tasks: [{
+		uid: "d8c24ce3",
+		type: "item",
+		items: [{
+			item: "planttech2:identifier"
+		}]
+	}],
+	rewards: [{
+		uid: "499c045a",
+		type: "item",
+		item: "planttech2:plantium_ingot",
+		random_bonus: 7
+	}]
+}

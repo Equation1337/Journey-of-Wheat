@@ -1,0 +1,19 @@
+{
+	x: 11.5d,
+	y: -1.5d,
+	dependencies: [
+		"e34ff38d"
+	],
+	tasks: [{
+		uid: "36ac4c13",
+		type: "item",
+		items: [{
+			item: "aetherworks:item_resource"
+		}]
+	}],
+	rewards: [{
+		uid: "f63460d9",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

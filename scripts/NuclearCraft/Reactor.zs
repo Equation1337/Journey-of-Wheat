@@ -1,0 +1,1 @@
+mods.nuclearcraft.ChemicalReactor.addRecipe(<liquid:yitai>, <liquid:pink>, <liquid:sun>, <liquid:water_8> * 1);

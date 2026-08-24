@@ -1,0 +1,24 @@
+{
+	title: "打草有概率掉落",
+	x: 3.0d,
+	y: 1.5d,
+	text: [
+		"为什么不种种看呢"
+	],
+	dependencies: [
+		"42f471f3"
+	],
+	tasks: [{
+		uid: "216695e4",
+		type: "item",
+		items: [{
+			item: "minecraft:wheat_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "66c5eff3",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

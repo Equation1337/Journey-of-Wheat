@@ -1,0 +1,24 @@
+{
+	x: 8.0d,
+	y: 1.5d,
+	text: [
+		"可以搞饥饿/生命 模块/处理器啥的"
+	],
+	dependencies: [
+		"40f83448",
+		"b2ace3c4"
+	],
+	tasks: [{
+		uid: "14a2832d",
+		type: "item",
+		items: [{
+			item: "calculator:algorithmseparator"
+		}]
+	}],
+	rewards: [{
+		uid: "d1a4ff97",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}
