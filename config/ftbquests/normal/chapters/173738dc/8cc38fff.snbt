@@ -1,0 +1,22 @@
+{
+	title: "裂变反应堆",
+	x: 30.0d,
+	y: 4.5d,
+	dependencies: [
+		"a998d702"
+	],
+	tasks: [{
+		uid: "eb009218",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:solid_fission_controller"
+		}]
+	},
+	{
+		uid: "1f817313",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fission_irradiator"
+		}]
+	}]
+}

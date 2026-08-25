@@ -1,0 +1,85 @@
+{
+	title: "Chapter 4:数据——生生不息",
+	icon: "appliedenergistics2:controller",
+	always_invisible: 0b,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: 8.0d,
+		y: -2.0d,
+		width: 4.5d,
+		height: 3.0d,
+		rotation: 0.0d,
+		image: "contenttweaker:textures/items/aether.png",
+		hover: [
+			"天华仪式"
+		],
+		click: "",
+		dev: 0b
+	},
+	{
+		x: -2.5d,
+		y: 2.0d,
+		width: 5.0d,
+		height: 3.0d,
+		rotation: 0.0d,
+		image: "contenttweaker:textures/items/forge.png",
+		hover: [
+			"天华熔炉，在其中心上放置天华熔炉核心"
+		],
+		click: "",
+		dev: 0b
+	},
+	{
+		x: 24.0d,
+		y: 7.5d,
+		width: 5.0d,
+		height: 3.0d,
+		rotation: 0.0d,
+		image: "contenttweaker:textures/items/fengeyishi.png",
+		hover: [
+			"分割徽章激活仪式"
+		],
+		click: "",
+		dev: 0b
+	},
+	{
+		x: 23.5d,
+		y: 16.5d,
+		width: 5.0d,
+		height: 3.0d,
+		rotation: 0.0d,
+		image: "contenttweaker:textures/items/weiniyishi.png",
+		hover: [
+			"伪逆徽章激活仪式"
+		],
+		click: "",
+		dev: 0b
+	},
+	{
+		x: 28.5d,
+		y: 26.0d,
+		width: 5.0d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "contenttweaker:textures/items/zongkong_1.png",
+		hover: [
+			"总控结构1"
+		],
+		click: "",
+		dev: 0b
+	},
+	{
+		x: 28.5d,
+		y: 22.0d,
+		width: 5.0d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "contenttweaker:textures/items/zongkong_2.png",
+		hover: [
+			"总控结构2"
+		],
+		click: "",
+		dev: 0b
+	}]
+}

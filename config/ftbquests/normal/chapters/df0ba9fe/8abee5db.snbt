@@ -1,0 +1,20 @@
+{
+	x: 2.0d,
+	y: 18.0d,
+	dependencies: [
+		"5c421bd0"
+	],
+	tasks: [{
+		uid: "852b00f2",
+		type: "item",
+		items: [{
+			item: "embers:stamp_bar"
+		}]
+	}],
+	rewards: [{
+		uid: "7f6eace5",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

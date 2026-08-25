@@ -1,0 +1,23 @@
+{
+	x: 36.0d,
+	y: 42.0d,
+	text: [
+		"需要研究来解锁配方"
+	],
+	dependencies: [
+		"7b593bab"
+	],
+	tasks: [{
+		uid: "756bfe56",
+		type: "item",
+		items: [{
+			item: "botanicadds:gaia_plate"
+		}]
+	}],
+	rewards: [{
+		uid: "75ae0127",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

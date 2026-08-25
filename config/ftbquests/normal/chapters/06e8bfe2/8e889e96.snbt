@@ -1,0 +1,19 @@
+{
+	title: "盖亚：你能秒我？你能秒杀我？我当场就把信标吃掉",
+	x: 8.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "e13692ef",
+		type: "item",
+		items: [{
+			item: "extrautils2:lawsword"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "07856408",
+		type: "item",
+		item: "minecraft:nether_star"
+	}]
+}

@@ -1,0 +1,8 @@
+type = customizablemenus
+
+lumien.custommainmenu.gui.GuiCustom {
+}
+
+DummyCore.Client.GuiMainMenuVanilla {
+}
+

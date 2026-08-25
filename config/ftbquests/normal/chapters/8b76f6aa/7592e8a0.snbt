@@ -1,0 +1,23 @@
+{
+	x: 32.0d,
+	y: 19.0d,
+	text: [
+		"离精灵工匠台近一些"
+	],
+	dependencies: [
+		"575617d7"
+	],
+	tasks: [{
+		uid: "e7aa7dce",
+		type: "item",
+		items: [{
+			item: "roots:grove_stone"
+		}]
+	}],
+	rewards: [{
+		uid: "e3afd886",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

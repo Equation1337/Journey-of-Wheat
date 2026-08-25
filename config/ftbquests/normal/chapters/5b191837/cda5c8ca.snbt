@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: 32.0d,
+	dependencies: [
+		"7a987086"
+	],
+	tasks: [{
+		uid: "d6cef9e6",
+		type: "item",
+		items: [{
+			item: "environmentaltech:solar_cont_4"
+		}]
+	}],
+	rewards: [{
+		uid: "c3bfa100",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

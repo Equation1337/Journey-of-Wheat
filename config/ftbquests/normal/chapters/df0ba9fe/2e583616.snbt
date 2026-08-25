@@ -1,0 +1,31 @@
+{
+	x: 0.0d,
+	y: 6.0d,
+	shape: "hexagon",
+	text: [
+		"焦炉有bug可以快速制作XD"
+	],
+	dependencies: [
+		"e84f85cf"
+	],
+	tasks: [{
+		uid: "be6ccbbb",
+		type: "item",
+		title: "可乐炉不生产可乐",
+		items: [{
+			item: "immersiveengineering:stone_decoration"
+		}],
+		count: 27L
+	}],
+	rewards: [{
+		uid: "da04ee20",
+		type: "item",
+		item: "minecraft:coal_block",
+		random_bonus: 15
+	},
+	{
+		uid: "62d9bcc7",
+		type: "item",
+		item: "immersiveengineering:tool"
+	}]
+}

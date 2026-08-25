@@ -1,0 +1,22 @@
+{
+	x: 2.0d,
+	y: 18.0d,
+	text: [
+		"一定是黑色塑料板最贵！"
+	],
+	dependencies: [
+		"6bfbbda6"
+	],
+	tasks: [{
+		uid: "7a5efc8a",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:plastic_mixer"
+		}]
+	}],
+	rewards: [{
+		uid: "411069ac",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

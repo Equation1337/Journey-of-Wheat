@@ -1,0 +1,17 @@
+{
+	title: "装配线控制器",
+	x: 0.0d,
+	y: 30.0d,
+	tasks: [{
+		uid: "3ab508e1",
+		type: "item",
+		items: [{
+			item: "modularmachinery:assembly_line_factory_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "229d3541",
+		type: "item",
+		item: "minecraft:stick"
+	}]
+}

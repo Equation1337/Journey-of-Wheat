@@ -1,0 +1,19 @@
+{
+	x: 14.0d,
+	y: 17.0d,
+	dependencies: [
+		"cfd89981"
+	],
+	tasks: [{
+		uid: "dff6bdd8",
+		type: "item",
+		items: [{
+			item: "essentialcraft:colddistillator"
+		}]
+	}],
+	rewards: [{
+		uid: "df3c802f",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

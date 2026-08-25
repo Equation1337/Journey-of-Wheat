@@ -1,0 +1,48 @@
+{
+	title: "宇航服",
+	x: 12.0d,
+	y: 24.0d,
+	dependencies: [
+		"924a90cc"
+	],
+	tasks: [{
+		uid: "f86bad0d",
+		type: "item",
+		items: [{
+			tag: {},
+			id: "advancedrocketry:spacehelmet"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8413d9a1",
+		type: "item",
+		items: [{
+			tag: {},
+			id: "advancedrocketry:spacechestplate"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1517b6e8",
+		type: "item",
+		items: [{
+			tag: {},
+			id: "advancedrocketry:spaceleggings"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "dc3316bf",
+		type: "item",
+		items: [{
+			tag: {},
+			id: "advancedrocketry:spaceboots"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

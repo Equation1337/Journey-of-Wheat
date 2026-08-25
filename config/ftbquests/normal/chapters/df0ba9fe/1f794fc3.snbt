@@ -1,0 +1,24 @@
+{
+	title: "并非神秘",
+	x: 2.0d,
+	y: 2.0d,
+	text: [
+		"恶魔之血液天域锭绿宝石雷劈"
+	],
+	dependencies: [
+		"a692ebd4"
+	],
+	tasks: [{
+		uid: "51c11a3c",
+		type: "item",
+		items: [{
+			item: "lightningcraft:material 1 11"
+		}]
+	}],
+	rewards: [{
+		uid: "3e2116e0",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 20.0d,
+	y: 13.0d,
+	dependencies: [
+		"aa5be986",
+		"15109357"
+	],
+	tasks: [{
+		uid: "b7991010",
+		type: "item",
+		items: [{
+			item: "extrautils2:decorativesolid 1 3"
+		}]
+	}],
+	rewards: [{
+		uid: "0365a3ab",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

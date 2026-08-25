@@ -1,0 +1,22 @@
+{
+	x: 14.0d,
+	y: 10.0d,
+	text: [
+		"用于储存mana"
+	],
+	dependencies: [
+		"2800ec12"
+	],
+	tasks: [{
+		uid: "06107d91",
+		type: "item",
+		items: [{
+			item: "botania:pool"
+		}]
+	}],
+	rewards: [{
+		uid: "42e983db",
+		type: "item",
+		item: "botania:pool"
+	}]
+}

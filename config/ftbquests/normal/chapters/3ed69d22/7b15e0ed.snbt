@@ -1,0 +1,19 @@
+{
+	x: 14.0d,
+	y: 6.0d,
+	dependencies: [
+		"5a4b5902"
+	],
+	tasks: [{
+		uid: "d64cf8a9",
+		type: "item",
+		items: [{
+			item: "mets:nano_living_metal"
+		}]
+	}],
+	rewards: [{
+		uid: "053132de",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

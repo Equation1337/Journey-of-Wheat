@@ -1,0 +1,25 @@
+{
+	title: "多功能小刀",
+	x: 8.0d,
+	y: 12.0d,
+	text: [
+		"可以拿来刮树皮也可以拿来获取大地苔藓"
+	],
+	dependencies: [
+		"6971c438"
+	],
+	tasks: [{
+		uid: "b6ad37ca",
+		type: "item",
+		items: [{
+			item: "roots:wood_knife"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "249c86a1",
+		type: "item",
+		item: "roots:diamond_knife"
+	}]
+}

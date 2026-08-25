@@ -1,0 +1,14 @@
+{
+	x: 18.0d,
+	y: 3.0d,
+	dependencies: [
+		"1612c35d"
+	],
+	tasks: [{
+		uid: "8b51d606",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:electrolyzer"
+		}]
+	}]
+}

@@ -1,0 +1,2599 @@
+{
+    "registryname": "yizhi",
+    "localizedname": "§c意志谐振器",
+    "failure-action": "decrease",
+    "requires-blueprint": false,
+    "has-factory": false,
+    "color": "FFFFFF",
+    "parts": [
+        {
+            "x": 6,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": -7,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -4,
+            "z": -6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": -6,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": -5,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "bloodmagic:ritual_stone@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": -4,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": -2,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockmeiteminputbus"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": -6,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "bloodmagic:demon_pylon@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": -7,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": -4,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -5,
+            "z": -6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": -5,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": -6,
+            "elements": [
+                "bloodmagic:ritual_stone@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_crystallizer@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockinfusedwood@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": -7,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -7,
+            "z": -6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": -4,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "bloodmagic:ritual_stone@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": -5,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockinfusedwood@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": -2,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch@0",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockmefluidinputbus"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": -7,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": -6,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": -4,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": -2,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockinfusedwood@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": -6,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": -7,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": -5,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": -2,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockinfusedwood@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "bloodmagic:demon_pylon@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": -6,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": -7,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_crystal@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": -5,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": -2,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": -4,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus@0",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockmeitemoutputbus"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": -5,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "bloodmagic:demon_pylon@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": -7,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_crystal@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": -6,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": -4,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": -5,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": -2,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "bloodmagic:ritual_stone@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_crucible@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "bloodmagic:ritual_stone@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": -5,
+            "elements": [
+                "bloodmagic:ritual_stone@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": -6,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": -7,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": -4,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "bloodmagic:ritual_stone@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "bloodmagic:ritual_controller@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": -5,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": -2,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": -7,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "bloodmagic:ritual_stone@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": -4,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": -2,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": -7,
+            "elements": [
+                "bloodmagic:ritual_stone@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": -6,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "bloodmagic:demon_crystallizer@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": -4,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "bloodmagic:ritual_stone@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": -5,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "bloodmagic:ritual_stone@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "bloodmagic:demon_crystal@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": -2,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": -1,
+            "elements": [
+                "bloodmagic:demon_crystallizer@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "bloodmagic:ritual_stone@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockinfusedwood@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "bloodmagic:demon_pylon@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": -4,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": -6,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockinfusedwood@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "bloodmagic:demon_crystal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": -7,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": -2,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": -6,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockinfusedwood@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": -5,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": -5,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockinfusedwood@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": -7,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": -2,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": -4,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockinfusedwood@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockinfusedwood@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_crystallizer@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": -6,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockinfusedwood@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": -2,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -5,
+            "z": -6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": -5,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": -5,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "bloodmagic:ritual_stone@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": -7,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": -4,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": -6,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": -6,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockinfusedwood@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": -5,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": -4,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": -7,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_crystal@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": -2,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -4,
+            "z": -6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": -4,
+            "elements": [
+                "astralsorcery:blockinfusedwood@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": -6,
+            "elements": [
+                "bloodmagic:ritual_stone@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "astralsorcery:blockinfusedwood@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": -2,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": -4,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": -5,
+            "elements": [
+                "bloodmagic:ritual_stone@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "astralsorcery:blockinfusedwood@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -7,
+            "z": -6,
+            "elements": [
+                "bloodmagic:decorative_brick@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": -4,
+            "elements": [
+                "astralsorcery:blockinfusedwood@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": -5,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": -4,
+            "elements": [
+                "bloodmagic:ritual_stone@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": -7,
+            "elements": [
+                "bloodmagic:ritual_stone@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "astralsorcery:blockinfusedwood@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "bloodmagic:ritual_stone@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "bloodmagic:ritual_stone@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": -2,
+            "elements": [
+                "bloodmagic:ritual_stone@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        }
+    ]}

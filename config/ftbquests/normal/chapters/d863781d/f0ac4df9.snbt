@@ -1,0 +1,14 @@
+{
+	x: 16.0d,
+	y: 8.0d,
+	dependencies: [
+		"2dff61bc"
+	],
+	tasks: [{
+		uid: "de91e7e7",
+		type: "item",
+		items: [{
+			item: "modularmachinery:dragon_controller"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 6.0d,
+	y: 9.0d,
+	dependencies: [
+		"cd2f27da",
+		"fffe3c39"
+	],
+	tasks: [{
+		uid: "5256ee0a",
+		type: "item",
+		items: [{
+			item: "forestry:impregnated_casing"
+		}]
+	}],
+	rewards: [{
+		uid: "b1481cc2",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

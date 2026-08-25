@@ -1,0 +1,20 @@
+{
+	x: 10.0d,
+	y: 34.0d,
+	dependencies: [
+		"1c67de4f"
+	],
+	tasks: [{
+		uid: "97bcc816",
+		type: "item",
+		items: [{
+			item: "calculator:reinforcedironingot"
+		}]
+	}],
+	rewards: [{
+		uid: "d196795e",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

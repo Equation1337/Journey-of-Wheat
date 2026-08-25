@@ -1,0 +1,20 @@
+{
+	x: 20.0d,
+	y: 46.0d,
+	dependencies: [
+		"8f5f0300"
+	],
+	tasks: [{
+		uid: "9d36391e",
+		type: "item",
+		items: [{
+			item: "thaumcraft:smelter_basic"
+		}]
+	}],
+	rewards: [{
+		uid: "49626940",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

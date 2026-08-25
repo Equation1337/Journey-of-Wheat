@@ -1,0 +1,67 @@
+{
+	title: "天华仪式",
+	x: 6.0d,
+	y: 0.0d,
+	dependencies: [
+		"bf98faf5"
+	],
+	tasks: [{
+		uid: "0d788b9e",
+		type: "item",
+		items: [{
+			item: "aetherworks:prism"
+		}]
+	},
+	{
+		uid: "e3c6a247",
+		type: "item",
+		items: [{
+			item: "aetherworks:moonlight_amplifier"
+		}],
+		count: 4L
+	},
+	{
+		uid: "aadae121",
+		type: "item",
+		items: [{
+			item: "aetherworks:aether_prism_controller_matrix"
+		}],
+		count: 4L
+	},
+	{
+		uid: "7c447e7d",
+		type: "item",
+		items: [{
+			item: "embers:block_tank"
+		}]
+	},
+	{
+		uid: "aa2e6c7d",
+		type: "item",
+		items: [{
+			item: "aetherworks:prism_support"
+		}],
+		count: 2L
+	},
+	{
+		uid: "2a14e8e4",
+		type: "item",
+		items: [{
+			item: "embers:archaic_bricks"
+		}],
+		count: 12L
+	},
+	{
+		uid: "6728bcae",
+		type: "item",
+		items: [{
+			item: "embers:archaic_edge"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "b405f299",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

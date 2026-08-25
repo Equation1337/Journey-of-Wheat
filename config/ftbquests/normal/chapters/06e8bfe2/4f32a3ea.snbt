@@ -1,0 +1,17 @@
+{
+	title: "自动化之友",
+	x: 8.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "6eac0e97",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:variable"
+		}]
+	}],
+	rewards: [{
+		uid: "2fe791e7",
+		type: "item",
+		item: "integrateddynamics:portable_logic_programmer"
+	}]
+}

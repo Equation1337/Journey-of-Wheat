@@ -1,0 +1,50 @@
+{
+	x: 24.0d,
+	y: 13.0d,
+	text: [
+		"飞的太慢了"
+	],
+	dependencies: [
+		"63ac9e05"
+	],
+	tasks: [{
+		uid: "819f0800",
+		type: "item",
+		items: [{
+			item: "extrautils2:angelring"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ecedda49",
+		type: "item",
+		item: {
+			tag: {},
+			id: "tp:dragon_helmet"
+		}
+	},
+	{
+		uid: "dabaa1ef",
+		type: "item",
+		item: {
+			tag: {},
+			id: "tp:dragon_chestplate"
+		}
+	},
+	{
+		uid: "fa7e3ef5",
+		type: "item",
+		item: {
+			tag: {},
+			id: "tp:dragon_leggings"
+		}
+	},
+	{
+		uid: "72585210",
+		type: "item",
+		item: {
+			tag: {},
+			id: "tp:dragon_boots"
+		}
+	}]
+}

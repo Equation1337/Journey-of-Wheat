@@ -1,0 +1,28 @@
+{
+	title: "神秘树苗",
+	x: 0.0d,
+	y: 8.0d,
+	dependencies: [
+		"04becd72"
+	],
+	tasks: [{
+		uid: "8eddb7ac",
+		type: "item",
+		items: [{
+			item: "thaumcraft:sapling_greatwood"
+		}]
+	},
+	{
+		uid: "bd54ab90",
+		type: "item",
+		items: [{
+			item: "thaumcraft:sapling_silverwood"
+		}]
+	}],
+	rewards: [{
+		uid: "7f18a01a",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 10.0d,
+	y: 24.0d,
+	dependencies: [
+		"855ea445"
+	],
+	tasks: [{
+		uid: "9de9f558",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:cuttingmachine"
+		}]
+	}]
+}

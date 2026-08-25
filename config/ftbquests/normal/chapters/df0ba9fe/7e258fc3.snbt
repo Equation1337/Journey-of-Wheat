@@ -1,0 +1,23 @@
+{
+	x: 8.0d,
+	y: 4.0d,
+	text: [
+		"可以做园艺bug罩了！"
+	],
+	dependencies: [
+		"6ab40604"
+	],
+	tasks: [{
+		uid: "3e6e909d",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 1 26"
+		}]
+	}],
+	rewards: [{
+		uid: "7a9d8374",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

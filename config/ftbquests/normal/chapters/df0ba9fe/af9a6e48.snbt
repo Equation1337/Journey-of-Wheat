@@ -1,0 +1,23 @@
+{
+	x: 2.0d,
+	y: 8.0d,
+	text: [
+		"炼钢所需"
+	],
+	dependencies: [
+		"2e583616"
+	],
+	tasks: [{
+		uid: "69c26ab4",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "b207416a",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

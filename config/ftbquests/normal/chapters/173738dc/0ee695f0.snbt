@@ -1,0 +1,28 @@
+{
+	x: 8.0d,
+	y: 2.0d,
+	dependencies: [
+		"c286ddad"
+	],
+	tasks: [{
+		uid: "82ece01d",
+		type: "item",
+		items: [{
+			tag: {
+				slot2: "Crafting",
+				slot4: "Energy Module",
+				slot3: "Storage",
+				0: {},
+				slot1: "Dynamic",
+				1: {},
+				slot0: "Flawless",
+				2: {},
+				3: {},
+				4: {}
+			},
+			id: "calculator:flawlesscalculator"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: 28.0d,
+	y: 16.5d,
+	text: [
+		"有它就能做打火石了"
+	],
+	dependencies: [
+		"e7b7559e"
+	],
+	tasks: [{
+		uid: "297a00d2",
+		type: "item",
+		items: [{
+			item: "botania:alchemycatalyst"
+		}]
+	}],
+	rewards: [{
+		uid: "52086afc",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

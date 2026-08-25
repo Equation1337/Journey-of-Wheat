@@ -1,0 +1,19 @@
+{
+	x: 8.0d,
+	y: 20.0d,
+	dependencies: [
+		"e8a2b783"
+	],
+	tasks: [{
+		uid: "0bc76a6b",
+		type: "checkmark",
+		title: "用于混合流体",
+		icon: "immersiveengineering:metal_multiblock 1 15"
+	}],
+	rewards: [{
+		uid: "6362976e",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

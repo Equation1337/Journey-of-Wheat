@@ -1,0 +1,27 @@
+{
+	x: 4.0d,
+	y: 20.0d,
+	dependencies: [
+		"674a89d2"
+	],
+	tasks: [{
+		uid: "96b85403",
+		type: "item",
+		items: [{
+			item: "embers:stamper"
+		}]
+	},
+	{
+		uid: "4fb668d9",
+		type: "item",
+		items: [{
+			item: "embers:stamper_base"
+		}]
+	}],
+	rewards: [{
+		uid: "6fc3eb38",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

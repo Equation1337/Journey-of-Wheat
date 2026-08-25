@@ -1,0 +1,26 @@
+{
+	title: "热门话题",
+	x: 0.0d,
+	y: 4.0d,
+	shape: "hexagon",
+	text: [
+		"大炼钢铁"
+	],
+	dependencies: [
+		"2dff61bc"
+	],
+	tasks: [{
+		uid: "d0f9aca7",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 1"
+		}],
+		count: 27L
+	}],
+	rewards: [{
+		uid: "117921c0",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

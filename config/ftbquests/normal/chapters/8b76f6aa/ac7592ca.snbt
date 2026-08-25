@@ -1,0 +1,24 @@
+{
+	title: "绝命毒师",
+	x: 8.0d,
+	y: 8.0d,
+	text: [
+		"如同工作台一样重要"
+	],
+	dependencies: [
+		"51d282b2"
+	],
+	tasks: [{
+		uid: "713718b9",
+		type: "item",
+		items: [{
+			item: "botania:altar"
+		}]
+	}],
+	rewards: [{
+		uid: "1921db2c",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

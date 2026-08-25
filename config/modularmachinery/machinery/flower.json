@@ -1,0 +1,3205 @@
+{
+    "registryname": "flower",
+    "localizedname": "#50eaff-ff66ff-ff6633魔力促生园林",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "color": "B0C4DE",
+    "parts": [
+        {
+            "x": 4,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "botania:pistonrelay@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "botania:altgrass@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 12,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "botania:pistonrelay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 11,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "botania:pistonrelay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "roots:elemental_soil_earth@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 11,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "botania:pistonrelay@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 6,
+
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 7,
+
+            "elements": [
+                "botania:starfield@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 12,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 7,
+
+            "elements": [
+                "botania:corporeaindex@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "botania:altgrass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "botania:pistonrelay@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 7,
+
+            "elements": [
+                "botania:prism@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "botania:pistonrelay@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 7,
+
+            "elements": [
+                "botania:prism@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 12,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "botania:altgrass@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "botania:pistonrelay@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "botania:forestdrum@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 12,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "botania:altgrass@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 7,
+
+            "elements": [
+                "botania:pylon@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "botania:pistonrelay@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 7,
+
+            "elements": [
+                "botania:lightrelay@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 12,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "roots:elemental_soil_fire@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "botania:pistonrelay@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:altgrass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "botania:altgrass@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 11,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 12,
+            "elements": [
+                "botanicadds:gaiasteel_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "botania:altgrass@5"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 12,
+
+            "elements": [
+                "botania:corporeacrystalcube@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 12,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "botanicadds:gaiasteel_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 2,
+
+            "elements": [
+                "botania:corporeacrystalcube@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 12,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": 12,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 7,
+
+            "elements": [
+                "botania:pool@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 11,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 10,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 3,
+
+            "elements": [
+                "botania:teruterubozu@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "roots:elemental_soil_water@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 11,
+            "elements": [
+                "botania:pistonrelay@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:altgrass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "botania:pistonrelay@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 12,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 11,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "roots:elemental_soil_air@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 7,
+
+            "elements": [
+                "botania:pool@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "botania:pistonrelay@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 12,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "roots:elemental_soil_water@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 2,
+
+            "elements": [
+                "botania:lightrelay@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "roots:elemental_soil_earth@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "botania:pistonrelay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "roots:elemental_soil_fire@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 12,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 12,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 11,
+
+            "elements": [
+                "botania:teruterubozu@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "botania:altgrass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "botania:altgrass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "roots:elemental_soil_fire@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "roots:elemental_soil_water@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 7,
+
+            "elements": [
+                "botania:pylon@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "roots:elemental_soil_air@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 11,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "botania:pistonrelay@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "botania:altgrass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 11,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "botania:altgrass@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 2,
+
+            "elements": [
+                "botania:corporeacrystalcube@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 12,
+
+            "elements": [
+                "botania:lightrelay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "botania:pistonrelay@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 3,
+
+            "elements": [
+                "botania:teruterubozu@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "botanicadds:gaiasteel_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "botania:pistonrelay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "botania:altgrass@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 12,
+            "elements": [
+                "botanicadds:gaiasteel_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 12,
+
+            "elements": [
+                "botania:corporeacrystalcube@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 12,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": 12,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "roots:elemental_soil_earth@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": 12,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "botania:altgrass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "botania:altgrass@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 12,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "botania:altgrass@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 6,
+
+            "elements": [
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 7,
+
+            "elements": [
+                "botania:lightrelay@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 11,
+
+            "elements": [
+                "botania:teruterubozu@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 11,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "botanicadds:dreamrock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 8,
+
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "botania:pistonrelay@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "botania:altgrass@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 8,
+
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 11,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "botania:altgrass@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 14,
+
+            "elements": [
+                "botania:pylon@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 11,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 10,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 14,
+
+            "elements": [
+                "botania:pool@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "botania:elfglass@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "botania:altgrass@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+
+            "elements": [
+                "botania:pylon@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 7,
+
+            "elements": [
+                "botania_tweaks:compressed_tiny_potato_8@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "botania:dreamwood@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+
+            "elements": [
+                "botania:pool@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "botania:enchantedsoil@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "botania:altgrass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "forestry:fences.fireproof.0@14"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "botania:dreamwood@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "roots:elemental_soil_air@0"
+            ]
+        }
+    ]}

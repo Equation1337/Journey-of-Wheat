@@ -1,0 +1,17 @@
+{
+	title: "血肉苦弱，机械飞升",
+	x: 6.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "11ebe8e5",
+		type: "item",
+		items: [{
+			item: "matteroverdrive:android_pill"
+		}]
+	}],
+	rewards: [{
+		uid: "2595532e",
+		type: "item",
+		item: "matteroverdrive:android_pill 1 1"
+	}]
+}

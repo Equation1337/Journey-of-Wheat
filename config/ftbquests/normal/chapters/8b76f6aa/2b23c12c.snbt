@@ -1,0 +1,22 @@
+{
+	title: "五行之木",
+	x: 30.0d,
+	y: 15.0d,
+	dependencies: [
+		"aca1e3b5",
+		"6a5c86a9"
+	],
+	tasks: [{
+		uid: "496f6adf",
+		type: "item",
+		items: [{
+			item: "roots:pereskia"
+		}]
+	}],
+	rewards: [{
+		uid: "230d14f1",
+		type: "item",
+		item: "roots:pereskia_bulb",
+		random_bonus: 3
+	}]
+}

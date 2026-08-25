@@ -1,0 +1,61 @@
+{
+	title: "元素铭文",
+	x: 26.0d,
+	y: 27.0d,
+	dependencies: [
+		"5ec91ecf"
+	],
+	tasks: [{
+		uid: "dac56075",
+		type: "item",
+		items: [{
+			tag: {
+				uses: 10
+			},
+			Damage: 1s,
+			id: "bloodmagic:inscription_tool"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "601f8310",
+		type: "item",
+		items: [{
+			tag: {
+				uses: 10
+			},
+			Damage: 2s,
+			id: "bloodmagic:inscription_tool"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "06f6a240",
+		type: "item",
+		items: [{
+			tag: {
+				uses: 10
+			},
+			Damage: 3s,
+			id: "bloodmagic:inscription_tool"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0efc1a78",
+		type: "item",
+		items: [{
+			tag: {
+				uses: 10
+			},
+			Damage: 4s,
+			id: "bloodmagic:inscription_tool"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "be5ce9e4",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

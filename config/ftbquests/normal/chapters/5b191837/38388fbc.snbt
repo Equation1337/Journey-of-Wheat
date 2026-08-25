@@ -1,0 +1,28 @@
+{
+	title: "气动元件",
+	x: 10.0d,
+	y: 13.0d,
+	dependencies: [
+		"e982975e",
+		"201a4531"
+	],
+	tasks: [{
+		uid: "3d3144a7",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:capacitor"
+		}]
+	},
+	{
+		uid: "0ed2f6d6",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:transistor"
+		}]
+	}],
+	rewards: [{
+		uid: "68ae3eee",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

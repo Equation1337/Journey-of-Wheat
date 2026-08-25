@@ -1,0 +1,30 @@
+{
+	x: 2.0d,
+	y: 4.0d,
+	text: [
+		"论核电的艺术"
+	],
+	dependencies: [
+		"de85941c"
+	],
+	tasks: [{
+		uid: "b36b6697",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 22"
+		}]
+	},
+	{
+		uid: "b13586ff",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 24"
+		}],
+		count: 6L
+	}],
+	rewards: [{
+		uid: "93e50846",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

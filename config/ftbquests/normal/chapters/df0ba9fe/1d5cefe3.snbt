@@ -1,0 +1,24 @@
+{
+	x: 10.0d,
+	y: 10.0d,
+	text: [
+		"沥青混凝土的沥青要精馏塔精馏石油而石油可以用岩芯钻井探测后用钻机约等于无限产出",
+		"任务线上忘写了抱歉"
+	],
+	dependencies: [
+		"904bc471"
+	],
+	tasks: [{
+		uid: "4d0de528",
+		type: "item",
+		items: [{
+			item: "lightningcraft:stone_block"
+		}]
+	}],
+	rewards: [{
+		uid: "58e3ad1e",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

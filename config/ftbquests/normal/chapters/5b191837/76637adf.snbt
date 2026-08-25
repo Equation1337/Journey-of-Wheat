@@ -1,0 +1,20 @@
+{
+	title: "星辉块",
+	x: 10.0d,
+	y: 4.0d,
+	dependencies: [
+		"86929df7"
+	],
+	tasks: [{
+		uid: "72fdcf58",
+		type: "item",
+		items: [{
+			item: "contenttweaker:xinghui_block"
+		}]
+	}],
+	rewards: [{
+		uid: "5e837646",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

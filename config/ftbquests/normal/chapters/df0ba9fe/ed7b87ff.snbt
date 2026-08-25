@@ -1,0 +1,32 @@
+{
+	title: "虚域之旅",
+	x: 28.0d,
+	y: 40.0d,
+	text: [
+		"byd世界不生成维度缝隙"
+	],
+	dependencies: [
+		"b261094e"
+	],
+	tasks: [{
+		uid: "aad43e20",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "990b8367",
+		type: "item",
+		item: {
+			tag: {
+				Dimension: 14676,
+				IsSet: 1b,
+				Pitch: 76.649994f,
+				Z: -10021.031257236646d,
+				X: -9987.766916393492d,
+				Y: 26.355552229442672d,
+				Yaw: -240.59987f,
+				DimentionName: "emptiness"
+			},
+			id: "draconicevolution:dislocator"
+		}
+	}]
+}

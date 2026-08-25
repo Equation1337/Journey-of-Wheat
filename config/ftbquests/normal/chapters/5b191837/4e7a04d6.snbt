@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: 30.0d,
+	dependencies: [
+		"3eae3c31"
+	],
+	tasks: [{
+		uid: "1ceee918",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:graphite_electrode"
+		}]
+	}],
+	rewards: [{
+		uid: "4ecc783d",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

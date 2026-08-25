@@ -1,0 +1,22 @@
+{
+	x: 6.0d,
+	y: 20.0d,
+	dependencies: [
+		"6c22dcce",
+		"8abee5db",
+		"7a5d0e93"
+	],
+	tasks: [{
+		uid: "d754a5d1",
+		type: "item",
+		items: [{
+			item: "embers:ingot_dawnstone"
+		}]
+	}],
+	rewards: [{
+		uid: "9f03e5e4",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

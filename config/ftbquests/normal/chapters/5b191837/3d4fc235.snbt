@@ -1,0 +1,19 @@
+{
+	x: 26.0d,
+	y: 23.0d,
+	dependencies: [
+		"46217b23"
+	],
+	tasks: [{
+		uid: "1d29311b",
+		type: "item",
+		items: [{
+			item: "ae2fc:fluid_discretizer"
+		}]
+	}],
+	rewards: [{
+		uid: "7e499b7b",
+		type: "item",
+		item: "appliedenergistics2:material 1 58"
+	}]
+}

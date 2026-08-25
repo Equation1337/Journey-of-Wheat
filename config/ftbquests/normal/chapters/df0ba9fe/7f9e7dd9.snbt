@@ -1,0 +1,20 @@
+{
+	x: 4.0d,
+	y: 24.0d,
+	dependencies: [
+		"674a89d2"
+	],
+	tasks: [{
+		uid: "2e4f3f44",
+		type: "item",
+		items: [{
+			item: "embers:block_furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "ce8ee43a",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

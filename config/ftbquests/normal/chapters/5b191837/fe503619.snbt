@@ -1,0 +1,19 @@
+{
+	x: 10.0d,
+	y: 34.0d,
+	dependencies: [
+		"ca60540b"
+	],
+	tasks: [{
+		uid: "8aea5605",
+		type: "item",
+		items: [{
+			item: "enderio:block_sag_mill"
+		}]
+	}],
+	rewards: [{
+		uid: "68ff6bd2",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

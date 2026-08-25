@@ -1,0 +1,17 @@
+{
+	x: 32.0d,
+	y: 4.0d,
+	dependencies: [
+		"84d2d64e"
+	],
+	tasks: [{
+		uid: "8cb96160",
+		type: "item",
+		items: [{
+			tag: {
+				type: "irisotos"
+			},
+			id: "botania:specialflower"
+		}]
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: 24.0d,
+	y: 40.0d,
+	text: [
+		"悖论物质炸裂隙"
+	],
+	dependencies: [
+		"b7da9a40"
+	],
+	tasks: [{
+		uid: "8a13c826",
+		type: "item",
+		items: [{
+			item: "thaumcraft:void_seed"
+		}]
+	}],
+	rewards: [{
+		uid: "ad8890e0",
+		type: "item",
+		item: "thaumcraft:void_seed",
+		random_bonus: 7
+	}]
+}

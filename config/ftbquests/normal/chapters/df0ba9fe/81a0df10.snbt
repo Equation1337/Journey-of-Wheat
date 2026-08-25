@@ -1,0 +1,23 @@
+{
+	x: 4.0d,
+	y: 16.0d,
+	text: [
+		"用螺丝刀调节角度，用于反射和散射光"
+	],
+	dependencies: [
+		"c5746afc",
+		"0fc0be17"
+	],
+	tasks: [{
+		uid: "e3c98633",
+		type: "item",
+		items: [{
+			item: "refraction:mirror"
+		}]
+	}],
+	rewards: [{
+		uid: "701b17cc",
+		type: "item",
+		item: "refraction:prism"
+	}]
+}

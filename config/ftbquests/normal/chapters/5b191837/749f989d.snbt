@@ -1,0 +1,34 @@
+{
+	title: "ae终端",
+	x: 26.0d,
+	y: 27.0d,
+	dependencies: [
+		"46217b23"
+	],
+	tasks: [{
+		uid: "ee68ce83",
+		type: "item",
+		items: [{
+			item: "thaumicenergistics:arcane_inscriber"
+		}]
+	},
+	{
+		uid: "b04e8c66",
+		type: "item",
+		items: [{
+			item: "thaumicenergistics:arcane_terminal"
+		}]
+	},
+	{
+		uid: "30c7eb3f",
+		type: "item",
+		items: [{
+			item: "thaumicenergistics:essentia_terminal"
+		}]
+	}],
+	rewards: [{
+		uid: "1e8e5dd3",
+		type: "item",
+		item: "appliedenergistics2:material 1 58"
+	}]
+}

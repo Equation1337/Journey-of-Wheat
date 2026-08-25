@@ -1,0 +1,14 @@
+{
+	x: 18.0d,
+	y: 5.0d,
+	dependencies: [
+		"1612c35d"
+	],
+	tasks: [{
+		uid: "e159843f",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:chemical_reactor"
+		}]
+	}]
+}

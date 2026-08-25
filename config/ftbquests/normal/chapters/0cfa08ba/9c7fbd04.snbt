@@ -1,0 +1,15 @@
+{
+	x: 30.0d,
+	y: 10.0d,
+	dependencies: [
+		"a01ac123",
+		"05b18e0b"
+	],
+	tasks: [{
+		uid: "bd9f911d",
+		type: "item",
+		items: [{
+			item: "modularmachinery:stellar_factory_controller"
+		}]
+	}]
+}

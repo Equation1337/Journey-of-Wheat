@@ -1,0 +1,37 @@
+{
+	x: 16.0d,
+	y: 8.0d,
+	shape: "gear",
+	text: [
+		"血肉苦弱，机械飞升"
+	],
+	dependencies: [
+		"c236ba15"
+	],
+	tasks: [{
+		uid: "c602a445",
+		type: "item",
+		items: [{
+			item: "deepmoblearningbm:digital_agonizer"
+		}]
+	},
+	{
+		uid: "ee8373f4",
+		type: "item",
+		items: [{
+			item: "deepmoblearningbm:altar_linker"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f6c49980",
+		type: "item",
+		item: "deepmoblearning:data_model_blank"
+	},
+	{
+		uid: "fbc216e0",
+		type: "item",
+		item: "deepmoblearning:deep_learner"
+	}]
+}

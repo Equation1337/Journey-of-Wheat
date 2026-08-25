@@ -1,0 +1,33 @@
+{
+	title: "强化高炉",
+	x: 6.0d,
+	y: 6.0d,
+	text: [
+		"获得一定钢锭后可以提升高炉效率但是当前阶段还做不了电弧炉哦"
+	],
+	dependencies: [
+		"c64867b1",
+		"ee304cdb"
+	],
+	tasks: [{
+		uid: "95e5ddc4",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 2"
+		}],
+		count: 27L
+	},
+	{
+		uid: "d7f70719",
+		type: "item",
+		items: [{
+			item: "minecraft:hopper"
+		}]
+	}],
+	rewards: [{
+		uid: "b6b9d47a",
+		type: "item",
+		item: "immersiveengineering:metal_device1",
+		count: 2
+	}]
+}

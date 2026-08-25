@@ -1,0 +1,15 @@
+{
+	title: "约束反氘核",
+	x: 38.0d,
+	y: 27.5d,
+	dependencies: [
+		"e353d073"
+	],
+	tasks: [{
+		uid: "412ad80e",
+		type: "item",
+		items: [{
+			item: "contenttweaker:fandaohe_guan"
+		}]
+	}]
+}

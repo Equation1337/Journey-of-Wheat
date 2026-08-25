@@ -1,0 +1,14 @@
+{
+	x: 10.0d,
+	y: 26.0d,
+	dependencies: [
+		"855ea445"
+	],
+	tasks: [{
+		uid: "735d4d2a",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:planetanalyser"
+		}]
+	}]
+}

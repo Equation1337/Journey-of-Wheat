@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: 2.0d,
+	dependencies: [
+		"87d88a9d"
+	],
+	tasks: [{
+		uid: "9bda686d",
+		type: "item",
+		items: [{
+			item: "contenttweaker:infinity_dianluban"
+		}]
+	}]
+}

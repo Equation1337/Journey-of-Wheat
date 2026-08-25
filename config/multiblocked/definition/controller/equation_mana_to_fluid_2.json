@@ -1,0 +1,109 @@
+{
+  "version": 2,
+  "location": "equation:mana_to_fluid_2",
+  "traits": {
+    "bot_mana": {
+      "cIO": 2,
+      "gIO": 2,
+      "x": 61,
+      "y": 23,
+      "width": 60,
+      "height": 18,
+      "texture": "multiblocked:textures/gui/energy_bar.png",
+      "fillDirection": 0,
+      "capacity": 10000000,
+      "allowSpark": true
+    },
+    "fluid": [
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 80,
+        "y": 93,
+        "autoIO": true,
+        "tC": 1000000,
+        "w": 18,
+        "h": 18,
+        "fillDir": "DOWN_TO_UP"
+      }
+    ]
+  },
+  "properties": {
+    "rotationState": "NONE",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasCollision": true,
+    "destroyTime": 5.0,
+    "explosionResistance": 10.0,
+    "harvestLevel": 1,
+    "stackSize": 64,
+    "tabGroup": "multiblocked"
+  },
+  "status": {
+    "unformed": {
+      "renderer": {
+        "baseTexture": "multiblocked:manaliquefaction",
+        "frontTexture": "multiblocked:manaliquefaction",
+        "backTexture": "multiblocked:manaliquefaction",
+        "leftTexture": "multiblocked:manaliquefaction",
+        "rightTexture": "multiblocked:manaliquefaction",
+        "upTexture": "multiblocked:manaliquefaction",
+        "downTexture": "multiblocked:manaliquefaction",
+        "formedAsController": true,
+        "type": "gregtech"
+      }
+    },
+    "idle": {
+      "parent": "unformed"
+    },
+    "working": {
+      "parent": "idle"
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "recipeMap": "mana_1",
+  "basePattern": {
+    "structureDir": [
+      "FRONT",
+      "UP",
+      "LEFT"
+    ],
+    "pattern": [
+      [
+        "@"
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "controller": {
+        "location": "equation:mana_to_fluid_2",
+        "type": "component"
+      },
+      "air": {
+        "type": "air"
+      },
+      "any": {
+        "type": "any"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "-": [
+        "air"
+      ]
+    }
+  }
+}

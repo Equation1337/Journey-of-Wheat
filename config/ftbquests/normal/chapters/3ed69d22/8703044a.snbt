@@ -1,0 +1,21 @@
+{
+	title: "电磁聚合发电厂",
+	x: 18.0d,
+	y: 10.0d,
+	shape: "gear",
+	dependencies: [
+		"b905285f"
+	],
+	tasks: [{
+		uid: "5547923a",
+		type: "item",
+		items: [{
+			item: "modularmachinery:dianci_factory_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "10812ef3",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

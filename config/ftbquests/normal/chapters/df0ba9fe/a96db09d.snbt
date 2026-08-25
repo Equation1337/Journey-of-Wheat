@@ -1,0 +1,21 @@
+{
+	x: 12.0d,
+	y: 34.0d,
+	dependencies: [
+		"40f83448",
+		"2b8997bc"
+	],
+	tasks: [{
+		uid: "14ba84ea",
+		type: "item",
+		items: [{
+			item: "calculator:advancedassembly"
+		}]
+	}],
+	rewards: [{
+		uid: "9c64f4e9",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

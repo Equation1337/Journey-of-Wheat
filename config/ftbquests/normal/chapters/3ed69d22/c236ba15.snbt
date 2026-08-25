@@ -1,0 +1,19 @@
+{
+	x: 14.0d,
+	y: 4.0d,
+	dependencies: [
+		"38e60bd2"
+	],
+	tasks: [{
+		uid: "6b4067f2",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:table_advanced"
+		}]
+	}],
+	rewards: [{
+		uid: "9a34111f",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

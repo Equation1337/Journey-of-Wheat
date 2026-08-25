@@ -1,0 +1,20 @@
+{
+	x: 14.0d,
+	y: 24.0d,
+	dependencies: [
+		"642acf52"
+	],
+	tasks: [{
+		uid: "298b87ef",
+		type: "item",
+		items: [{
+			item: "calculator:smalltanzanite"
+		}]
+	}],
+	rewards: [{
+		uid: "6ae23c68",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

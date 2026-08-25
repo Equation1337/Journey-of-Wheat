@@ -1,0 +1,43 @@
+{
+	title: "三大工程块",
+	x: 6.0d,
+	y: 14.0d,
+	text: [
+		"分别使用钢板右键红石块铁块钢块对应红石工程块轻型工程块重型工程块",
+		"钢块要沉浸的"
+	],
+	dependencies: [
+		"ee304cdb"
+	],
+	tasks: [{
+		uid: "6d4ec9b7",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "3d35a239",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}]
+	},
+	{
+		uid: "b920d9a5",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "243a045e",
+		type: "item",
+		item: "immersivepetroleum:schematic"
+	},
+	{
+		uid: "8d7416d7",
+		type: "item",
+		item: "immersiveengineering:tool 1 3"
+	}]
+}

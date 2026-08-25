@@ -1,0 +1,19 @@
+{
+	x: 8.0d,
+	y: 12.0d,
+	dependencies: [
+		"af45581f"
+	],
+	tasks: [{
+		uid: "026bb188",
+		type: "item",
+		items: [{
+			item: "essentialcraft:matrixabsorber"
+		}]
+	}],
+	rewards: [{
+		uid: "ef49aaa7",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

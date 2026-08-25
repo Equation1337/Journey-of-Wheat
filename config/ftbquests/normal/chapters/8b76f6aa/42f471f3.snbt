@@ -1,0 +1,30 @@
+{
+	x: 4.0d,
+	y: 2.0d,
+	text: [
+		"制作一个暗室或是刷怪塔来获得"
+	],
+	dependencies: [
+		"5b8bf7c3"
+	],
+	tasks: [{
+		uid: "160dd136",
+		type: "item",
+		items: [{
+			item: "minecraft:dye 1 15"
+		}]
+	},
+	{
+		uid: "0ee4a512",
+		type: "item",
+		items: [{
+			item: "futuremc:composter"
+		}]
+	}],
+	rewards: [{
+		uid: "889234e5",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

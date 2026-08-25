@@ -1,0 +1,20 @@
+{
+	x: 24.0d,
+	y: 5.0d,
+	dependencies: [
+		"408e9fb2",
+		"c236ba15"
+	],
+	tasks: [{
+		uid: "065dcaf5",
+		type: "item",
+		items: [{
+			item: "environmentaltech:void_ore_miner_cont_5"
+		}]
+	}],
+	rewards: [{
+		uid: "13372fc9",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

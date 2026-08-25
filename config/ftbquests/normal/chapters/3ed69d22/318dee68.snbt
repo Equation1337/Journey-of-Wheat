@@ -1,0 +1,48 @@
+{
+	title: "矿物陨石",
+	x: 40.0d,
+	y: 24.0d,
+	dependencies: [
+		"405ce71a"
+	],
+	tasks: [{
+		uid: "03e242b7",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:ore 1 3"
+		}]
+	},
+	{
+		uid: "65a71706",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:ore 1 5"
+		}]
+	},
+	{
+		uid: "cb7b0620",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:ore 1 6"
+		}]
+	},
+	{
+		uid: "27fd4bf1",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:ore 1 7"
+		}]
+	},
+	{
+		uid: "9bdb1842",
+		type: "item",
+		items: [{
+			item: "matteroverdrive:tritanium_ore"
+		}]
+	}],
+	rewards: [{
+		uid: "e3eeb230",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

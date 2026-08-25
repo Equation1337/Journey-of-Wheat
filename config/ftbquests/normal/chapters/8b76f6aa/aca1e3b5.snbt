@@ -1,0 +1,20 @@
+{
+	x: 16.0d,
+	y: 14.0d,
+	dependencies: [
+		"04becd72"
+	],
+	tasks: [{
+		uid: "deb5d5b2",
+		type: "item",
+		items: [{
+			item: "minecraft:reeds"
+		}]
+	}],
+	rewards: [{
+		uid: "003b96f8",
+		type: "item",
+		item: "snad:snad",
+		random_bonus: 3
+	}]
+}

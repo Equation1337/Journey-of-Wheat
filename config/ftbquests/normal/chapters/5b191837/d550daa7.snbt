@@ -1,0 +1,26 @@
+{
+	title: "分割徽章",
+	x: 24.0d,
+	y: 9.0d,
+	text: [
+		"一种具有耐久的神必东西",
+		"在巫异时刻（午夜时分）屠杀祭品。在午夜时分，在祭坛宰杀一只在附魔台上的动物，怪物或玩家（可以用黄金套索来帮助移动动物，也可以用玻璃等方块来固定怪物位置）。如果献祭成功，会在祭坛处出现一道落雷。且附魔台附近的部分土地会立刻转换为诅咒之土，包括铺有红石的土地。如果铺有红石的土地被转化了，那么该方块上的红石将无法回收。"
+	],
+	dependencies: [
+		"63ac9e05"
+	],
+	tasks: [{
+		uid: "0778a639",
+		type: "item",
+		items: [{
+			item: "contenttweaker:fenge_huizhang"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f67c6544",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

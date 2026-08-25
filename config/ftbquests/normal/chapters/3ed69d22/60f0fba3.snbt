@@ -1,0 +1,27 @@
+{
+	title: "意志之晶",
+	x: 24.0d,
+	y: 25.0d,
+	dependencies: [
+		"85f20c4f"
+	],
+	tasks: [{
+		uid: "e488b65c",
+		type: "item",
+		items: [{
+			item: "bloodmagic:demon_crucible"
+		}]
+	},
+	{
+		uid: "5912e4d6",
+		type: "item",
+		items: [{
+			item: "bloodmagic:demon_crystallizer"
+		}]
+	}],
+	rewards: [{
+		uid: "ecf1ea3f",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

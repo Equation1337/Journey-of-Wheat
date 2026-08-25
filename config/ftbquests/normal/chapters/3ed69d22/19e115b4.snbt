@@ -1,0 +1,19 @@
+{
+	x: 6.0d,
+	y: 8.0d,
+	dependencies: [
+		"67fed0b1"
+	],
+	tasks: [{
+		uid: "dc1c8022",
+		type: "item",
+		items: [{
+			item: "fm:iridium_reinforced_fuel_rod"
+		}]
+	}],
+	rewards: [{
+		uid: "acb1e781",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

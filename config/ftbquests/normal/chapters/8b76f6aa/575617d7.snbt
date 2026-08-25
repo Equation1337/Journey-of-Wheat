@@ -1,0 +1,21 @@
+{
+	x: 30.0d,
+	y: 17.0d,
+	dependencies: [
+		"e7b7559e",
+		"5c051622"
+	],
+	tasks: [{
+		uid: "a8ae99e0",
+		type: "item",
+		items: [{
+			item: "efab:upgrade_armory"
+		}]
+	}],
+	rewards: [{
+		uid: "270e7ec0",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

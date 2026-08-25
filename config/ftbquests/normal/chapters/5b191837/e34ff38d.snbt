@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"50e98116"
+	],
+	tasks: [{
+		uid: "2eb25897",
+		type: "item",
+		items: [{
+			item: "aetherworks:aether_ore"
+		}]
+	}],
+	rewards: [{
+		uid: "25555e5a",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 20.0d,
+	y: -3.0d,
+	dependencies: [
+		"07abf7c2"
+	],
+	tasks: [{
+		uid: "3d4402f1",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:compound"
+		}]
+	}]
+}

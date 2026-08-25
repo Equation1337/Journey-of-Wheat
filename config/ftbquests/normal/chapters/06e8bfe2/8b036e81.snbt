@@ -1,0 +1,17 @@
+{
+	title: "母猪的产后护理",
+	x: 6.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "cf508565",
+		type: "item",
+		items: [{
+			item: "farmingforblockheads:feeding_trough"
+		}]
+	}],
+	rewards: [{
+		uid: "3f8ea603",
+		type: "item",
+		item: "farmingforblockheads:feeding_trough"
+	}]
+}

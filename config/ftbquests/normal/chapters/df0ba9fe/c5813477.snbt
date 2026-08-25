@@ -1,0 +1,20 @@
+{
+	x: 16.0d,
+	y: 24.0d,
+	dependencies: [
+		"2488acdb"
+	],
+	tasks: [{
+		uid: "92f9ef0b",
+		type: "item",
+		items: [{
+			item: "calculator:atomicmodule"
+		}]
+	}],
+	rewards: [{
+		uid: "c2317bba",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

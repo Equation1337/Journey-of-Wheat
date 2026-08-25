@@ -1,0 +1,21 @@
+{
+	x: 16.0d,
+	y: 12.0d,
+	dependencies: [
+		"7c040526"
+	],
+	tasks: [{
+		uid: "096751f8",
+		type: "item",
+		items: [{
+			item: "psi:cad_assembly"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6f3289c4",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

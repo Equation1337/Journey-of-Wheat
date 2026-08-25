@@ -1,0 +1,14 @@
+{
+	x: 18.0d,
+	y: -3.0d,
+	dependencies: [
+		"1612c35d"
+	],
+	tasks: [{
+		uid: "d7924d82",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:crystallizer"
+		}]
+	}]
+}

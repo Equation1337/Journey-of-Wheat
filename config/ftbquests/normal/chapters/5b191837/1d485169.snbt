@@ -1,0 +1,19 @@
+{
+	x: 26.0d,
+	y: 25.0d,
+	dependencies: [
+		"46217b23"
+	],
+	tasks: [{
+		uid: "66d3f150",
+		type: "item",
+		items: [{
+			item: "ae2stuff:wireless"
+		}]
+	}],
+	rewards: [{
+		uid: "bb7fd257",
+		type: "item",
+		item: "ae2stuff:wireless_kit"
+	}]
+}

@@ -1,0 +1,35 @@
+{
+	title: "塑料板",
+	x: 8.0d,
+	y: 17.0d,
+	dependencies: [
+		"aec3faa2",
+		"836d2277"
+	],
+	tasks: [{
+		uid: "634860d9",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:plastic"
+		}]
+	},
+	{
+		uid: "13001421",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:plastic 1 6"
+		}]
+	},
+	{
+		uid: "d3c2a5ae",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:plastic 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "a27925cd",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

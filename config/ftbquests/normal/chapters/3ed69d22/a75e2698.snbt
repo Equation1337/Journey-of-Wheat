@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: 2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"d2c8333c"
+	],
+	tasks: [{
+		uid: "08ee9c69",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 76"
+		}]
+	}],
+	rewards: [{
+		uid: "bd1f150c",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

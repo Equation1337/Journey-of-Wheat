@@ -1,0 +1,22 @@
+{
+	x: 14.0d,
+	y: 15.0d,
+	text: [
+		"多方快结构看书"
+	],
+	dependencies: [
+		"cfd89981"
+	],
+	tasks: [{
+		uid: "94fe6a24",
+		type: "item",
+		items: [{
+			item: "essentialcraft:mithrilinefurnace"
+		}]
+	}],
+	rewards: [{
+		uid: "ab1b073d",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

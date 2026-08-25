@@ -1,0 +1,19 @@
+{
+	title: "知识碎片",
+	icon: "thaumicbases:knowledge_shard",
+	x: 4.0d,
+	y: 0.0d,
+	can_repeat: 1b,
+	tasks: [{
+		uid: "03562005",
+		type: "item",
+		items: [{
+			item: "ic2:crafting 1 38"
+		}]
+	}],
+	rewards: [{
+		uid: "e20cc3b8",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

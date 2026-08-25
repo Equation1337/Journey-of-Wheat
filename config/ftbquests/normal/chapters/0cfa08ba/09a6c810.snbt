@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: 10.0d,
+	dependencies: [
+		"f91b5bab"
+	],
+	tasks: [{
+		uid: "0f915637",
+		type: "item",
+		items: [{
+			item: "modularmachinery:zhanlipin_factory_controller"
+		}]
+	}]
+}

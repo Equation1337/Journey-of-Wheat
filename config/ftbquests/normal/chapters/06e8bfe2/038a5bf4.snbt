@@ -1,0 +1,17 @@
+{
+	title: "rftools",
+	x: 6.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "49187420",
+		type: "item",
+		items: [{
+			item: "rftools:machine_frame"
+		}]
+	}],
+	rewards: [{
+		uid: "83223338",
+		type: "item",
+		item: "rftools:machine_frame"
+	}]
+}

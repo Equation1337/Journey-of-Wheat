@@ -1,0 +1,18 @@
+{
+	title: "光学启航",
+	x: 0.0d,
+	y: 16.0d,
+	tasks: [{
+		uid: "0555333a",
+		type: "item",
+		items: [{
+			item: "refraction:reflective_alloy"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "48979880",
+		type: "item",
+		item: "refraction:book"
+	}]
+}

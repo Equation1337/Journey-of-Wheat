@@ -1,0 +1,19 @@
+{
+	x: 10.0d,
+	y: 13.0d,
+	dependencies: [
+		"daa38184"
+	],
+	tasks: [{
+		uid: "0a0cfe9c",
+		type: "item",
+		items: [{
+			item: "essentialcraft:radiatingchamber"
+		}]
+	}],
+	rewards: [{
+		uid: "9e117cd7",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

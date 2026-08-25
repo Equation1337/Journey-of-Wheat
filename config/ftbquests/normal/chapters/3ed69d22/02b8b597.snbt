@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: 14.0d,
+	dependencies: [
+		"6e55b882"
+	],
+	tasks: [{
+		uid: "ba7acfa5",
+		type: "item",
+		items: [{
+			item: "essentialcraft:gem_elemental 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "7d817361",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

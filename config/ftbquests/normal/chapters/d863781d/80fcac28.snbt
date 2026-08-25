@@ -1,0 +1,14 @@
+{
+	x: 12.0d,
+	y: 6.0d,
+	dependencies: [
+		"27a3c8aa"
+	],
+	tasks: [{
+		uid: "fab2f500",
+		type: "item",
+		items: [{
+			item: "buildcraftsilicon:laser"
+		}]
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: 2.0d,
+	y: 16.0d,
+	text: [
+		"要叠高高哦"
+	],
+	dependencies: [
+		"6bfbbda6"
+	],
+	tasks: [{
+		uid: "f35b1061",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:refinery"
+		}]
+	}],
+	rewards: [{
+		uid: "9c1a40d9",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

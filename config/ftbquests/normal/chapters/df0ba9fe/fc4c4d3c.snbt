@@ -1,0 +1,21 @@
+{
+	x: 10.0d,
+	y: 30.0d,
+	dependencies: [
+		"d2e6956a",
+		"6b14302b"
+	],
+	tasks: [{
+		uid: "2d120f3d",
+		type: "item",
+		items: [{
+			item: "embers:wildfire_core"
+		}]
+	}],
+	rewards: [{
+		uid: "8c5fcbdd",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 2.0d,
+	y: 10.0d,
+	dependencies: [
+		"37c75e00"
+	],
+	tasks: [{
+		uid: "cc9ccd3a",
+		type: "item",
+		items: [{
+			item: "efab:rfstorage_advanced"
+		}]
+	}],
+	rewards: [{
+		uid: "9e74d235",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: 6.0d,
+	y: 17.0d,
+	dependencies: [
+		"35d7e4ba",
+		"e135d90f"
+	],
+	tasks: [{
+		uid: "4f826a99",
+		type: "item",
+		items: [{
+			tag: {
+				Amount: 1000,
+				FluidName: "plastic"
+			},
+			id: "forge:bucketfilled"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fdad79ac",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

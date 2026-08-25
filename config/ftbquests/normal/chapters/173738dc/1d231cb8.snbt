@@ -1,0 +1,15 @@
+{
+	title: "量子计算机",
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"4c4daf49"
+	],
+	tasks: [{
+		uid: "e5744f86",
+		type: "item",
+		items: [{
+			item: "modularmachinery:computer_controller"
+		}]
+	}]
+}

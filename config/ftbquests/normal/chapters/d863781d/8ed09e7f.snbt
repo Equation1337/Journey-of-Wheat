@@ -1,0 +1,24 @@
+{
+	x: 10.0d,
+	y: 21.0d,
+	text: [
+		"作物杂交架"
+	],
+	dependencies: [
+		"1a329c22",
+		"1aa5d1ca"
+	],
+	tasks: [{
+		uid: "a3086f9e",
+		type: "item",
+		items: [{
+			item: "planttech2:cropbars"
+		}]
+	}],
+	rewards: [{
+		uid: "408d7fc1",
+		type: "item",
+		item: "planttech2:cropbars",
+		random_bonus: 63
+	}]
+}

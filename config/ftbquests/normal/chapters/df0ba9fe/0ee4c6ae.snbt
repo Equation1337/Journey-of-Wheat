@@ -1,0 +1,20 @@
+{
+	x: 4.0d,
+	y: 22.0d,
+	dependencies: [
+		"674a89d2"
+	],
+	tasks: [{
+		uid: "89571402",
+		type: "item",
+		items: [{
+			item: "embers:cinder_plinth"
+		}]
+	}],
+	rewards: [{
+		uid: "06822511",
+		type: "item",
+		item: "embers:dust_ash",
+		random_bonus: 127
+	}]
+}

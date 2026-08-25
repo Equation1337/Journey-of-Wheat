@@ -1,0 +1,16 @@
+{
+	title: "晶体电路板-赤",
+	x: 24.0d,
+	y: 4.5d,
+	dependencies: [
+		"babd468e",
+		"321b2074"
+	],
+	tasks: [{
+		uid: "ce0c8fcf",
+		type: "item",
+		items: [{
+			item: "contenttweaker:cir_red"
+		}]
+	}]
+}

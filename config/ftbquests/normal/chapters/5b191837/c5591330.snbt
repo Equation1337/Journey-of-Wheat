@@ -1,0 +1,31 @@
+{
+	title: "天辉水晶石",
+	icon: {
+		tag: {
+			astralsorcery: {
+				crystalProperties: {
+					size: 900,
+					sizeOverride: -1,
+					purity: 100,
+					collectiveCapability: 100,
+					fract: 0
+				}
+			}
+		},
+		id: "astralsorcery:itemcelestialcrystal"
+	},
+	x: 16.0d,
+	y: 4.0d,
+	dependencies: [
+		"a6e2a728"
+	],
+	tasks: [{
+		uid: "45282fbc",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "a81b434c",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

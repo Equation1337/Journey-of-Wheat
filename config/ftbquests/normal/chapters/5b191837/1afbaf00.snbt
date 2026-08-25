@@ -1,0 +1,39 @@
+{
+	title: "熔炉配件",
+	x: 2.0d,
+	y: 2.0d,
+	text: [
+		"合成台置于四周黎明石块上",
+		"加热散热器置于黎明石块侧面，供水，灰烬能以及红石信号，并于底部放置熔岩/冰",
+		"金属成型台将物品置于达到一定温度自动转化"
+	],
+	dependencies: [
+		"d9600580"
+	],
+	tasks: [{
+		uid: "0ecb06c4",
+		type: "item",
+		items: [{
+			item: "aetherworks:forge_component 1 1"
+		}]
+	},
+	{
+		uid: "c1365c21",
+		type: "item",
+		items: [{
+			item: "aetherworks:forge_component 1 2"
+		}]
+	},
+	{
+		uid: "196f65c4",
+		type: "item",
+		items: [{
+			item: "aetherworks:forge_component 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "90dee40f",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

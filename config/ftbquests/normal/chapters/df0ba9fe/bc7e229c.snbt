@@ -1,0 +1,32 @@
+{
+	title: "光束反射器",
+	x: 2.0d,
+	y: 16.0d,
+	text: [
+		"需要保证放大镜上方有3*3的透镜才能聚焦阳光"
+	],
+	dependencies: [
+		"c5746afc"
+	],
+	tasks: [{
+		uid: "85d1ef1e",
+		type: "item",
+		items: [{
+			item: "refraction:lens"
+		}],
+		count: 9L
+	},
+	{
+		uid: "e559baac",
+		type: "item",
+		items: [{
+			item: "refraction:magnifier"
+		}]
+	}],
+	rewards: [{
+		uid: "bf8a2d1d",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

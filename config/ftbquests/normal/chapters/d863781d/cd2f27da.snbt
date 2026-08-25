@@ -1,0 +1,21 @@
+{
+	x: 4.0d,
+	y: 10.0d,
+	dependencies: [
+		"37c75e00",
+		"e89714b4"
+	],
+	tasks: [{
+		uid: "cbd5572e",
+		type: "item",
+		items: [{
+			item: "forestry:squeezer"
+		}]
+	}],
+	rewards: [{
+		uid: "e4faf605",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 14.0d,
+	y: 12.0d,
+	dependencies: [
+		"e2ff7714"
+	],
+	tasks: [{
+		uid: "9a290b64",
+		type: "item",
+		items: [{
+			item: "enderio:item_capacitor_melodic"
+		}]
+	}]
+}

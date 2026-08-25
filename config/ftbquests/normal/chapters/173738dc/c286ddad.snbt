@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 2.0d,
+	dependencies: [
+		"39f6eb84"
+	],
+	tasks: [{
+		uid: "e2e0a33a",
+		type: "item",
+		items: [{
+			item: "calculator:flawlessassembly"
+		}]
+	}]
+}

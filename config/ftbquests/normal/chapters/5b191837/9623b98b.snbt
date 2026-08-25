@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: 24.0d,
+	dependencies: [
+		"64b981b5"
+	],
+	tasks: [{
+		uid: "7152e099",
+		type: "item",
+		items: [{
+			item: "enderio:item_basic_capacitor 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "f4e90012",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

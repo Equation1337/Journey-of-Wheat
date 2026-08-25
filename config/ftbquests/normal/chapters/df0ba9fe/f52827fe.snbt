@@ -1,0 +1,25 @@
+{
+	x: 2.0d,
+	y: 24.0d,
+	text: [
+		"不会玩可以mcmod搜余烬"
+	],
+	dependencies: [
+		"5c421bd0"
+	],
+	tasks: [{
+		uid: "8c93ab75",
+		type: "item",
+		items: [{
+			item: "embers:ember_activator"
+		}]
+	}],
+	rewards: [{
+		uid: "0449c11f",
+		type: "item",
+		item: {
+			tag: {},
+			id: "embers:tinker_hammer"
+		}
+	}]
+}

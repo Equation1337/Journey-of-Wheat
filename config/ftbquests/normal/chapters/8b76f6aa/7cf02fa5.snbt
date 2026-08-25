@@ -1,0 +1,24 @@
+{
+	title: "这个可以种的",
+	x: 6.0d,
+	y: 2.0d,
+	text: [
+		"打草还能获得南瓜种子"
+	],
+	dependencies: [
+		"42f471f3"
+	],
+	tasks: [{
+		uid: "b4bd6fb6",
+		type: "item",
+		items: [{
+			item: "minecraft:pumpkin_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "9bbffbc7",
+		type: "item",
+		item: "minecraft:pumpkin",
+		random_bonus: 4
+	}]
+}

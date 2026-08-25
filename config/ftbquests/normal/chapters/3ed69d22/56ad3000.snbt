@@ -1,0 +1,19 @@
+{
+	x: 16.0d,
+	y: 23.0d,
+	dependencies: [
+		"273f2b7a"
+	],
+	tasks: [{
+		uid: "04b8ac83",
+		type: "item",
+		items: [{
+			item: "essentialcraft:ultraheatgen"
+		}]
+	}],
+	rewards: [{
+		uid: "fe49eb0b",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

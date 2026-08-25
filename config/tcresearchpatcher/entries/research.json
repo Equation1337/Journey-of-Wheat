@@ -1,0 +1,89 @@
+{
+    "entries" :[
+        {
+        "key": "TERRA",    
+        "name": "research.TERRA.title",   
+        "icons": [ "botania:textures/blocks/terra_plate_overlay.png"],
+        "category": "BOTANIA",  
+        "parents": [ "IMPETUS_MATRIX"], 
+        "location": [ 0,0 ],   
+        "stages": [
+                {
+                    "text": "research.TERRA.text.stage.1",     
+                    "required_knowledge":["THEORY;GOLEMANCY;2","OBSERVATION;AUROMANCY;1","THEORY;ALCHEMY;2","OBSERVATION;ALCHEMY;1","THEORY;INFUSION;1"]
+                }
+            ]
+        },
+        {
+            "key": "TERRA_BLOCK",    
+            "name": "research.TERRA_BLOCK.title",   
+            "icons": [ "botania:textures/items/terrasteel_ingot.png"],
+            "category": "BOTANIA",  
+            "parents": [ "TERRA"], 
+            "location": [ 0,1 ],   
+            "stages": [
+                    {
+                        "text": "research.TERRA_BLOCK.text.stage.1",     
+                        "required_knowledge":["THEORY;GOLEMANCY;2","OBSERVATION;AUROMANCY;1","THEORY;ALCHEMY;2","OBSERVATION;ALCHEMY;1","THEORY;INFUSION;1"]
+                    }
+                ]
+        },
+        {
+            "key": "GAIA",    
+            "name": "research.GAIA.title",   
+            "icons": [ "botania:textures/items/gaia_head.png"],
+            "category": "BOTANIA",  
+            "parents": [ "TERRA_BLOCK"], 
+            "location": [ 0,2 ],   
+            "stages": [
+                    {
+                        "text": "research.GAIA.text.stage.1",     
+                        "required_knowledge":["THEORY;GOLEMANCY;2","OBSERVATION;AUROMANCY;1","THEORY;ALCHEMY;2","OBSERVATION;ALCHEMY;1","THEORY;INFUSION;1"]
+                    }
+                ]
+        },
+        {
+            "key": "GAIA_PLATE",    
+            "name": "research.GAIA_PLATE.title",   
+            "icons": [ "botania:textures/items/gaia_ingot.png"],
+            "category": "BOTANIA",  
+            "parents": [ "GAIA"], 
+            "location": [ 0,3 ],   
+            "stages": [
+                    {
+                        "text": "research.GAIA_PLATE.text.stage.1",     
+                        "required_knowledge":["THEORY;GOLEMANCY;2","OBSERVATION;AUROMANCY;1","THEORY;ALCHEMY;2","OBSERVATION;ALCHEMY;1","THEORY;INFUSION;1"]
+                    }
+                ]
+        },
+        {
+            "key": "END",    
+            "name": "research.END.title",   
+            "icons": [ "botania:textures/items/bottle_ender_air.png"],
+            "category": "BOTANIA",  
+            "parents": [ "GAIA_PLATE"], 
+            "location": [ 0,4 ],   
+            "stages": [
+                    {
+                        "text": "research.END.text.stage.1",     
+                        "required_knowledge":["THEORY;GOLEMANCY;2","OBSERVATION;AUROMANCY;1","THEORY;ALCHEMY;2","OBSERVATION;ALCHEMY;1","THEORY;INFUSION;1"]
+                    }
+                ]
+        },
+        {
+            "key": "FLOWER",    
+            "name": "research.FLOWER.title",   
+            "icons": [ "botania:textures/blocks/flower_gen_shulk_me_not.png"],
+            "category": "BOTANIA",  
+            "parents": [ "GAIA"], 
+            "location": [ 1,2 ],   
+            "stages": [
+                    {
+                        "text": "research.FLOWER.text.stage.1",     
+                        "required_knowledge":["THEORY;GOLEMANCY;2","OBSERVATION;AUROMANCY;1","THEORY;ALCHEMY;2","OBSERVATION;ALCHEMY;1","THEORY;INFUSION;1"]
+                    }
+                ]
+        }
+    ]
+}
+    

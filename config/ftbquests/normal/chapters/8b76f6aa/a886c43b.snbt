@@ -1,0 +1,21 @@
+{
+	x: 34.0d,
+	y: 19.0d,
+	dependencies: [
+		"0a3c8069",
+		"7592e8a0"
+	],
+	tasks: [{
+		uid: "05a6a762",
+		type: "item",
+		items: [{
+			item: "roots:chiseled_runestone"
+		}]
+	}],
+	rewards: [{
+		uid: "97a31bca",
+		type: "item",
+		item: "roots:runestone",
+		random_bonus: 9
+	}]
+}

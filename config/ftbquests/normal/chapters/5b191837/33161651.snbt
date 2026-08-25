@@ -1,0 +1,21 @@
+{
+	x: 18.0d,
+	y: 3.0d,
+	dependencies: [
+		"3fdaa20e"
+	],
+	tasks: [{
+		uid: "2999eb4b",
+		type: "item",
+		items: [{
+			item: "astralsorcery:itemhandtelescope"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ecaaf4f9",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 22.0d,
+	y: 12.0d,
+	dependencies: [
+		"3b0802be"
+	],
+	tasks: [{
+		uid: "7b93c774",
+		type: "item",
+		items: [{
+			item: "fm:fuel_cesium"
+		}]
+	}],
+	rewards: [{
+		uid: "72f1d43f",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

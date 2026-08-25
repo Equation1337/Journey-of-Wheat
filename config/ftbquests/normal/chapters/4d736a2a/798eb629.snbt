@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "71985786",
+		type: "item",
+		items: [{
+			item: "modularmachinery:jiexi_controller"
+		}]
+	}]
+}

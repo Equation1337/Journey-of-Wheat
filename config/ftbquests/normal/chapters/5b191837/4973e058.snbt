@@ -1,0 +1,24 @@
+{
+	title: "压缩空间",
+	x: 2.0d,
+	y: 26.0d,
+	text: [
+		"什么这不是面膜这是压缩毛巾"
+	],
+	dependencies: [
+		"7a987086"
+	],
+	tasks: [{
+		uid: "2424e7d3",
+		type: "item",
+		items: [{
+			item: "compactmachines3:fieldprojector"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "e07f10a8",
+		type: "item",
+		item: "compactmachines3:psd"
+	}]
+}

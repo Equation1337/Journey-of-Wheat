@@ -1,0 +1,19 @@
+{
+	x: 8.0d,
+	y: 24.0d,
+	dependencies: [
+		"e8a2b783"
+	],
+	tasks: [{
+		uid: "ce3c004e",
+		type: "checkmark",
+		title: "用于自动化压板齿轮杆线XD",
+		icon: "immersiveengineering:metal_multiblock"
+	}],
+	rewards: [{
+		uid: "3a011b94",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

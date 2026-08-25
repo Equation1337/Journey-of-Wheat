@@ -1,0 +1,21 @@
+{
+	x: 20.0d,
+	y: 21.0d,
+	dependencies: [
+		"31ecdf63"
+	],
+	tasks: [{
+		uid: "08dd2423",
+		type: "item",
+		items: [{
+			item: "bloodmagic:arcane_ashes"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e5ed2a4e",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

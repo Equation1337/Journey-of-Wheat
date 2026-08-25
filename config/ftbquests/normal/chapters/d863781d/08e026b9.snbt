@@ -1,0 +1,20 @@
+{
+	x: 6.0d,
+	y: 6.0d,
+	dependencies: [
+		"95e04a28",
+		"5ef70914"
+	],
+	tasks: [{
+		uid: "0f07daf7",
+		type: "item",
+		items: [{
+			item: "magneticraft:hydraulic_press"
+		}]
+	}],
+	rewards: [{
+		uid: "4456e6a2",
+		type: "item",
+		item: "magneticraft:rf_transformer"
+	}]
+}

@@ -1,0 +1,25 @@
+import mods.randomtweaker.botania.IOrechid;
+
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreAluminum>, 3940);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreAmber>, 2075);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreApatite>, 1595);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreCertusQuartz>, 3975);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreCinnabar>, 2585);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreCoal>, 46525);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreCopper>, 8325);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreDiamond>, 1265);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreEmerald>, 780);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreGalena>, 1000);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreGold>, 2970);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreIron>, 20665);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreLapis>, 1285);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreLead>, 7985);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreNickel>, 2275);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:orePlatinum>, 365);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreRedstone>, 6885);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreSilver>, 6300);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreSulfur>, 1105);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreTin>, 9450);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreUranium>, 1337);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreTungsten>, 3520);
+IOrechid.addOreRecipe(<minecraft:stone>, <ore:oreCobalt>, 1000);

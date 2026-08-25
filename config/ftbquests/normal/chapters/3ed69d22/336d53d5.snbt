@@ -1,0 +1,20 @@
+{
+	x: 24.0d,
+	y: 7.0d,
+	dependencies: [
+		"408e9fb2",
+		"c236ba15"
+	],
+	tasks: [{
+		uid: "3dca5de2",
+		type: "item",
+		items: [{
+			item: "environmentaltech:solar_cont_5"
+		}]
+	}],
+	rewards: [{
+		uid: "3e59111d",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 16.0d,
+	y: 25.0d,
+	dependencies: [
+		"273f2b7a"
+	],
+	tasks: [{
+		uid: "ddc2dce5",
+		type: "item",
+		items: [{
+			item: "essentialcraft:ultraflowerburner"
+		}]
+	}],
+	rewards: [{
+		uid: "df83a355",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

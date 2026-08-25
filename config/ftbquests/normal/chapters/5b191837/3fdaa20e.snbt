@@ -1,0 +1,35 @@
+{
+	x: 16.0d,
+	y: 1.0d,
+	dependencies: [
+		"95d00ad4"
+	],
+	tasks: [{
+		uid: "f2c933a4",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockaltar"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8f047fca",
+		type: "item",
+		item: {
+			tag: {
+				astralsorcery: {}
+			},
+			id: "astralsorcery:itemknowledgeshare"
+		}
+	},
+	{
+		uid: "ddf9efd8",
+		type: "item",
+		item: "bloodmagic:ritual_controller 1 1"
+	},
+	{
+		uid: "020b3783",
+		type: "item",
+		item: "minecraft:lapis_block"
+	}]
+}

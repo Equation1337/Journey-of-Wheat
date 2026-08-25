@@ -1,0 +1,20 @@
+{
+	title: "好用爱用",
+	x: 0.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "dd4acce5",
+		type: "item",
+		items: [{
+			tag: {
+				material: "oak"
+			},
+			id: "storagedrawers:basicdrawers"
+		}]
+	}],
+	rewards: [{
+		uid: "8a8ef2f5",
+		type: "item",
+		item: "storagedrawers:drawer_key"
+	}]
+}

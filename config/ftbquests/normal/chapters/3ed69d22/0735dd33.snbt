@@ -1,0 +1,19 @@
+{
+	x: 18.0d,
+	y: 12.0d,
+	dependencies: [
+		"adb01d03"
+	],
+	tasks: [{
+		uid: "6514637f",
+		type: "item",
+		items: [{
+			item: "fm:semi_coaxium_rod_quad"
+		}]
+	}],
+	rewards: [{
+		uid: "3192d2bc",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

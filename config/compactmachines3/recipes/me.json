@@ -1,0 +1,230 @@
+{
+  "name": "compactmachines3:mequdongqi",
+  "disabled": false,
+  "target-item": "appliedenergistics2:drive",
+  "target-count": 1,
+  "duration": 50,
+  "symmetrical": true,
+  "catalyst": "pneumaticcraft:printed_circuit_board",
+  "input-types": {
+    "a": {
+      "id": "extrautils2:decorativesolid",
+      "meta": 3
+    },
+    "b": {
+      "id": "immersiveengineering:storage_slab",
+      "meta": 8
+    },
+    "c": {
+      "id": "immersiveengineering:storage",
+      "meta": 8
+    },
+    "d": {
+      "id": "pneumaticcraft:compressed_iron_block",
+      "meta": 0
+    },
+    "e": {
+      "id": "lightningcraft:stone_block",
+      "meta": 0
+    },
+    "f": {
+      "id": "appliedenergistics2:quartz_block",
+      "meta": 0
+    },
+    "g": {
+      "id": "immersiveintelligence:metal_decoration",
+      "meta": 1
+    },
+    "h": {
+      "id": "appliedenergistics2:fluix_block",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      [
+        "a",
+        "a",
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "d:J",
+        "d:J",
+        "d:A",
+        "a"
+      ],
+      [
+        "a",
+        "d:J",
+        "d:B",
+        "d:B",
+        "a"
+      ],
+      [
+        "a",
+        "d:A",
+        "d:A",
+        "d:B",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a",
+        "a",
+        "a"
+      ]
+    ],
+    [
+      [
+        "a",
+        "d:U",
+        "d:V",
+        "d:W",
+        "a"
+      ],
+      [
+        "d:Q",
+        "g",
+        "g",
+        "g",
+        "d:L"
+      ],
+      [
+        "d:K",
+        "f",
+        "f",
+        "f",
+        "d:L"
+      ],
+      [
+        "d:C",
+        "e",
+        "e",
+        "e",
+        "d:D"
+      ],
+      [
+        "a",
+        "b:A",
+        "c",
+        "b:A",
+        "a"
+      ]
+    ],
+    [
+      [
+        "a",
+        "d:X",
+        "d:X",
+        "d:Y",
+        "a"
+      ],
+      [
+        "d:Q",
+        "h",
+        "h",
+        "h",
+        "d:R"
+      ],
+      [
+        "d:M",
+        "g",
+        "g",
+        "g",
+        "d:N"
+      ],
+      [
+        "d:E",
+        "e",
+        "e",
+        "e",
+        "d:F"
+      ],
+      [
+        "a",
+        "b:A",
+        "c",
+        "b:A",
+        "a"
+      ]
+    ],
+    [
+      [
+        "a",
+        "d:Z",
+        "d:[",
+        "d:\\",
+        "a"
+      ],
+      [
+        "d:S",
+        "g",
+        "g",
+        "g",
+        "d:T"
+      ],
+      [
+        "d:O",
+        "f",
+        "f",
+        "f",
+        "d:P"
+      ],
+      [
+        "d:G",
+        "e",
+        "e",
+        "e",
+        "d:H"
+      ],
+      [
+        "a",
+        "b:A",
+        "c",
+        "b:A",
+        "a"
+      ]
+    ],
+    [
+      [
+        "a",
+        "a",
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "d:I",
+        "d:I",
+        "d:I",
+        "a"
+      ],
+      [
+        "a",
+        "d:I",
+        "d:I",
+        "d:I",
+        "a"
+      ],
+      [
+        "a",
+        "d:I",
+        "d:I",
+        "d:I",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a",
+        "a",
+        "a"
+      ]
+    ]
+  ]
+}

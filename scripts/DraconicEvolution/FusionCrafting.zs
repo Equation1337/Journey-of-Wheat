@@ -1,0 +1,11 @@
+import moretweaker.draconicevolution.FusionCrafting;
+
+FusionCrafting.remove(<draconicevolution:draconium_block> * 4);
+FusionCrafting.remove(<minecraft:nether_star>);
+FusionCrafting.remove(<draconicevolution:chaos_shard>);
+
+FusionCrafting.add(<draconicevolution:wyvern_energy_core>, <draconicevolution:wyvern_core> * 2, FusionCrafting.WYVERN, 1000000, [<draconicevolution:wyvern_core>, <draconicevolution:wyvern_core>, <nuclearcraft:lithium_ion_cell>, <nuclearcraft:lithium_ion_cell>, <ic2:energy_crystal:26>, <ic2:energy_crystal:26>]);
+FusionCrafting.add(<draconicevolution:draconic_energy_core>, <draconicevolution:draconic_ingot> * 3, FusionCrafting.DRACONIC, 10000000, [<draconicevolution:draconic_ingot>, <draconicevolution:draconic_ingot>, <draconicevolution:draconic_ingot>, <draconicevolution:draconic_ingot>, <draconicevolution:draconic_ingot>, <draconicevolution:wyvern_energy_core>, <draconicevolution:awakened_core>]);
+FusionCrafting.add(<draconicevolution:reactor_core>, <draconicevolution:chaos_shard>, FusionCrafting.CHAOTIC, 448000000, [<draconicevolution:draconic_ingot>, <draconicevolution:draconic_ingot>, <draconicevolution:draconic_ingot>, <draconicevolution:draconic_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>]);
+FusionCrafting.add(<modularmachinery:dragon_mk2_controller>, <modularmachinery:dragon_controller>, FusionCrafting.DRACONIC, 50000000, [<qmd:semiconductor:6>, <qmd:semiconductor:6>, <draconicevolution:awakened_core>, <draconicevolution:awakened_core>, <draconicevolution:awakened_core>, <draconicevolution:draconic_energy_core>, <draconicevolution:draconic_energy_core>, <draconicevolution:draconic_energy_core>]);
+FusionCrafting.add(<modularmachinery:tokmak_factory_controller>, <equation:chaoguangsu>, FusionCrafting.CHAOTIC, 2147483647, [<draconicevolution:chaotic_core>, <draconicevolution:chaotic_core>, <draconicevolution:chaotic_core>, <draconicadditions:chaotic_energy_core>, <draconicadditions:chaotic_energy_core>, <draconicadditions:chaotic_energy_core>, <draconicevolution:reactor_core>, <draconicevolution:reactor_component>]);

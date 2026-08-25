@@ -1,0 +1,19 @@
+{
+	x: 14.0d,
+	y: 44.0d,
+	dependencies: [
+		"7f4678a3"
+	],
+	tasks: [{
+		uid: "7b600ac5",
+		type: "item",
+		items: [{
+			item: "enderio:block_powered_spawner"
+		}]
+	}],
+	rewards: [{
+		uid: "4c69f6db",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

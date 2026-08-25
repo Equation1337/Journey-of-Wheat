@@ -1,0 +1,23 @@
+{
+	x: 8.0d,
+	y: 17.0d,
+	text: [
+		"由此你可以制作自动化的树场了"
+	],
+	dependencies: [
+		"4d3ce2eb"
+	],
+	tasks: [{
+		uid: "122eebd9",
+		type: "item",
+		items: [{
+			item: "forestry:arboretum"
+		}]
+	}],
+	rewards: [{
+		uid: "db93e87a",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

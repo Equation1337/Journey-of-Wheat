@@ -1,0 +1,19 @@
+{
+	x: 14.0d,
+	y: 19.0d,
+	dependencies: [
+		"cfd89981"
+	],
+	tasks: [{
+		uid: "dd693c77",
+		type: "item",
+		items: [{
+			item: "essentialcraft:genitem 1 44"
+		}]
+	}],
+	rewards: [{
+		uid: "1ad19e23",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

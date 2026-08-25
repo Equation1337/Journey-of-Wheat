@@ -1,0 +1,26 @@
+{
+	x: 22.0d,
+	y: 12.0d,
+	text: [
+		"全模组最重要的合成台，有了它你可以直接在它里面合成雷电锭"
+	],
+	dependencies: [
+		"530e2656",
+		"8a8cb376",
+		"1d5cefe3",
+		"c72f0e98"
+	],
+	tasks: [{
+		uid: "1c99bfd7",
+		type: "item",
+		items: [{
+			item: "lightningcraft:lightning_infuser"
+		}]
+	}],
+	rewards: [{
+		uid: "40c21f6f",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

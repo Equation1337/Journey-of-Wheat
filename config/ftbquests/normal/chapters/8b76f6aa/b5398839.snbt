@@ -1,0 +1,26 @@
+{
+	title: "文能做燃料武能变黑曜石",
+	x: 22.0d,
+	y: 11.0d,
+	text: [
+		"在水晶花园中烈焰网也仅需要烈焰粉来合成"
+	],
+	dependencies: [
+		"9edc4eda",
+		"600426e2",
+		"d711839b"
+	],
+	tasks: [{
+		uid: "2cd502d4",
+		type: "item",
+		items: [{
+			item: "botania:blazeblock"
+		}]
+	}],
+	rewards: [{
+		uid: "4e8b50c3",
+		type: "item",
+		item: "minecraft:blaze_powder",
+		random_bonus: 9
+	}]
+}

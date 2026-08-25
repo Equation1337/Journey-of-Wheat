@@ -1,0 +1,48 @@
+{
+	x: 28.0d,
+	y: 17.0d,
+	dependencies: [
+		"abe1589f"
+	],
+	tasks: [{
+		uid: "d80b0eba",
+		type: "item",
+		items: [{
+			tag: {},
+			id: "appliedenergistics2:wireless_crafting_terminal"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b17fba7c",
+		type: "item",
+		items: [{
+			tag: {
+				internalCurrentPower: 1600000.0d,
+				internalMaxPower: 1600000.0d
+			},
+			id: "appliedenergistics2:wireless_pattern_terminal"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0a7a109a",
+		type: "item",
+		items: [{
+			tag: {
+				internalCurrentPower: 1600000.0d,
+				internalMaxPower: 1600000.0d
+			},
+			id: "appliedenergistics2:wireless_fluid_terminal"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6002026d",
+		type: "item",
+		item: "appliedenergistics2:material 1 59"
+	}]
+}

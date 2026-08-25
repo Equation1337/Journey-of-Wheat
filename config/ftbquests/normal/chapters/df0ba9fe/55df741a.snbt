@@ -1,0 +1,20 @@
+{
+	x: 22.0d,
+	y: 19.5d,
+	dependencies: [
+		"c0c6aa03"
+	],
+	tasks: [{
+		uid: "52c6661a",
+		type: "item",
+		items: [{
+			item: "calculator:flawlessdiamond"
+		}]
+	}],
+	rewards: [{
+		uid: "a1f81918",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

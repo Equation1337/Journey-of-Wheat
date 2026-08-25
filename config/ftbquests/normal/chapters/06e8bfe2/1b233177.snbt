@@ -1,0 +1,17 @@
+{
+	title: "刷村民机说是",
+	x: 2.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "acfffe3a",
+		type: "item",
+		items: [{
+			item: "farmingforblockheads:market"
+		}]
+	}],
+	rewards: [{
+		uid: "ded39edd",
+		type: "item",
+		item: "minecraft:emerald_block"
+	}]
+}

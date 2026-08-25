@@ -1,0 +1,29 @@
+{
+	title: "并非无中生有",
+	x: 16.0d,
+	y: 8.0d,
+	text: [
+		"你的矿物来源",
+		"在水晶花园中转化一次石头仅仅消耗200mana"
+	],
+	dependencies: [
+		"04becd72",
+		"d320aa5a"
+	],
+	tasks: [{
+		uid: "b83890dc",
+		type: "item",
+		items: [{
+			tag: {
+				type: "orechid"
+			},
+			id: "botania:specialflower"
+		}],
+		consume_items: 1b
+	}],
+	rewards: [{
+		uid: "f5946c4a",
+		type: "item",
+		item: "equation:ore_chid"
+	}]
+}

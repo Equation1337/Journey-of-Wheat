@@ -1,0 +1,19 @@
+{
+	x: 12.0d,
+	y: 2.0d,
+	dependencies: [
+		"6115d6d5"
+	],
+	tasks: [{
+		uid: "c5954eb1",
+		type: "item",
+		items: [{
+			item: "mets:super_circuit"
+		}]
+	}],
+	rewards: [{
+		uid: "1ca2671b",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

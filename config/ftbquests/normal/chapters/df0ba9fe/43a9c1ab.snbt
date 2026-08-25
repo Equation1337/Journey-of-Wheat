@@ -1,0 +1,17 @@
+{
+	x: 42.0d,
+	y: 42.0d,
+	dependencies: [
+		"ed16d4ce"
+	],
+	tasks: [{
+		uid: "03a554d6",
+		type: "dimension",
+		dim: 1
+	}],
+	rewards: [{
+		uid: "97c93a5d",
+		type: "item",
+		item: "botania_tweaks:compressed_tiny_potato_8"
+	}]
+}

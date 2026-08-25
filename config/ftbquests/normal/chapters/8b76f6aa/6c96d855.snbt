@@ -1,0 +1,23 @@
+{
+	title: "用于合成符文",
+	x: 18.0d,
+	y: 8.0d,
+	shape: "hexagon",
+	dependencies: [
+		"3f1a7fa2",
+		"2800ec12"
+	],
+	tasks: [{
+		uid: "de98560c",
+		type: "item",
+		items: [{
+			item: "botania:runealtar"
+		}]
+	}],
+	rewards: [{
+		uid: "3770dff9",
+		type: "item",
+		item: "botania:livingrock",
+		random_bonus: 15
+	}]
+}

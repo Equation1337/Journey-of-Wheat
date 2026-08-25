@@ -1,0 +1,19 @@
+{
+	title: "骨块",
+	icon: "minecraft:bone_block",
+	x: 2.0d,
+	y: 0.0d,
+	can_repeat: 1b,
+	tasks: [{
+		uid: "eca528d2",
+		type: "item",
+		items: [{
+			item: "ic2:crafting 1 38"
+		}]
+	}],
+	rewards: [{
+		uid: "e857ec1b",
+		type: "item",
+		item: "minecraft:bone_block"
+	}]
+}

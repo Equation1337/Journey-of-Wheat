@@ -1,0 +1,41 @@
+{
+	x: 38.0d,
+	y: 44.0d,
+	dependencies: [
+		"9a48b81e"
+	],
+	tasks: [{
+		uid: "ca1f3880",
+		type: "item",
+		items: [{
+			item: "botaniverse:spark_nilfheim"
+		}]
+	},
+	{
+		uid: "9082b8e2",
+		type: "item",
+		items: [{
+			item: "botaniverse:spark_muspelheim"
+		}]
+	},
+	{
+		uid: "21f8ad73",
+		type: "item",
+		items: [{
+			item: "botaniverse:spark_alfheim"
+		}]
+	},
+	{
+		uid: "15af45de",
+		type: "item",
+		items: [{
+			item: "botaniverse:spark_asgard"
+		}]
+	}],
+	rewards: [{
+		uid: "94b8ccdf",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

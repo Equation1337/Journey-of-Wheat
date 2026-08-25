@@ -1,0 +1,19 @@
+{
+	x: 8.0d,
+	y: 12.0d,
+	dependencies: [
+		"e8a2b783"
+	],
+	tasks: [{
+		uid: "a7037145",
+		type: "checkmark",
+		title: "零件组装",
+		icon: "immersiveintelligence:metal_multiblock 1 6"
+	}],
+	rewards: [{
+		uid: "47c6bf37",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

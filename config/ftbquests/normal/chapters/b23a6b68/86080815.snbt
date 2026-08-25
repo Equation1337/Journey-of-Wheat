@@ -1,0 +1,19 @@
+{
+	title: "大型魔力水晶",
+	icon: "ebwizardry:grand_crystal",
+	x: 2.0d,
+	y: 2.0d,
+	can_repeat: 1b,
+	tasks: [{
+		uid: "6becebd0",
+		type: "item",
+		items: [{
+			item: "ic2:crafting 1 38"
+		}]
+	}],
+	rewards: [{
+		uid: "8f09a474",
+		type: "item",
+		item: "ebwizardry:grand_crystal"
+	}]
+}

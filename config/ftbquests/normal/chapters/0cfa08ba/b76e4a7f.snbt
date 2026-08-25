@@ -1,0 +1,15 @@
+{
+	x: 18.0d,
+	y: 18.0d,
+	dependencies: [
+		"7540e217",
+		"2e7992fe"
+	],
+	tasks: [{
+		uid: "c8147109",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:asteroidchip"
+		}]
+	}]
+}

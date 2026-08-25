@@ -1,0 +1,42 @@
+{
+	x: 14.0d,
+	y: 38.0d,
+	shape: "heart",
+	text: [
+		"右键开启神秘时代",
+		"装上这颗心后你意外的发现你拥有了操纵时间的能力",
+		"但这种能力似乎是有代价的"
+	],
+	dependencies: [
+		"fc4c4d3c",
+		"79abf288",
+		"142ae5be",
+		"a32bcb0e",
+		"112fc654",
+		"7009dcc7",
+		"37547e8b"
+	],
+	tasks: [{
+		uid: "169eafc8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:life_core"
+		}]
+	}],
+	rewards: [{
+		uid: "526a59ed",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	},
+	{
+		uid: "0fbb9b0a",
+		type: "item",
+		item: {
+			tag: {
+				timeData: {}
+			},
+			id: "randomthings:timeinabottle"
+		}
+	}]
+}

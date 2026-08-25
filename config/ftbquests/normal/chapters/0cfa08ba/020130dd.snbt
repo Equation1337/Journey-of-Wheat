@@ -1,0 +1,14 @@
+{
+	x: 10.0d,
+	y: 16.0d,
+	dependencies: [
+		"855ea445"
+	],
+	tasks: [{
+		uid: "b6b9dc1d",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:satellitecontrolcenter"
+		}]
+	}]
+}

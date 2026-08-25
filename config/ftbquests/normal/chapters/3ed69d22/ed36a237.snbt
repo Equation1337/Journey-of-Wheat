@@ -1,0 +1,25 @@
+{
+	title: "海尔纳",
+	x: 16.0d,
+	y: 19.0d,
+	dependencies: [
+		"0a987b50"
+	],
+	tasks: [{
+		uid: "8016ccc4",
+		type: "item",
+		items: [{
+			tag: {
+				tier: 3
+			},
+			id: "essentialcraft:research_book"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1d1c305a",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

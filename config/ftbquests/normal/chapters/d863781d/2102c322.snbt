@@ -1,0 +1,24 @@
+{
+	x: 24.0d,
+	y: 11.0d,
+	dependencies: [
+		"209a782f"
+	],
+	tasks: [{
+		uid: "70b532fa",
+		type: "item",
+		items: [{
+			item: "environmentaltech:litherite_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "bce702fe",
+		type: "item",
+		item: "valkyrielib:guide"
+	},
+	{
+		uid: "b192430b",
+		type: "item",
+		item: "environmentaltech:tool_multiblock_assembler"
+	}]
+}

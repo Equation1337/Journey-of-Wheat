@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 4.0d,
+	dependencies: [
+		"8e456080",
+		"39f6eb84",
+		"0ee695f0"
+	],
+	tasks: [{
+		uid: "4cf81dbf",
+		type: "item",
+		items: [{
+			item: "modularmachinery:pcb_controller"
+		}]
+	}]
+}

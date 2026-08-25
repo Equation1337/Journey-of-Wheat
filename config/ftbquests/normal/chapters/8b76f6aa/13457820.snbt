@@ -1,0 +1,20 @@
+{
+	x: 10.0d,
+	y: 14.0d,
+	dependencies: [
+		"5d71a01f"
+	],
+	tasks: [{
+		uid: "23ea1706",
+		type: "item",
+		items: [{
+			item: "roots:bark_oak"
+		}]
+	}],
+	rewards: [{
+		uid: "0e10cb00",
+		type: "item",
+		item: "roots:bark_oak",
+		random_bonus: 3
+	}]
+}

@@ -1,0 +1,120 @@
+type = menu
+
+customization-meta {
+  identifier = lumien.custommainmenu.gui.GuiCustom
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/fancymenu/panoramas/background.png
+  action = texturizebackground
+}
+
+customization {
+  path = config/fancymenu/panoramas/music.wav
+  loop = true
+  action = addaudio
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-right
+  x = -200
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-right
+  x = -200
+  action = movebutton
+  y = 73
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = bottom-right
+  x = -98
+  action = movebutton
+  y = -52
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = bottom-right
+  x = -98
+  action = movebutton
+  y = -29
+}
+
+customization {
+  identifier = %id=346382%
+  orientation = bottom-right
+  x = -122
+  action = movebutton
+  y = -29
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-right
+  x = -200
+  action = movebutton
+  y = -19
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-right
+  x = -200
+  action = movebutton
+  y = 27
+}
+
+customization {
+  orientation = mid-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://afdian.com/a/1145141919810scf%btnaction_splitter_fm%
+  x = -200
+  width = 200
+  action = addbutton
+  actionid = 75eecc39-ee0d-4f14-977f-5f8d0fe444001744551698535
+  y = 50
+  label = 支持作者
+  height = 20
+}
+
+customization {
+  path = config/fancymenu/panoramas/title.png
+  orientation = top-left
+  x = 83
+  width = 276
+  actionid = 5f879d6c-3f1b-43a6-998a-f292dd8086ad1744553046434
+  action = addtexture
+  y = -4
+  height = 114
+}
+
+customization {
+  showname = true
+  orientation = top-left
+  crouching = false
+  x = 117
+  slim = false
+  actionid = 2db2933d-39e2-414b-9690-dc5d903a09f01744555183669
+  action = addentity
+  y = 225
+  scale = 60
+  parrot = false
+}
+

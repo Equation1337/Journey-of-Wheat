@@ -1,0 +1,63 @@
+{
+	title: "大概是神器",
+	x: 4.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "55a2f0ff",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderMost: 12300L,
+					AS_Amulet_HolderLeast: -7220265544684617936L
+				}
+			},
+			tag: {
+				blockstate: {
+					Name: "minecraft:air"
+				},
+				anchorcoords: []
+			},
+			id: "buildinggadgets:buildingtool"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "dd770242",
+		type: "item",
+		items: [{
+			tag: {
+				blockstate: {
+					Name: "minecraft:air"
+				}
+			},
+			id: "buildinggadgets:exchangertool"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d540dbac",
+		type: "item",
+		items: [{
+			tag: {
+				overlay: 1b,
+				fuzzy: 1b
+			},
+			id: "buildinggadgets:destructiontool"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9e55480d",
+		type: "item",
+		item: {
+			tag: {
+				mode: "Copy"
+			},
+			id: "buildinggadgets:copypastetool"
+		}
+	}]
+}

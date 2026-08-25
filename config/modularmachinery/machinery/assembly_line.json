@@ -1,0 +1,737 @@
+{
+    "registryname": "assembly_line",
+    "localizedname": "§b装配线",
+    "failure-action": "decrease",
+    "requires-blueprint": false,
+    "has-factory": true,
+    "color": "2D2D2D",
+    "dynamic-patterns": [
+        {
+            "name": "line",
+            "faces": [
+                "north"
+            ],
+            "minSize": 1,
+            "maxSize": 12,
+            "structure-size-offset-start": {
+                "x": 0,
+                "y": 0,
+                "z": 5
+            },
+            "structure-size-offset": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+            },
+            "parts": [
+                {
+                    "x": 0,
+                    "y": -1,
+                    "z": 0,
+                    "elements": [
+                        "immersiveengineering:metal_decoration0@5"
+                    ]
+                },
+                {
+                    "x": 1,
+                    "y": -1,
+                    "z": 0,
+                    "elements": [
+                        "immersiveintelligence:metal_decoration@4"
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": -2,
+                    "z": 0,
+                    "elements": [
+                        "calculator:purifiedobsidian"
+                    ]
+                },
+                {
+                    "x": -1,
+                    "y": -2,
+                    "z": 0,
+                    "elements": [
+                        "ic2:glass"
+                    ]
+                },
+                {
+                    "x": -1,
+                    "y": 0,
+                    "z": 0,
+                    "elements": [
+                        "immersiveengineering:storage_slab@8"
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": -3,
+                    "z": 0,
+                    "selector-tag": "input",
+                    "elements": [
+                        "modularmachinery:blockinputbus@0",
+                        "modularmachinery:blockmeiteminputbus"
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0,
+                    "elements": [
+                        "immersiveintelligence:metal_decoration@1"
+                    ]
+                },
+                {
+                    "x": 1,
+                    "y": -3,
+                    "z": 0,
+                    "elements": [
+                        "immersiveintelligence:metal_decoration@4"
+                    ]
+                },
+                {
+                    "x": -1,
+                    "y": -3,
+                    "z": 0,
+                    "elements": [
+                        "immersiveintelligence:metal_decoration@4"
+                    ]
+                },
+                {
+                    "x": 1,
+                    "y": 0,
+                    "z": 0,
+                    "elements": [
+                        "immersiveengineering:storage_slab@8"
+                    ]
+                },
+                {
+                    "x": 1,
+                    "y": -2,
+                    "z": 0,
+                    "elements": [
+                        "ic2:glass"
+                    ]
+                },
+                {
+                    "x": -1,
+                    "y": -1,
+                    "z": 0,
+                    "elements": [
+                        "immersiveintelligence:metal_decoration@4"
+                    ]
+                }
+            ],
+            "parts-end": [
+                {
+                    "x": 0,
+                    "y": -1,
+                    "z": 0,
+                    "elements": [
+                        "immersiveintelligence:metal_decoration@1"
+                    ]
+                },
+                {
+                    "x": 1,
+                    "y": -1,
+                    "z": 0,
+                    "elements": [
+                        "immersiveengineering:metal_decoration0@5"
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": -2,
+                    "z": 0,
+                    "selector-tag": "output",
+                    "elements": [
+                        "modularmachinery:blockoutputbus",
+                        "modularmachinery:blockmeitemoutputbus"
+                    ]
+                },
+                {
+                    "x": -1,
+                    "y": -2,
+                    "z": 0,
+                    "elements": [
+                        "immersiveengineering:metal_decoration0@5"
+                    ]
+                },
+                {
+                    "x": -1,
+                    "y": 0,
+                    "z": 0,
+                    "elements": [
+                        "modularmachinery:blockcasing@4"
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": -3,
+                    "z": 0,
+                    "elements": [
+                        "immersiveintelligence:metal_decoration@1"
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0,
+                    "elements": [
+                        "immersiveengineering:storage_slab@8"
+                    ]
+                },
+                {
+                    "x": 1,
+                    "y": -3,
+                    "z": 0,
+                    "elements": [
+                        "immersiveengineering:metal_decoration0@5"
+                    ]
+                },
+                {
+                    "x": -1,
+                    "y": -3,
+                    "z": 0,
+                    "elements": [
+                        "immersiveengineering:metal_decoration0@5"
+                    ]
+                },
+                {
+                    "x": 1,
+                    "y": 0,
+                    "z": 0,
+                    "elements": [
+                        "modularmachinery:blockcasing@4"
+                    ]
+                },
+                {
+                    "x": 1,
+                    "y": -2,
+                    "z": 0,
+                    "elements": [
+                        "immersiveengineering:metal_decoration0@5"
+                    ]
+                },
+                {
+                    "x": -1,
+                    "y": -1,
+                    "z": 0,
+                    "elements": [
+                        "immersiveengineering:metal_decoration0@5"
+                    ]
+                }
+            ]
+        }
+    ],
+    "parts": [
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:storage_slab@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:storage_slab@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:storage_slab@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:storage_slab@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 4,
+            "selector-tag": "input_3",
+            "elements": [
+                "modularmachinery:blockinputbus@0",
+                "modularmachinery:blockmeiteminputbus"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 2,
+            "selector-tag": "input_1",
+            "elements": [
+                "modularmachinery:blockinputbus@0",
+                "modularmachinery:blockmeiteminputbus"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 3,
+            "selector-tag": "input_2",
+            "elements": [
+                "modularmachinery:blockinputbus@0",
+                "modularmachinery:blockmeiteminputbus"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "immersiveintelligence:metal_decoration@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "immersiveintelligence:metal_decoration@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "immersiveintelligence:metal_decoration@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "immersiveintelligence:metal_decoration@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "immersiveintelligence:metal_decoration@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 1,
+            "selector-tag": "input_0",
+            "elements": [
+                "modularmachinery:blockinputbus@0",
+                "modularmachinery:blockmeiteminputbus"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "ic2:glass"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "ic2:glass"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "ic2:glass"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "ic2:glass"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch",
+                "immersiveintelligence:metal_decoration@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch",
+                "immersiveintelligence:metal_decoration@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch",
+                "immersiveintelligence:metal_decoration@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch",
+                "immersiveintelligence:metal_decoration@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "immersiveintelligence:metal_decoration@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "immersiveintelligence:metal_decoration@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockparallelcontroller"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "immersiveintelligence:metal_decoration@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "immersiveintelligence:metal_decoration@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:storage_slab@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:storage_slab@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:storage_slab@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "immersiveintelligence:metal_decoration@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:storage_slab@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "calculator:purifiedobsidian"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "calculator:purifiedobsidian"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "calculator:purifiedobsidian"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "calculator:purifiedobsidian"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 1,
+            "selector-tag": "fluid_input_0",
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "immersiveintelligence:metal_decoration@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 2,
+            "selector-tag": "fluid_input_1",
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "immersiveintelligence:metal_decoration@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 3,
+            "selector-tag": "fluid_input_2",
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "immersiveintelligence:metal_decoration@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 4,
+            "selector-tag": "fluid_input_3",
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "immersiveintelligence:metal_decoration@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "ic2:glass"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 4,
+            "selector-tag": "fluid_input_3",
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "immersiveintelligence:metal_decoration@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 3,
+            "selector-tag": "fluid_input_2",
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "immersiveintelligence:metal_decoration@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 2,
+            "selector-tag": "fluid_input_1",
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "immersiveintelligence:metal_decoration@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 1,
+            "selector-tag": "fluid_input_0",
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus",
+                "immersiveintelligence:metal_decoration@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "ic2:glass"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "ic2:glass"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "ic2:glass"
+            ]
+        }
+    ]}

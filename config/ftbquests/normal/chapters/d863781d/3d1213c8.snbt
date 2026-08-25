@@ -1,0 +1,21 @@
+{
+	x: 8.0d,
+	y: 10.0d,
+	dependencies: [
+		"2c5ddea9",
+		"fffe3c39"
+	],
+	tasks: [{
+		uid: "7f9b8972",
+		type: "item",
+		items: [{
+			item: "buildcraftfactory:distiller"
+		}]
+	}],
+	rewards: [{
+		uid: "61356588",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

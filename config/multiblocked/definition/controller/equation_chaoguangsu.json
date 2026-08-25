@@ -1,0 +1,550 @@
+{
+  "version": 2,
+  "location": "equation:chaoguangsu",
+  "traits": {
+    "item": [
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 24,
+        "y": 45,
+        "autoIO": true
+      },
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 47,
+        "y": 93,
+        "autoIO": true
+      },
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 71,
+        "y": 93,
+        "autoIO": true
+      },
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 47,
+        "y": 70,
+        "autoIO": true
+      },
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 24,
+        "y": 93,
+        "autoIO": true
+      },
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 70,
+        "y": 45,
+        "autoIO": true
+      },
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 47,
+        "y": 45,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 142,
+        "y": 55,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 142,
+        "y": 79,
+        "autoIO": true
+      }
+    ],
+    "recipe_progress": {
+      "cIO": 2,
+      "gIO": 2,
+      "x": 89,
+      "y": 75,
+      "width": 30,
+      "height": 9,
+      "texture": "multiblocked:textures/gui/energy_bar.png",
+      "fillDirection": 0
+    }
+  },
+  "properties": {
+    "rotationState": "ALL",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasCollision": true,
+    "destroyTime": 5.0,
+    "explosionResistance": 10.0,
+    "harvestLevel": 1,
+    "stackSize": 64,
+    "tabGroup": "multiblocked"
+  },
+  "status": {
+    "unformed": {
+      "renderer": {
+        "baseTexture": "multiblocked:casing",
+        "frontTexture": "multiblocked:target_chamber_controller_front_off",
+        "backTexture": "multiblocked:casing",
+        "leftTexture": "multiblocked:casing",
+        "rightTexture": "multiblocked:casing",
+        "upTexture": "multiblocked:casing",
+        "downTexture": "multiblocked:casing",
+        "type": "gregtech"
+      }
+    },
+    "idle": {
+      "parent": "unformed"
+    },
+    "working": {
+      "renderer": {
+        "baseTexture": "multiblocked:casing",
+        "frontTexture": "multiblocked:target_chamber_controller_front_on",
+        "backTexture": "multiblocked:casing",
+        "leftTexture": "multiblocked:casing",
+        "rightTexture": "multiblocked:casing",
+        "upTexture": "multiblocked:casing",
+        "downTexture": "multiblocked:casing",
+        "formedAsController": true,
+        "type": "gregtech"
+      },
+      "lightEmissive": 15,
+      "parent": "idle"
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "recipeMap": "chaoguangsu",
+  "basePattern": {
+    "structureDir": [
+      "BACK",
+      "UP",
+      "LEFT"
+    ],
+    "pattern": [
+      [
+        "                           ",
+        "                           ",
+        "           AADAA           ",
+        "                           ",
+        "                           "
+      ],
+      [
+        "                           ",
+        "           AAAAA           ",
+        "        AAABBBBBAAA        ",
+        "           AAAAA           ",
+        "                           "
+      ],
+      [
+        "           ACACA           ",
+        "        AAABBBBBAAA        ",
+        "      DABBBEEEEEBBBAD      ",
+        "        AAABBBBBAAA        ",
+        "           ACACA           "
+      ],
+      [
+        "        AAA     AAA        ",
+        "      AABBBAAAAABBBAA      ",
+        "     ABBEEEBBBBBEEEBBA     ",
+        "      AABBBAAAAABBBAA      ",
+        "        AAA     AAA        "
+      ],
+      [
+        "      AA           AA      ",
+        "     ABBAAA     AAABBA     ",
+        "    ABEEBBBAAAAABBBEEBA    ",
+        "     ABBAAA     AAABBA     ",
+        "      AA           AA      "
+      ],
+      [
+        "     A               A     ",
+        "    ABAA           AABA    ",
+        "   ABEBBAAF     FAABBEBA   ",
+        "    ABAA           AABA    ",
+        "     A               A     "
+      ],
+      [
+        "    A                 A    ",
+        "   ABA               ABA   ",
+        "  DBEBAF           FABEBD  ",
+        "   ABA               ABA   ",
+        "    A                 A    "
+      ],
+      [
+        "    A                 A    ",
+        "   ABA               ABA   ",
+        "  ABEBF             FBEBA  ",
+        "   ABA               ABA   ",
+        "    A                 A    "
+      ],
+      [
+        "   A                   A   ",
+        "  ABA                 ABA  ",
+        " ABEBA               ABEBA ",
+        "  ABA                 ABA  ",
+        "   A                   A   "
+      ],
+      [
+        "   A                   A   ",
+        "  ABA                 ABA  ",
+        " ABEBA               ABEBA ",
+        "  ABA                 ABA  ",
+        "   A                   A   "
+      ],
+      [
+        "   A                   A   ",
+        "  ABA                 ABA  ",
+        " ABEBF               FBEBA ",
+        "  ABA                 ABA  ",
+        "   A                   A   "
+      ],
+      [
+        "  A                     A  ",
+        " ABA                   ABA ",
+        "ABEBA                 ABEBA",
+        " ABA                   ABA ",
+        "  A                     A  "
+      ],
+      [
+        "  C                     C  ",
+        " ABA                   ABA ",
+        "ABEBA                 ABEBA",
+        " ABA                   ABA ",
+        "  C                     C  "
+      ],
+      [
+        "  A                     A  ",
+        " ABA                   ABA ",
+        "@BEBA                 ABEBD",
+        " ABA                   ABA ",
+        "  A                     A  "
+      ],
+      [
+        "  C                     C  ",
+        " ABA                   ABA ",
+        "ABEBA                 ABEBA",
+        " ABA                   ABA ",
+        "  C                     C  "
+      ],
+      [
+        "  A                     A  ",
+        " ABA                   ABA ",
+        "ABEBA                 ABEBA",
+        " ABA                   ABA ",
+        "  A                     A  "
+      ],
+      [
+        "   A                   A   ",
+        "  ABA                 ABA  ",
+        " ABEBF               FBEBA ",
+        "  ABA                 ABA  ",
+        "   A                   A   "
+      ],
+      [
+        "   A                   A   ",
+        "  ABA                 ABA  ",
+        " ABEBA               ABEBA ",
+        "  ABA                 ABA  ",
+        "   A                   A   "
+      ],
+      [
+        "   A                   A   ",
+        "  ABA                 ABA  ",
+        " ABEBA               ABEBA ",
+        "  ABA                 ABA  ",
+        "   A                   A   "
+      ],
+      [
+        "    A                 A    ",
+        "   ABA               ABA   ",
+        "  ABEBF             FBEBA  ",
+        "   ABA               ABA   ",
+        "    A                 A    "
+      ],
+      [
+        "    A                 A    ",
+        "   ABA               ABA   ",
+        "  DBEBAF           FABEBD  ",
+        "   ABA               ABA   ",
+        "    A                 A    "
+      ],
+      [
+        "     A               A     ",
+        "    ABAA           AABA    ",
+        "   ABEBBAAF     FAABBEBA   ",
+        "    ABAA           AABA    ",
+        "     A               A     "
+      ],
+      [
+        "      AA           AA      ",
+        "     ABBAAA     AAABBA     ",
+        "    ABEEBBBAAAAABBBEEBA    ",
+        "     ABBAAA     AAABBA     ",
+        "      AA           AA      "
+      ],
+      [
+        "        AAA     AAA        ",
+        "      AABBBAAAAABBBAA      ",
+        "     ABBEEEBBBBBEEEBBA     ",
+        "      AABBBAAAAABBBAA      ",
+        "        AAA     AAA        "
+      ],
+      [
+        "           ACACA           ",
+        "        AAABBBBBAAA        ",
+        "      DABBBEEEEEBBBAD      ",
+        "        AAABBBBBAAA        ",
+        "           ACACA           "
+      ],
+      [
+        "                           ",
+        "           AAAAA           ",
+        "        AAABBBBBAAA        ",
+        "           AAAAA           ",
+        "                           "
+      ],
+      [
+        "                           ",
+        "                           ",
+        "           AADAA           ",
+        "                           ",
+        "                           "
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "states": [
+          {
+            "id": "qmd:accelerator_casing",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "controller": {
+        "location": "equation:chaoguangsu",
+        "type": "component"
+      },
+      "B": {
+        "states": [
+          {
+            "id": "qmd:accelerator_cooler2",
+            "meta": 15
+          }
+        ],
+        "type": "states"
+      },
+      "C": {
+        "states": [
+          {
+            "id": "modularmachinery:blockinputbus",
+            "meta": 0
+          },
+          {
+            "id": "qmd:accelerator_casing",
+            "meta": 0
+          },
+          {
+            "id": "modularmachinery:blockoutputbus",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "D": {
+        "states": [
+          {
+            "id": "qmd:accelerator_beam_port",
+            "meta": 2
+          },
+          {
+            "id": "qmd:accelerator_casing",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "E": {
+        "states": [
+          {
+            "id": "qmd:accelerator_magnet",
+            "meta": 4
+          }
+        ],
+        "type": "states"
+      },
+      "F": {
+        "states": [
+          {
+            "id": "modularmachinery:blockenergyinputhatch",
+            "meta": 7
+          },
+          {
+            "id": "qmd:accelerator_casing",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "any": {
+        "type": "any"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ],
+      "C": [
+        "C"
+      ],
+      "D": [
+        "D"
+      ],
+      "E": [
+        "E"
+      ],
+      "F": [
+        "F"
+      ]
+    }
+  }
+}

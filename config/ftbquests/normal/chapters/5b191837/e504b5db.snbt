@@ -1,0 +1,23 @@
+{
+	title: "莫比乌斯稳定/不稳定锭",
+	x: 26.0d,
+	y: 15.0d,
+	text: [
+		"可量产"
+	],
+	dependencies: [
+		"973b08d4"
+	],
+	tasks: [{
+		uid: "b5146949",
+		type: "item",
+		items: [{
+			item: "contenttweaker:mobiwusi_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "22e785f2",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

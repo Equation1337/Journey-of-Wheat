@@ -1,0 +1,23 @@
+{
+	x: 4.0d,
+	y: 12.0d,
+	text: [
+		"有了它你将不再依赖太阳光不过要消耗萤石"
+	],
+	dependencies: [
+		"0fc0be17"
+	],
+	tasks: [{
+		uid: "436c86dc",
+		type: "item",
+		items: [{
+			item: "refraction:laser"
+		}]
+	}],
+	rewards: [{
+		uid: "6b785a36",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 6.0d,
+	y: 38.0d,
+	dependencies: [
+		"05c9056a"
+	],
+	tasks: [{
+		uid: "c8472218",
+		type: "item",
+		items: [{
+			item: "threng:big_assembler 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "1b68e3c5",
+		type: "item",
+		item: "appliedenergistics2:material 1 58"
+	}]
+}

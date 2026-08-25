@@ -1,0 +1,20 @@
+{
+	title: "化学反应釜",
+	x: 6.0d,
+	y: 4.0d,
+	dependencies: [
+		"67fed0b1"
+	],
+	tasks: [{
+		uid: "0e88f140",
+		type: "item",
+		items: [{
+			item: "modularmachinery:fanyingfu_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "77e3fb60",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	dependencies: [
+		"43f9f55b"
+	],
+	tasks: [{
+		uid: "dd91404b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:star_ingot"
+		}]
+	}]
+}

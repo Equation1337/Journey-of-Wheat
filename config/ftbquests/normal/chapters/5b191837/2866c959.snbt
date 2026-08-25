@@ -1,0 +1,51 @@
+{
+	x: 18.0d,
+	y: 15.5d,
+	text: [
+		"迫真装配线"
+	],
+	dependencies: [
+		"5ccbcd7e"
+	],
+	tasks: [{
+		uid: "0f63ccfa",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:assembly_controller"
+		}]
+	},
+	{
+		uid: "f09f6fe4",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:assembly_io_unit"
+		}],
+		count: 2L
+	},
+	{
+		uid: "697316fe",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:assembly_laser"
+		}]
+	},
+	{
+		uid: "9ad703e4",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:assembly_drill"
+		}]
+	},
+	{
+		uid: "da6d8bf2",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:assembly_platform"
+		}]
+	}],
+	rewards: [{
+		uid: "231e5bcc",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

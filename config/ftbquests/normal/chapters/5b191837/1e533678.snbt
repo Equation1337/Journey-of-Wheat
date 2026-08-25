@@ -1,0 +1,23 @@
+{
+	x: 22.0d,
+	y: 2.5d,
+	text: [
+		"本包星辉可用祭坛合成对应模块化自动搭建"
+	],
+	dependencies: [
+		"07f67ea9"
+	],
+	tasks: [{
+		uid: "f5e76699",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockaltar 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f5447fb1",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

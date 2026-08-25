@@ -1,0 +1,31 @@
+{
+	title: "工程学",
+	x: 12.0d,
+	y: 17.0d,
+	dependencies: [
+		"830de045"
+	],
+	tasks: [{
+		uid: "e42b75b5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderMost: 12300L,
+					AS_Amulet_HolderLeast: -7220265544684617936L
+				}
+			},
+			tag: {
+				tier: 2
+			},
+			id: "essentialcraft:research_book"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "04aa330d",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

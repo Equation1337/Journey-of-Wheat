@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: 16.0d,
+	dependencies: [
+		"e982975e"
+	],
+	tasks: [{
+		uid: "ff90a72b",
+		type: "item",
+		items: [{
+			item: "modularmachinery:itemmodularium"
+		}]
+	}],
+	rewards: [{
+		uid: "e1d4b05a",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

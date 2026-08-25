@@ -1,0 +1,170 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "mainmenu:logo.png",
+            "posX" : -155,
+            "posY" : 32,
+            "width" : 324,
+            "height" : 35,
+            "alignment" : "top_center"
+        }
+
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+			"texture": "mainmenu:button.png",
+			"normalTextColor": 16777215,
+            "hoverTextColor": 13846211,
+            "posX" : -200,
+            "posY" : 50,
+            "width":112,
+            "height":24,
+            "imageWidth": 560,
+            "imageHeight": 118,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+			"texture": "mainmenu:button.png",
+			"normalTextColor": 16777215,
+            "hoverTextColor": 13846211,
+            "posX" : -200,
+            "posY" : 90,
+            "width":112,
+            "height":24,
+            "imageWidth": 560,
+            "imageHeight": 118,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+			"normalTextColor": 16777215,
+            "hoverTextColor": 13846211,
+            "texture": "mainmenu:button.png",
+            "posX" : 90,
+            "posY" : 90,
+            "width":112,
+            "height":24,
+            "imageWidth": 560,
+            "imageHeight": 118,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "normalTextColor": 16777215,
+            "hoverTextColor": 13846211,
+            "texture": "mainmenu:button.png",
+            "posX" : 90,
+            "posY" : 50,
+            "width":112,
+            "height":24,
+            "imageWidth": 560,
+            "imageHeight": 118,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "texture": "mainmenu:button.png",
+			"normalTextColor": 16777215,
+            "hoverTextColor": 13846211,
+            "posX" : -5,
+            "posY" : 130,
+            "width":112,
+            "height":24,
+            "imageWidth": 560,
+            "imageHeight": 118,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "home":
+        {
+            "text" : "QQ\u7fa4:875117059",
+			"texture": "mainmenu:button.png",
+			"normalTextColor": 16777215,
+            "hoverTextColor": 13846211,
+            "posX" : -115,
+            "posY" : 130,
+            "width":112,
+            "height":24,
+            "imageWidth": 560,
+            "imageHeight": 118,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://qm.qq.com/q/YwUju5oRKW"
+            }
+        }
+    },
+    
+    "labels":
+    {
+	      "chingting": {
+          "text" : "Copyright:Equation_1337",
+		  "hoverText" : "Mcmod",
+          "posX" : 2,
+          "posY" : -20,
+          "color" : 7733247,
+          "alignment" : "bottom_left",
+          "action" : 
+          {
+              "type" : "openLink",
+              "link" : "https://center.mcmod.cn/317421/"
+          }
+		  },
+	  
+        "mojang":
+        {
+            "text" : "Version:Journey of Wheat-1.0.0!",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : 7733247,
+            "alignment" : "bottom_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        }
+    },
+    
+    "other":
+    {
+         "background":{
+            "image":"mainmenu:main.png",
+            "mode":"fill"
+        }
+    }
+}

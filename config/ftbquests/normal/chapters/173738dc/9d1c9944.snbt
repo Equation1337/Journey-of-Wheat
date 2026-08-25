@@ -1,0 +1,14 @@
+{
+	x: 26.0d,
+	y: 20.5d,
+	dependencies: [
+		"dd98418a"
+	],
+	tasks: [{
+		uid: "2f230bc5",
+		type: "item",
+		items: [{
+			item: "modularmachinery:weiyuan_controller"
+		}]
+	}]
+}

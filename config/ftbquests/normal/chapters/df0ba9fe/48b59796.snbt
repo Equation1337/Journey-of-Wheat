@@ -1,0 +1,27 @@
+{
+	x: 22.0d,
+	y: 25.5d,
+	dependencies: [
+		"f45943e5",
+		"c0c6aa03"
+	],
+	tasks: [{
+		uid: "2fc9c68f",
+		type: "item",
+		items: [{
+			item: "calculator:conductormast"
+		}]
+	}],
+	rewards: [{
+		uid: "1e29fb23",
+		type: "item",
+		item: "calculator:weatherstation",
+		random_bonus: 7
+	},
+	{
+		uid: "4dccc653",
+		type: "item",
+		item: "calculator:transmitter",
+		random_bonus: 7
+	}]
+}

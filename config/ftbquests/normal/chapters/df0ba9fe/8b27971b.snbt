@@ -1,0 +1,20 @@
+{
+	x: 38.0d,
+	y: 42.0d,
+	dependencies: [
+		"c08ed217"
+	],
+	tasks: [{
+		uid: "3ace61d4",
+		type: "item",
+		items: [{
+			item: "botanicadds:gaiasteel_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "d07db724",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: 44.0d,
+	y: 32.5d,
+	shape: "hexagon",
+	dependencies: [
+		"31f1d4cb",
+		"43a9c1ab"
+	],
+	tasks: [{
+		uid: "a9dd371d",
+		type: "item",
+		items: [{
+			item: "calculator:enddiamond"
+		}]
+	}],
+	rewards: [{
+		uid: "f3e206cd",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

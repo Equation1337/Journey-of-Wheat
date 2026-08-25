@@ -1,0 +1,21 @@
+{
+	x: 4.0d,
+	y: 8.0d,
+	dependencies: [
+		"37c75e00",
+		"e89714b4"
+	],
+	tasks: [{
+		uid: "aa6c3ef2",
+		type: "item",
+		items: [{
+			item: "forestry:carpenter"
+		}]
+	}],
+	rewards: [{
+		uid: "bcb2b9d6",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

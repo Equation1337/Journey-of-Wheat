@@ -1,0 +1,31 @@
+{
+	title: "你在这强调频道限制真就低水平",
+	x: 8.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "bc227696",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:fluxplug"
+		}]
+	},
+	{
+		uid: "3e12111b",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:fluxpoint"
+		}]
+	},
+	{
+		uid: "7caccfff",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:fluxcontroller"
+		}]
+	}],
+	rewards: [{
+		uid: "7c65c0b6",
+		type: "item",
+		item: "fluxnetworks:fluxconfigurator"
+	}]
+}

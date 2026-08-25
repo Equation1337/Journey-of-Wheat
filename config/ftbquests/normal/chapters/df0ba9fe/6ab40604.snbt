@@ -1,0 +1,82 @@
+{
+	x: 6.0d,
+	y: 4.0d,
+	text: [
+		"用于制作压印模板和真空管一类物品，可以制作自动化工程师装配台来实现自动化"
+	],
+	dependencies: [
+		"4db69613"
+	],
+	tasks: [{
+		uid: "b7340c8c",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device0 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "26dc0319",
+		type: "item",
+		item: "immersiveengineering:tool 1 1"
+	},
+	{
+		uid: "45ea8d5c",
+		type: "item",
+		item: {
+			tag: {
+				blueprint: "components"
+			},
+			id: "immersiveengineering:blueprint"
+		}
+	},
+	{
+		uid: "79be6e3d",
+		type: "item",
+		item: {
+			tag: {
+				blueprint: "molds"
+			},
+			id: "immersiveengineering:blueprint"
+		}
+	},
+	{
+		uid: "d76fb084",
+		type: "item",
+		item: {
+			tag: {
+				blueprint: "basic_circuits"
+			},
+			id: "immersiveengineering:blueprint"
+		}
+	},
+	{
+		uid: "57265a4a",
+		type: "item",
+		item: {
+			tag: {
+				blueprint: "advanced_circuits"
+			},
+			id: "immersiveengineering:blueprint"
+		}
+	},
+	{
+		uid: "be06d190",
+		type: "item",
+		item: {
+			tag: {
+				blueprint: "processors"
+			},
+			id: "immersiveengineering:blueprint"
+		}
+	},
+	{
+		uid: "a2cb8d0b",
+		type: "item",
+		item: {
+			tag: {
+				blueprint: "metal_springs"
+			},
+			id: "immersiveengineering:blueprint"
+		}
+	}]
+}

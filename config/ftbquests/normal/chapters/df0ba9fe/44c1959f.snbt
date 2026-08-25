@@ -1,0 +1,25 @@
+{
+	x: 30.0d,
+	y: 40.0d,
+	text: [
+		"击败虚域的旋塔上的boss"
+	],
+	dependencies: [
+		"ed7b87ff"
+	],
+	tasks: [{
+		uid: "c3f8946c",
+		type: "item",
+		items: [{
+			item: "thaumcraft:primordial_pearl"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4df0b7a0",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

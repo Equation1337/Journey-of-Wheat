@@ -1,0 +1,19 @@
+{
+	x: 14.0d,
+	y: 4.0d,
+	dependencies: [
+		"9bdc35e2"
+	],
+	tasks: [{
+		uid: "473d666c",
+		type: "item",
+		items: [{
+			item: "astralsorcery:itemcraftingcomponent 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "fa85d5c2",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

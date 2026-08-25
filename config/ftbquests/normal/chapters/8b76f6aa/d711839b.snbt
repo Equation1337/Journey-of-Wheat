@@ -1,0 +1,27 @@
+{
+	x: 20.0d,
+	y: 10.0d,
+	dependencies: [
+		"a5721594"
+	],
+	tasks: [{
+		uid: "4a608cb7",
+		type: "item",
+		items: [{
+			item: "efab:grid"
+		}]
+	},
+	{
+		uid: "df70ea11",
+		type: "item",
+		items: [{
+			item: "efab:gearbox"
+		}]
+	}],
+	rewards: [{
+		uid: "9f7cc7f0",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

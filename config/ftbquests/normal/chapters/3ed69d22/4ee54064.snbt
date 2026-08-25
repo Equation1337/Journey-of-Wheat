@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	dependencies: [
+		"63e25c27"
+	],
+	tasks: [{
+		uid: "6b1864d8",
+		type: "item",
+		items: [{
+			item: "frogcraftrebirth:condense_tower"
+		}]
+	}],
+	rewards: [{
+		uid: "7c387d4e",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

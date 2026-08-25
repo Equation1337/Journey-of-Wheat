@@ -1,0 +1,22 @@
+{
+	title: "也许你会需要他们",
+	x: 6.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "ae963641",
+		type: "item",
+		items: [{
+			item: "modularmachinery:juneng1_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "f49db533",
+		type: "item",
+		item: {
+			tag: {
+				astralsorcery: {}
+			},
+			id: "astralsorcery:itemskyresonator"
+		}
+	}]
+}

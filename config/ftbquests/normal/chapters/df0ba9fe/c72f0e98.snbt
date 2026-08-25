@@ -1,0 +1,23 @@
+{
+	x: 18.0d,
+	y: 14.5d,
+	dependencies: [
+		"d708f09b",
+		"e89714b4",
+		"e9fff513",
+		"ad6670a0"
+	],
+	tasks: [{
+		uid: "81643222",
+		type: "item",
+		items: [{
+			item: "efab:upgrade_power"
+		}]
+	}],
+	rewards: [{
+		uid: "e1904008",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

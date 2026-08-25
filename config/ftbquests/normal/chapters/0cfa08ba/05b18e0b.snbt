@@ -1,0 +1,14 @@
+{
+	x: 8.0d,
+	y: 4.0d,
+	dependencies: [
+		"8d810376"
+	],
+	tasks: [{
+		uid: "17bc2c2e",
+		type: "item",
+		items: [{
+			item: "avaritia:neutronium_compressor"
+		}]
+	}]
+}

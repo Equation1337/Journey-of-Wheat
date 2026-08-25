@@ -1,0 +1,17 @@
+{
+	title: "熔炉界原神",
+	x: 10.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "93007c64",
+		type: "item",
+		items: [{
+			item: "betterfurnacesreforged:extreme_forge"
+		}]
+	}],
+	rewards: [{
+		uid: "3a1ecc3b",
+		type: "item",
+		item: "ic2:te 1 44"
+	}]
+}

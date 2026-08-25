@@ -1,0 +1,22 @@
+{
+	x: 28.0d,
+	y: 21.0d,
+	dependencies: [
+		"d7fa667b"
+	],
+	tasks: [{
+		uid: "1a6491d7",
+		type: "item",
+		items: [{
+			tag: {},
+			Damage: 2s,
+			id: "bloodmagic:soul_gem"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c8c537f9",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

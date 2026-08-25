@@ -1,0 +1,273 @@
+{
+  "version": 2,
+  "location": "equation:ore_chid",
+  "traits": {
+    "item": [
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 155,
+        "y": 51,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 6,
+        "y": 6,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 135,
+        "y": 51,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 115,
+        "y": 50,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 94,
+        "y": 50,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 73,
+        "y": 51,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 50,
+        "y": 49,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 29,
+        "y": 49,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 5,
+        "y": 48,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 139,
+        "y": 31,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 118,
+        "y": 30,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 95,
+        "y": 29,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 73,
+        "y": 30,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 50,
+        "y": 28,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 28,
+        "y": 28,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 6,
+        "y": 28,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 154,
+        "y": 5,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 135,
+        "y": 5,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 112,
+        "y": 5,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 92,
+        "y": 5,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 70,
+        "y": 5,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 48,
+        "y": 5,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 28,
+        "y": 6,
+        "autoIO": true
+      },
+      {
+        "cIO": 0,
+        "gIO": 0,
+        "mIO": 0,
+        "x": 146,
+        "y": 86,
+        "autoIO": false
+      }
+    ],
+    "bot_mana": {
+      "cIO": 0,
+      "gIO": 2,
+      "x": 17,
+      "y": 75,
+      "width": 60,
+      "height": 18,
+      "texture": "multiblocked:textures/gui/energy_bar.png",
+      "fillDirection": 0,
+      "capacity": 1000000,
+      "allowSpark": false
+    }
+  },
+  "properties": {
+    "rotationState": "NONE",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasCollision": true,
+    "destroyTime": 1.5,
+    "explosionResistance": 10.0,
+    "harvestLevel": 1,
+    "stackSize": 64,
+    "tabGroup": "multiblocked"
+  },
+  "status": {
+    "unformed": {
+      "renderer": {
+        "state": {
+          "id": "botania:specialflower",
+          "meta": 0
+        },
+        "type": "blockstate"
+      }
+    },
+    "idle": {
+      "parent": "unformed"
+    },
+    "working": {
+      "parent": "idle"
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "recipeMap": "chid",
+  "basePattern": {
+    "structureDir": [
+      "LEFT",
+      "UP",
+      "BACK"
+    ],
+    "pattern": [
+      [
+        "@"
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "controller": {
+        "location": "equation:ore_chid",
+        "type": "component"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ]
+    }
+  }
+}

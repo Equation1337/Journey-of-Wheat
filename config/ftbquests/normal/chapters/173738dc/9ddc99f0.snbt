@@ -1,0 +1,15 @@
+{
+	x: 44.0d,
+	y: 17.0d,
+	dependencies: [
+		"9db4a224",
+		"89682a05"
+	],
+	tasks: [{
+		uid: "36a4d7ae",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_block 1 1"
+		}]
+	}]
+}

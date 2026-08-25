@@ -1,0 +1,15 @@
+{
+	title: "约束质子",
+	x: 38.0d,
+	y: 17.5d,
+	dependencies: [
+		"e353d073"
+	],
+	tasks: [{
+		uid: "f138e4e3",
+		type: "item",
+		items: [{
+			item: "contenttweaker:zhizi_guan"
+		}]
+	}]
+}

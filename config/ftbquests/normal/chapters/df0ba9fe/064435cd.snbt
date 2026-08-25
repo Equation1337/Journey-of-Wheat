@@ -1,0 +1,31 @@
+{
+	x: 30.0d,
+	y: 42.0d,
+	text: [
+		"需要研究来解锁盖亚水晶的配方"
+	],
+	dependencies: [
+		"c9b1fb6d"
+	],
+	tasks: [{
+		uid: "1ad1118c",
+		type: "item",
+		items: [{
+			item: "botania:pylon 1 2"
+		}],
+		count: 4L
+	},
+	{
+		uid: "522f8238",
+		type: "item",
+		items: [{
+			item: "minecraft:beacon"
+		}]
+	}],
+	rewards: [{
+		uid: "3ed2d7c0",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

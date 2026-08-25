@@ -1,0 +1,20 @@
+{
+	x: 2.0d,
+	y: 8.0d,
+	text: [
+		"前期用这朵花来生产实体原油"
+	],
+	dependencies: [
+		"37c75e00"
+	],
+	tasks: [{
+		uid: "9f3b795d",
+		type: "item",
+		items: [{
+			tag: {
+				type: "oleumlily"
+			},
+			id: "botania:specialflower"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 16.0d,
+	y: 6.0d,
+	dependencies: [
+		"38e60bd2",
+		"7b15e0ed",
+		"67fed0b1"
+	],
+	tasks: [{
+		uid: "13642ecf",
+		type: "item",
+		items: [{
+			item: "mets:living_circuit"
+		}]
+	}],
+	rewards: [{
+		uid: "b84b73d4",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

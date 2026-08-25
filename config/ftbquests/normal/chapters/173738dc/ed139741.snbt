@@ -1,0 +1,16 @@
+{
+	title: "晶体电路板-淡蓝",
+	x: 24.0d,
+	y: -7.5d,
+	dependencies: [
+		"babd468e",
+		"321b2074"
+	],
+	tasks: [{
+		uid: "0e4d674c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:cir_light_blue"
+		}]
+	}]
+}

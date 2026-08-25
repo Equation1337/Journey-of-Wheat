@@ -1,0 +1,23 @@
+{
+	x: 22.0d,
+	y: 13.0d,
+	dependencies: [
+		"3f1a7fa2",
+		"d711839b",
+		"7934ca96",
+		"f2aa43b5"
+	],
+	tasks: [{
+		uid: "c3d6a0f5",
+		type: "item",
+		items: [{
+			item: "efab:upgrade_magic"
+		}]
+	}],
+	rewards: [{
+		uid: "0671b85a",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

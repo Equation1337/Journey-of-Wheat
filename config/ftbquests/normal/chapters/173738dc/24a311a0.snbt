@@ -1,0 +1,15 @@
+{
+	x: 18.0d,
+	y: 7.0d,
+	dependencies: [
+		"5c8cf7dc",
+		"1612c35d"
+	],
+	tasks: [{
+		uid: "8f383042",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:part 1 2"
+		}]
+	}]
+}

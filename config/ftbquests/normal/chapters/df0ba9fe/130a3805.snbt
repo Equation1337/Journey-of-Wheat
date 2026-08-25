@@ -1,0 +1,19 @@
+{
+	x: 8.0d,
+	y: 18.0d,
+	dependencies: [
+		"e8a2b783"
+	],
+	tasks: [{
+		uid: "3d8549d6",
+		type: "checkmark",
+		title: "用于炼油",
+		icon: "immersiveengineering:metal_multiblock 1 9"
+	}],
+	rewards: [{
+		uid: "10509d0c",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

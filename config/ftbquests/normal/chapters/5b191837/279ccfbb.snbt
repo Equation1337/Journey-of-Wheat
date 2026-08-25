@@ -1,0 +1,23 @@
+{
+	x: 20.0d,
+	y: 17.5d,
+	text: [
+		"论装配线与模块化机械"
+	],
+	dependencies: [
+		"f5a04f55",
+		"2866c959"
+	],
+	tasks: [{
+		uid: "bfc09be4",
+		type: "item",
+		items: [{
+			item: "modularmachinery:blockcasing"
+		}]
+	}],
+	rewards: [{
+		uid: "96f373a9",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

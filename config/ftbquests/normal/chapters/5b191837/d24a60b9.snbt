@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: 22.0d,
+	dependencies: [
+		"aec3faa2"
+	],
+	tasks: [{
+		uid: "b92fd16c",
+		type: "item",
+		items: [{
+			item: "modularmachinery:drill_controller"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 22.0d,
+	y: 9.0d,
+	dependencies: [
+		"d711839b",
+		"6c96d855"
+	],
+	tasks: [{
+		uid: "104acd51",
+		type: "item",
+		items: [{
+			item: "efab:manareceptacle"
+		}]
+	}]
+}

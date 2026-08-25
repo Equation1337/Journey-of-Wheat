@@ -1,0 +1,23 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	text: [
+		"永远都不会有橡胶树苗"
+	],
+	dependencies: [
+		"b6ec79f5"
+	],
+	tasks: [{
+		uid: "7a2b67ed",
+		type: "item",
+		items: [{
+			item: "ic2:crafting"
+		}]
+	}],
+	rewards: [{
+		uid: "c7bd9a04",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

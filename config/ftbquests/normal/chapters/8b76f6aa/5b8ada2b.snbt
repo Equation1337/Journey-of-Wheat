@@ -1,0 +1,21 @@
+{
+	title: "五行之土",
+	x: 30.0d,
+	y: 19.0d,
+	dependencies: [
+		"6a5c86a9"
+	],
+	tasks: [{
+		uid: "1eb8c76c",
+		type: "item",
+		items: [{
+			item: "roots:stalicripe"
+		}]
+	}],
+	rewards: [{
+		uid: "7016ad4b",
+		type: "item",
+		item: "roots:elemental_soil_earth",
+		random_bonus: 3
+	}]
+}

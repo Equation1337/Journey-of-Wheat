@@ -1,0 +1,37 @@
+{
+	title: "与蜜蜂的交易",
+	x: 8.0d,
+	y: 25.0d,
+	can_repeat: 1b,
+	dependencies: [
+		"16802efe"
+	],
+	tasks: [{
+		uid: "35a72001",
+		type: "item",
+		items: [{
+			item: "forestry:honey_drop"
+		}],
+		count: 64L,
+		consume_items: 1b
+	},
+	{
+		uid: "05dce4c4",
+		type: "item",
+		items: [{
+			item: "forestry:royal_jelly"
+		}],
+		count: 64L,
+		consume_items: 1b
+	}],
+	rewards: [{
+		uid: "0a774760",
+		type: "item",
+		item: "morebees:framecooled"
+	},
+	{
+		uid: "aae75037",
+		type: "item",
+		item: "morebees:framemutating"
+	}]
+}

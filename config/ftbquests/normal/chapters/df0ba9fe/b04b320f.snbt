@@ -1,0 +1,20 @@
+{
+	x: 22.0d,
+	y: 23.5d,
+	dependencies: [
+		"c0c6aa03"
+	],
+	tasks: [{
+		uid: "b12b4918",
+		type: "item",
+		items: [{
+			item: "environmentaltech:solar_cont_3"
+		}]
+	}],
+	rewards: [{
+		uid: "16f9a652",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

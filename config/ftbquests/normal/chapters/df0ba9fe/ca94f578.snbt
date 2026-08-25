@@ -1,0 +1,23 @@
+{
+	x: 22.0d,
+	y: 44.0d,
+	text: [
+		"可以种的虚空种子"
+	],
+	dependencies: [
+		"5e60c2c0"
+	],
+	tasks: [{
+		uid: "1736e067",
+		type: "item",
+		items: [{
+			item: "thaumicbases:voidseed"
+		}]
+	}],
+	rewards: [{
+		uid: "e0c45713",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

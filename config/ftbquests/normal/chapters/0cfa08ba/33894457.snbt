@@ -1,0 +1,21 @@
+{
+	x: 10.0d,
+	y: 32.0d,
+	dependencies: [
+		"855ea445"
+	],
+	tasks: [{
+		uid: "a369eb77",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:launchpad"
+		}]
+	},
+	{
+		uid: "c3e34051",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:structuretower"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	title: "晶体电路板-青",
+	x: 24.0d,
+	y: 14.5d,
+	dependencies: [
+		"babd468e",
+		"321b2074"
+	],
+	tasks: [{
+		uid: "5385a78f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:cir_cyan"
+		}]
+	}]
+}

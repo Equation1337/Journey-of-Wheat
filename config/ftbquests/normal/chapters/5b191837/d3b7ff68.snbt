@@ -1,0 +1,27 @@
+{
+	title: "ae核心",
+	x: 2.0d,
+	y: 30.0d,
+	dependencies: [
+		"7a987086"
+	],
+	tasks: [{
+		uid: "c46d63ac",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 43"
+		}]
+	},
+	{
+		uid: "f0886b4c",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 44"
+		}]
+	}],
+	rewards: [{
+		uid: "a505f4dd",
+		type: "item",
+		item: "appliedenergistics2:material 1 58"
+	}]
+}

@@ -1,0 +1,33 @@
+{
+	title: "某种程度上薄纱怪物模拟",
+	x: 2.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "80b7c656",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderMost: 12300L,
+					AS_Amulet_HolderLeast: -7220265544684617936L
+				}
+			},
+			tag: {},
+			id: "tinymobfarm:lasso"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "41893cf9",
+		type: "item",
+		items: [{
+			item: "tinymobfarm:wood_farm"
+		}]
+	}],
+	rewards: [{
+		uid: "db50ec1f",
+		type: "item",
+		item: "deepmoblearning:data_model_blank"
+	}]
+}

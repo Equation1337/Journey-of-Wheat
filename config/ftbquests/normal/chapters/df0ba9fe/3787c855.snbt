@@ -1,0 +1,23 @@
+{
+	x: 24.0d,
+	y: 16.5d,
+	text: [
+		"我不会告诉你它和发电机吧还有LE能量单元可以做成一个有增产的循环"
+	],
+	dependencies: [
+		"0a96ae9c"
+	],
+	tasks: [{
+		uid: "bb218d5c",
+		type: "item",
+		items: [{
+			item: "lightningcraft:static_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "92bd68c7",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

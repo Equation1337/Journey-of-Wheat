@@ -1,0 +1,14 @@
+{
+	x: 26.0d,
+	y: 44.0d,
+	dependencies: [
+		"dd60f5e5"
+	],
+	tasks: [{
+		uid: "c72840b9",
+		type: "item",
+		items: [{
+			item: "equation:mana_to_fluid_1"
+		}]
+	}]
+}

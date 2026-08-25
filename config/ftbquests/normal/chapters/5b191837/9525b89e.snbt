@@ -1,0 +1,21 @@
+{
+	x: 32.0d,
+	y: 22.0d,
+	shape: "hexagon",
+	dependencies: [
+		"566d6acc",
+		"458efd68"
+	],
+	tasks: [{
+		uid: "3c892a62",
+		type: "item",
+		items: [{
+			item: "advanced_solar_panels:crafting 1 13"
+		}]
+	}],
+	rewards: [{
+		uid: "f970a0b7",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

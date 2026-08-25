@@ -1,0 +1,31 @@
+{
+	x: 12.0d,
+	y: 8.0d,
+	text: [
+		"电力时代！",
+		"尼哥发电机"
+	],
+	dependencies: [
+		"27a3c8aa",
+		"37c75e00"
+	],
+	tasks: [{
+		uid: "f8536201",
+		type: "item",
+		items: [{
+			item: "fartgen:generator"
+		}]
+	}],
+	rewards: [{
+		uid: "a41677f5",
+		type: "item",
+		item: {
+			tag: {
+				EntityTag: {
+					id: "minecraft:cow"
+				}
+			},
+			id: "minecraft:spawn_egg"
+		}
+	}]
+}

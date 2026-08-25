@@ -1,0 +1,20 @@
+{
+	x: 22.0d,
+	y: 21.0d,
+	dependencies: [
+		"9c86dbbb",
+		"4973e058"
+	],
+	tasks: [{
+		uid: "bba76483",
+		type: "item",
+		items: [{
+			item: "ae2stuff:inscriber"
+		}]
+	}],
+	rewards: [{
+		uid: "72798e3a",
+		type: "item",
+		item: "appliedenergistics2:material 1 30"
+	}]
+}

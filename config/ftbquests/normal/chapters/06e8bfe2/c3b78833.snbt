@@ -1,0 +1,17 @@
+{
+	title: "你刷怪塔的好帮手",
+	x: 4.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "9fba75b0",
+		type: "item",
+		items: [{
+			item: "mob_grinding_utils:saw"
+		}]
+	}],
+	rewards: [{
+		uid: "099c64cd",
+		type: "item",
+		item: "mob_grinding_utils:saw"
+	}]
+}

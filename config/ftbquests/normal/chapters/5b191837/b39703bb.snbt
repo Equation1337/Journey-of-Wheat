@@ -1,0 +1,19 @@
+{
+	x: 28.0d,
+	y: 9.0d,
+	dependencies: [
+		"0bd31144"
+	],
+	tasks: [{
+		uid: "6d7158a3",
+		type: "item",
+		items: [{
+			item: "extrautils2:ingredients 1 17"
+		}]
+	}],
+	rewards: [{
+		uid: "9de1b850",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

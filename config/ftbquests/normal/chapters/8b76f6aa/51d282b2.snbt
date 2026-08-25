@@ -1,0 +1,32 @@
+{
+	title: "植物魔法之始",
+	x: 6.0d,
+	y: 8.0d,
+	text: [
+		"使用活根合成若干树苗和花肥，具体合成数量自己把握，觉得需要缺树苗就多合成树苗，缺花肥就多合成些花肥。（不小心都合成花肥了就重新开档吧）"
+	],
+	dependencies: [
+		"88c97eef"
+	],
+	tasks: [{
+		uid: "482702a3",
+		type: "item",
+		items: [{
+			item: "botania:fertilizer"
+		}]
+	}],
+	rewards: [{
+		uid: "018c2ebe",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	},
+	{
+		uid: "db545128",
+		type: "item",
+		item: {
+			tag: {},
+			id: "botania:lexicon"
+		}
+	}]
+}

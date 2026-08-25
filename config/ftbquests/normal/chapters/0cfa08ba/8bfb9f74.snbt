@@ -1,0 +1,14 @@
+{
+	x: 10.0d,
+	y: 18.0d,
+	dependencies: [
+		"855ea445"
+	],
+	tasks: [{
+		uid: "99add3e7",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:observatory"
+		}]
+	}]
+}

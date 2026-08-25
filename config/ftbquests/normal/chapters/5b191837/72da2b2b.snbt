@@ -1,0 +1,19 @@
+{
+	x: 10.0d,
+	y: 40.0d,
+	dependencies: [
+		"ca60540b"
+	],
+	tasks: [{
+		uid: "9d759915",
+		type: "item",
+		items: [{
+			item: "enderio:block_alloy_smelter"
+		}]
+	}],
+	rewards: [{
+		uid: "54aef8e3",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

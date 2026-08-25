@@ -1,0 +1,21 @@
+{
+	x: 14.0d,
+	y: 10.5d,
+	dependencies: [
+		"e4d0b5a0",
+		"6ab40604"
+	],
+	tasks: [{
+		uid: "515062f1",
+		type: "item",
+		items: [{
+			item: "immersiveintelligence:material 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "d33438a2",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

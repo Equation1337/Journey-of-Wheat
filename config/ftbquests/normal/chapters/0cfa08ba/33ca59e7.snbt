@@ -1,0 +1,14 @@
+{
+	x: 18.0d,
+	y: 24.0d,
+	dependencies: [
+		"c614a9a4"
+	],
+	tasks: [{
+		uid: "66dde926",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:planetidchip"
+		}]
+	}]
+}

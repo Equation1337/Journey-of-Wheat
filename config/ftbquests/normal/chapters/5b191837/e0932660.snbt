@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: 6.0d,
+	dependencies: [
+		"442e246c"
+	],
+	tasks: [{
+		uid: "7115b24b",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:assembly_program 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "f83dc7ba",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

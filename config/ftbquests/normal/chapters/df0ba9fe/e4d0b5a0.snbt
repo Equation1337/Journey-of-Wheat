@@ -1,0 +1,21 @@
+{
+	title: "生物燃料基片",
+	x: 12.0d,
+	y: 16.0d,
+	dependencies: [
+		"a4ec68c6"
+	],
+	tasks: [{
+		uid: "c90087c2",
+		type: "item",
+		items: [{
+			item: "contenttweaker:oil_plate"
+		}]
+	}],
+	rewards: [{
+		uid: "d0435899",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

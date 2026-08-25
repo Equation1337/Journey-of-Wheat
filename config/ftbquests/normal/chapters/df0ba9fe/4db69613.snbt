@@ -1,0 +1,18 @@
+{
+	x: 4.0d,
+	y: 4.0d,
+	text: [
+		"疑似和浸渍部件有亲戚关系哈"
+	],
+	dependencies: [
+		"47aeabd3"
+	],
+	tasks: [{
+		uid: "bef18985",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:treated_wood"
+		}],
+		count: 8L
+	}]
+}

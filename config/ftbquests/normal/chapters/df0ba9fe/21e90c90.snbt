@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 28.0d,
+	dependencies: [
+		"e8a2b783"
+	],
+	tasks: [{
+		uid: "5d5aafbd",
+		type: "checkmark",
+		title: "灌注制板",
+		icon: "immersiveengineering:metal_multiblock 1 6"
+	}]
+}

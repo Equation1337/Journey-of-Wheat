@@ -1,0 +1,11 @@
+{
+  "name": "木剪刀",
+  "burn_time": 100,
+  "max_stack": 1,
+  "durability": 64,
+  "enchantability": 0,
+  "repair_stacks": {
+    "ore_name": "plankWood"
+  },
+  "type": "additions:shears"
+}

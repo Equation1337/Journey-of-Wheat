@@ -1,0 +1,23 @@
+{
+	x: 26.0d,
+	y: 29.0d,
+	dependencies: [
+		"5ec91ecf"
+	],
+	tasks: [{
+		uid: "e5b24bb6",
+		type: "item",
+		items: [{
+			tag: {
+				orb: "bloodmagic:magician"
+			},
+			id: "bloodmagic:blood_orb"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1f3ccfcf",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

@@ -1,0 +1,78 @@
+{
+	title: "蜂巢",
+	x: 6.0d,
+	y: 13.0d,
+	text: [
+		"疑似非常不科学哈"
+	],
+	dependencies: [
+		"e84f85cf"
+	],
+	tasks: [{
+		uid: "d58b00b6",
+		type: "item",
+		items: [{
+			item: "forestry:beehives"
+		}]
+	},
+	{
+		uid: "962a2d37",
+		type: "item",
+		items: [{
+			item: "forestry:beehives 1 1"
+		}]
+	},
+	{
+		uid: "f6e1fa91",
+		type: "item",
+		items: [{
+			item: "forestry:beehives 1 2"
+		}]
+	},
+	{
+		uid: "b26d6cd4",
+		type: "item",
+		items: [{
+			item: "forestry:beehives 1 3"
+		}]
+	},
+	{
+		uid: "95085d4c",
+		type: "item",
+		items: [{
+			item: "forestry:beehives 1 4"
+		}]
+	},
+	{
+		uid: "4c18caa2",
+		type: "item",
+		items: [{
+			item: "forestry:beehives 1 5"
+		}]
+	},
+	{
+		uid: "7261dcb5",
+		type: "item",
+		items: [{
+			item: "forestry:beehives 1 6"
+		}]
+	},
+	{
+		uid: "7aaa7fd4",
+		type: "item",
+		items: [{
+			item: "morebees:hive"
+		}]
+	}],
+	rewards: [{
+		uid: "e5eb8153",
+		type: "item",
+		item: {
+			tag: {
+				charge: 5000
+			},
+			Damage: 1s,
+			id: "gendustry:industrial_scoop"
+		}
+	}]
+}

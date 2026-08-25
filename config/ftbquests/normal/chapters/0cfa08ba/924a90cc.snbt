@@ -1,0 +1,14 @@
+{
+	x: 10.0d,
+	y: 22.0d,
+	dependencies: [
+		"855ea445"
+	],
+	tasks: [{
+		uid: "af56da16",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:rollingmachine"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 18.0d,
+	y: 1.0d,
+	dependencies: [
+		"3fdaa20e"
+	],
+	tasks: [{
+		uid: "f71167fd",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockwell"
+		}]
+	}],
+	rewards: [{
+		uid: "ae712a5b",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

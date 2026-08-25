@@ -1,0 +1,17 @@
+{
+	x: 38.0d,
+	y: 24.0d,
+	dependencies: [
+		"fec97320"
+	],
+	tasks: [{
+		uid: "74edd296",
+		type: "checkmark",
+		title: "坠星标位"
+	}],
+	rewards: [{
+		uid: "b88cfdc8",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

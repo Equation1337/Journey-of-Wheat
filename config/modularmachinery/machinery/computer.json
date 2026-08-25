@@ -1,0 +1,4428 @@
+{
+    "registryname": "computer",
+    "localizedname": "§b量子计算机",
+    "failure-action": "decrease",
+    "requires-blueprint": false,
+    "color": "BEBEBE",
+    "parts": [
+        {
+            "x": -1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 13,
+            "z": 4,
+
+            "elements": [
+                "environmentaltech:lightning_rod@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 4,
+
+            "elements": [
+                "environmentaltech:lightning_rod_insulated@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 4,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "z": 4,
+
+            "elements": [
+                "environmentaltech:lightning_rod_insulated@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 14,
+            "z": 4,
+
+            "elements": [
+                "environmentaltech:lightning_rod@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 10,
+            "z": 4,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 0,
+
+            "elements": [
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 3,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 11,
+            "z": 4,
+
+            "elements": [
+                "environmentaltech:lightning_rod_insulated@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": 4,
+
+            "elements": [
+                "environmentaltech:lightning_rod@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 0,
+
+            "elements": [
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 0,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 7,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 0,
+
+            "elements": [
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 12,
+            "z": 4,
+
+            "elements": [
+                "environmentaltech:lightning_rod@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 14,
+            "z": 4,
+
+            "elements": [
+                "environmentaltech:lightning_rod@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "z": 7,
+
+            "elements": [
+                "environmentaltech:lightning_rod@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 7,
+
+            "elements": [
+                "environmentaltech:lightning_rod_insulated@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 7,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 0,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 7,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": 7,
+
+            "elements": [
+                "environmentaltech:lightning_rod@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 7,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 0,
+
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 0,
+
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 6,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 0,
+
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 10,
+            "z": 4,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "z": 7,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 6,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 7,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 5,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "z": 5,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 10,
+            "z": 3,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 2,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 5,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 4,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 7,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 9,
+            "z": 7,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "z": 1,
+
+            "elements": [
+                "environmentaltech:lightning_rod@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": 1,
+
+            "elements": [
+                "environmentaltech:lightning_rod@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 15,
+            "z": 1,
+
+            "elements": [
+                "environmentaltech:lightning_rod@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 4,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 14,
+            "z": 1,
+
+            "elements": [
+                "environmentaltech:lightning_rod@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 7,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 3,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 10,
+            "z": 4,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 7,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 6,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "z": 3,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 7,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 3,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": -1,
+
+            "elements": [
+                "rftools:screen_hitblock@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 5,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": -1,
+
+            "elements": [
+                "rftools:screen_hitblock@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 7,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": -1,
+
+            "elements": [
+                "rftools:screen_hitblock@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": -1,
+
+            "elements": [
+                "rftools:screen_hitblock@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": -1,
+
+            "elements": [
+                "rftools:screen_hitblock@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": -1,
+
+            "elements": [
+                "rftools:screen_hitblock@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 2,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 1,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": -1,
+
+            "elements": [
+                "rftools:screen_hitblock@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": -1,
+
+            "elements": [
+                "rftools:screen_hitblock@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": -1,
+
+            "elements": [
+                "rftools:screen@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "z": 4,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 1,
+
+            "elements": [
+                "environmentaltech:lightning_rod_insulated@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 0,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 2,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 15,
+            "z": 4,
+
+            "elements": [
+                "environmentaltech:lightning_rod@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 16,
+            "z": 4,
+
+            "elements": [
+                "environmentaltech:lightning_rod@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 10,
+            "z": 5,
+
+            "elements": [
+                "projectred-illumination:lamp@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 11,
+            "z": 4,
+
+            "elements": [
+                "environmentaltech:lightning_rod_insulated@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 17,
+            "z": 4,
+
+            "elements": [
+                "environmentaltech:lightning_rod@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 12,
+            "z": 4,
+
+            "elements": [
+                "environmentaltech:lightning_rod@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "calculator:purifiedobsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "calculator:material@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 1,
+
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        }
+    ]}

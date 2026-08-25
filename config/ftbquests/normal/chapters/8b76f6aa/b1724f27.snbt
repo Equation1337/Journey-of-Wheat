@@ -1,0 +1,31 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	text: [
+		"前期超强磨粉机"
+	],
+	dependencies: [
+		"5b8bf7c3"
+	],
+	tasks: [{
+		uid: "7331c70a",
+		type: "item",
+		items: [{
+			item: "roots:mortar"
+		}]
+	},
+	{
+		uid: "7ef6a9d2",
+		type: "item",
+		items: [{
+			item: "roots:pestle"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f9e1d247",
+		type: "item",
+		item: "roots:roots_guide"
+	}]
+}

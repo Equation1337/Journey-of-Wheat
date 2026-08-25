@@ -1,0 +1,20 @@
+{
+	x: 8.0d,
+	y: 6.0d,
+	dependencies: [
+		"08e026b9"
+	],
+	tasks: [{
+		uid: "082e4c22",
+		type: "item",
+		items: [{
+			item: "magneticraft:steam_engine"
+		}]
+	}],
+	rewards: [{
+		uid: "0c433330",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

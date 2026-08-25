@@ -1,0 +1,27 @@
+{
+	x: 16.0d,
+	y: 10.0d,
+	shape: "gear",
+	text: [
+		"可以在里面加入升级来方便养蜂，耗电量较大"
+	],
+	dependencies: [
+		"59026053",
+		"7c040526",
+		"2dff61bc",
+		"e45b4938"
+	],
+	tasks: [{
+		uid: "86d8111d",
+		type: "item",
+		items: [{
+			item: "gendustry:industrial_apiary"
+		}]
+	}],
+	rewards: [{
+		uid: "cca478c0",
+		type: "item",
+		item: "gendustry:upgrade_frame",
+		random_bonus: 7
+	}]
+}

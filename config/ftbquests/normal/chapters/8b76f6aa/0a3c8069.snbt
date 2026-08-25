@@ -1,0 +1,23 @@
+{
+	x: 32.0d,
+	y: 17.0d,
+	text: [
+		"要用小刀进行合成"
+	],
+	dependencies: [
+		"575617d7"
+	],
+	tasks: [{
+		uid: "db127a5e",
+		type: "item",
+		items: [{
+			item: "roots:fey_crafter"
+		}]
+	}],
+	rewards: [{
+		uid: "61bc4e9a",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}

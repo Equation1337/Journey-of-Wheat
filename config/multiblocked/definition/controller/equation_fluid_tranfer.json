@@ -1,0 +1,159 @@
+{
+  "version": 2,
+  "location": "equation:fluid_tranfer",
+  "traits": {
+    "background": "multiblocked:textures/gui.png",
+    "item": [
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 79,
+        "y": 91,
+        "autoIO": true
+      },
+      {
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
+        "x": 79,
+        "y": 47,
+        "autoIO": true
+      }
+    ],
+    "forge_energy": {
+      "cIO": 0,
+      "gIO": 2,
+      "x": 2,
+      "y": 39,
+      "width": 24,
+      "height": 94,
+      "texture": "multiblocked:textures/fe.png",
+      "fillDirection": 3,
+      "capacity": 6400000,
+      "maxReceive": 100000,
+      "maxExtract": 100000
+    },
+    "fluid": [
+      {
+        "cIO": 0,
+        "gIO": 0,
+        "mIO": 0,
+        "x": 140,
+        "y": 36,
+        "autoIO": true,
+        "tC": 100000,
+        "w": 24,
+        "h": 94,
+        "tex": "multiblocked:textures/transposer.png",
+        "fillDir": "DOWN_TO_UP"
+      }
+    ],
+    "recipe_progress": {
+      "cIO": 2,
+      "gIO": 2,
+      "x": 78,
+      "y": 14,
+      "width": 60,
+      "height": 18,
+      "texture": "multiblocked:textures/gui/energy_bar.png",
+      "fillDirection": 0
+    }
+  },
+  "properties": {
+    "rotationState": "ALL",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasCollision": true,
+    "destroyTime": 5.0,
+    "explosionResistance": 10.0,
+    "harvestLevel": 1,
+    "stackSize": 64,
+    "tabGroup": "multiblocked"
+  },
+  "status": {
+    "unformed": {
+      "renderer": {
+        "baseTexture": "multiblocked:machine_top",
+        "frontTexture": "multiblocked:machine_face_transposer",
+        "backTexture": "multiblocked:side_1",
+        "leftTexture": "multiblocked:side_1",
+        "rightTexture": "multiblocked:side_1",
+        "upTexture": "multiblocked:machine_top",
+        "downTexture": "multiblocked:machine_top",
+        "formedAsController": true,
+        "type": "gregtech"
+      }
+    },
+    "idle": {
+      "parent": "unformed"
+    },
+    "working": {
+      "renderer": {
+        "baseTexture": "multiblocked:machine_top",
+        "frontTexture": "multiblocked:machine_active_transposer",
+        "backTexture": "multiblocked:side_1",
+        "leftTexture": "multiblocked:side_1",
+        "rightTexture": "multiblocked:side_1",
+        "upTexture": "multiblocked:machine_top",
+        "downTexture": "multiblocked:machine_top",
+        "formedAsController": true,
+        "type": "gregtech"
+      },
+      "lightEmissive": 15,
+      "parent": "idle",
+      "sound": {
+        "sound": "nuclearcraft:block.nc.turbine_run",
+        "loop": true,
+        "delay": 0,
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "recipeMap": "yuanshenqidong",
+  "basePattern": {
+    "structureDir": [
+      "FRONT",
+      "UP",
+      "LEFT"
+    ],
+    "pattern": [
+      [
+        "@"
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "controller": {
+        "location": "equation:fluid_tranfer",
+        "type": "component"
+      },
+      "air": {
+        "type": "air"
+      },
+      "any": {
+        "type": "any"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "-": [
+        "air"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: 20.0d,
+	dependencies: [
+		"aec3faa2"
+	],
+	tasks: [{
+		uid: "63d97387",
+		type: "item",
+		items: [{
+			item: "modularmachinery:plastic_factory_controller"
+		}]
+	}]
+}

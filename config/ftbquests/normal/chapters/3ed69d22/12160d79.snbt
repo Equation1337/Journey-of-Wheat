@@ -1,0 +1,22 @@
+{
+	x: 14.0d,
+	y: 21.0d,
+	text: [
+		"多方快结构看书"
+	],
+	dependencies: [
+		"cfd89981"
+	],
+	tasks: [{
+		uid: "6d9b489a",
+		type: "item",
+		items: [{
+			item: "essentialcraft:reactor"
+		}]
+	}],
+	rewards: [{
+		uid: "1fe53e65",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	x: 40.0d,
+	y: 17.0d,
+	dependencies: [
+		"0a3c8069",
+		"5a3ec5dc"
+	],
+	tasks: [{
+		uid: "2d9c83e0",
+		type: "item",
+		items: [{
+			tag: {},
+			id: "roots:staff"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a185a40f",
+		type: "item",
+		item: {
+			tag: {},
+			id: "roots:component_pouch"
+		}
+	}]
+}

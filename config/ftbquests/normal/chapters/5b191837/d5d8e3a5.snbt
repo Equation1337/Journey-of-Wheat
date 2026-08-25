@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: 34.0d,
+	dependencies: [
+		"7a987086"
+	],
+	tasks: [{
+		uid: "9de5bceb",
+		type: "item",
+		items: [{
+			item: "environmentaltech:void_ore_miner_cont_4"
+		}]
+	}],
+	rewards: [{
+		uid: "1cf7d829",
+		type: "item",
+		item: "thaumicbases:knowledge_shard"
+	}]
+}

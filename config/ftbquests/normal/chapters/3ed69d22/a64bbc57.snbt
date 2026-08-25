@@ -1,0 +1,42 @@
+{
+	title: "版本答案",
+	x: 16.0d,
+	y: 4.0d,
+	shape: "gear",
+	dependencies: [
+		"c236ba15"
+	],
+	tasks: [{
+		uid: "2ea5bc40",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 61"
+		}]
+	},
+	{
+		uid: "ea8fad99",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 64"
+		}]
+	},
+	{
+		uid: "53cd5e3f",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 62"
+		}]
+	},
+	{
+		uid: "1ae272bd",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 63"
+		}]
+	}],
+	rewards: [{
+		uid: "d5c31bd8",
+		type: "item",
+		item: "essentialcraft:air_potion"
+	}]
+}

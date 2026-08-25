@@ -1,0 +1,23 @@
+{
+	title: "相位蚀星仪",
+	x: 20.0d,
+	y: 3.0d,
+	text: [
+		"自动星能液"
+	],
+	dependencies: [
+		"9f4abebe"
+	],
+	tasks: [{
+		uid: "1220f09e",
+		type: "item",
+		items: [{
+			item: "modularmachinery:phase_etchingstar_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "cdc90dc9",
+		type: "item",
+		item: "minecraft:stick"
+	}]
+}

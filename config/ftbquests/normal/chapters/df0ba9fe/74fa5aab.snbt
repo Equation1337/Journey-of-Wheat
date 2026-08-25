@@ -1,0 +1,48 @@
+{
+	x: 8.0d,
+	y: 36.0d,
+	dependencies: [
+		"c7e496e0"
+	],
+	tasks: [{
+		uid: "5a60ca22",
+		type: "item",
+		items: [{
+			item: "embers:aspectus_iron"
+		}]
+	},
+	{
+		uid: "f55bd540",
+		type: "item",
+		items: [{
+			item: "embers:aspectus_copper"
+		}]
+	},
+	{
+		uid: "54efdec5",
+		type: "item",
+		items: [{
+			item: "embers:aspectus_lead"
+		}]
+	},
+	{
+		uid: "b9d5c77e",
+		type: "item",
+		items: [{
+			item: "embers:aspectus_silver"
+		}]
+	},
+	{
+		uid: "58ddc9fb",
+		type: "item",
+		items: [{
+			item: "embers:aspectus_dawnstone"
+		}]
+	}],
+	rewards: [{
+		uid: "8926540b",
+		type: "item",
+		item: "ic2:crafting 1 38",
+		random_bonus: 9
+	}]
+}
