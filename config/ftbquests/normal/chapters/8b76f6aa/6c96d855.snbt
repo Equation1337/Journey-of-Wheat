@@ -1,7 +1,12 @@
 {
 	title: "用于合成符文",
+<<<<<<< HEAD
 	x: 18.0d,
 	y: 8.0d,
+=======
+	x: 6.0d,
+	y: -3.0d,
+>>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 	shape: "hexagon",
 	dependencies: [
 		"3f1a7fa2",

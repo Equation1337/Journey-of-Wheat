@@ -5,8 +5,13 @@
 	group: 0,
 	default_quest_shape: "",
 	images: [{
+<<<<<<< HEAD
 		x: 8.0d,
 		y: -2.0d,
+=======
+		x: 9.0d,
+		y: 0.5d,
+>>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 		width: 4.5d,
 		height: 3.0d,
 		rotation: 0.0d,
@@ -18,8 +23,13 @@
 		dev: 0b
 	},
 	{
+<<<<<<< HEAD
 		x: -2.5d,
 		y: 2.0d,
+=======
+		x: 12.0d,
+		y: -3.5d,
+>>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 		width: 5.0d,
 		height: 3.0d,
 		rotation: 0.0d,
@@ -31,8 +41,13 @@
 		dev: 0b
 	},
 	{
+<<<<<<< HEAD
 		x: 24.0d,
 		y: 7.5d,
+=======
+		x: 10.5d,
+		y: 6.5d,
+>>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 		width: 5.0d,
 		height: 3.0d,
 		rotation: 0.0d,
@@ -44,8 +59,13 @@
 		dev: 0b
 	},
 	{
+<<<<<<< HEAD
 		x: 23.5d,
 		y: 16.5d,
+=======
+		x: 10.5d,
+		y: 9.0d,
+>>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 		width: 5.0d,
 		height: 3.0d,
 		rotation: 0.0d,
@@ -57,8 +77,13 @@
 		dev: 0b
 	},
 	{
+<<<<<<< HEAD
 		x: 28.5d,
 		y: 26.0d,
+=======
+		x: 10.5d,
+		y: 12.5d,
+>>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 		width: 5.0d,
 		height: 5.0d,
 		rotation: 0.0d,
@@ -70,8 +95,13 @@
 		dev: 0b
 	},
 	{
+<<<<<<< HEAD
 		x: 28.5d,
 		y: 22.0d,
+=======
+		x: 15.0d,
+		y: 12.5d,
+>>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 		width: 5.0d,
 		height: 5.0d,
 		rotation: 0.0d,

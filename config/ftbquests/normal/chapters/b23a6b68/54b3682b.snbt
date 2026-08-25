@@ -1,8 +1,13 @@
 {
 	title: "知识碎片",
 	icon: "thaumicbases:knowledge_shard",
+<<<<<<< HEAD
 	x: 4.0d,
 	y: 0.0d,
+=======
+	x: 1.0d,
+	y: -1.0d,
+>>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 	can_repeat: 1b,
 	tasks: [{
 		uid: "03562005",

@@ -1,7 +1,12 @@
 {
 	title: "GeCraft型-高速裂变反应堆",
+<<<<<<< HEAD
 	x: 6.0d,
 	y: 10.0d,
+=======
+	x: -2.0d,
+	y: 2.5d,
+>>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 	shape: "gear",
 	dependencies: [
 		"67fed0b1"

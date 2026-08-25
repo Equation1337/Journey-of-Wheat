@@ -1,8 +1,13 @@
 {
 	title: "用于制作乙醇",
 	icon: "immersiveengineering:metal_multiblock 1 8",
+<<<<<<< HEAD
 	x: 8.0d,
 	y: 16.0d,
+=======
+	x: -1.0d,
+	y: -3.0d,
+>>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 	dependencies: [
 		"e8a2b783"
 	],

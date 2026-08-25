@@ -90,6 +90,7 @@ ExtraUtils2_Quarry_Dim
 	- Terrain Scale: 1.0
 
 
+<<<<<<< HEAD
 Underworld
 	- Id: -9
 	- Height: 256
@@ -99,6 +100,8 @@ Underworld
 	- Terrain Scale: 1.0
 
 
+=======
+>>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 nc_wasteland
 	- Id: 4598
 	- Height: 256
@@ -117,11 +120,19 @@ Spectre
 	- Terrain Scale: 1.0
 
 
+<<<<<<< HEAD
 planet
 	- Id: -2
 	- Height: 256
 	- Has Sky? true
 	- Cloud Height: -2000.0
+=======
+Underworld
+	- Id: -9
+	- Height: 256
+	- Has Sky? false
+	- Cloud Height: 32.0
+>>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 	- Can Respawn Here? false
 	- Terrain Scale: 1.0
 
@@ -135,3 +146,15 @@ Storage Cell
 	- Terrain Scale: 1.0
 
 
+<<<<<<< HEAD
+=======
+planet
+	- Id: -2
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: -2000.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+>>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
