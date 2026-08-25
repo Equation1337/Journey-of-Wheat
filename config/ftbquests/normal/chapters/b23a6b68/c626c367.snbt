@@ -1,13 +1,8 @@
 {
 	title: "泥土",
 	icon: "minecraft:dirt",
-<<<<<<< HEAD
 	x: 4.0d,
 	y: 2.0d,
-=======
-	x: 1.0d,
-	y: 0.5d,
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 	tasks: [{
 		uid: "88c8d9e3",
 		type: "item",

@@ -1,12 +1,7 @@
 {
 	title: "终焉之始",
-<<<<<<< HEAD
 	x: 0.0d,
 	y: 0.0d,
-=======
-	x: -3.0d,
-	y: -1.5d,
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 	shape: "hexagon",
 	text: [
 		"史蒂夫原本幸福的生活在主世界，突然有一天遭遇了麦神打击",
@@ -87,24 +82,24 @@
 			},
 			tag: {
 				ench: [{
-					lvl: 5s,
-					id: 35s
+					id: 35s,
+					lvl: 5s
 				},
 				{
-					lvl: 20s,
-					id: 16s
+					id: 16s,
+					lvl: 20s
 				},
 				{
-					lvl: 5s,
-					id: 21s
+					id: 21s,
+					lvl: 5s
 				},
 				{
-					lvl: 10s,
-					id: 34s
+					id: 34s,
+					lvl: 10s
 				},
 				{
-					lvl: 10s,
-					id: 32s
+					id: 32s,
+					lvl: 10s
 				}]
 			},
 			id: "additions:eq_tools-advanced_tool"

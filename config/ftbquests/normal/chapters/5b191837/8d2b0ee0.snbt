@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
 	x: 14.0d,
 	y: 6.0d,
-=======
-	x: 13.0d,
-	y: 4.5d,
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 	dependencies: [
 		"9bdc35e2"
 	],
@@ -24,185 +19,185 @@
 				BlockEntityTag: {
 					Items: [{
 						Slot: 0b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						Count: 1,
 						tag: {
 							astralsorcery: {
 								constellationName: "astralsorcery.constellation.vorux"
 							}
-						},
-						Count: 1,
-						id: "astralsorcery:itemconstellationpaper",
-						Damage: 0s
+						}
 					},
 					{
 						Slot: 1b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						Count: 1,
 						tag: {
 							astralsorcery: {
 								constellationName: "astralsorcery.constellation.vicio"
 							}
-						},
-						Count: 1,
-						id: "astralsorcery:itemconstellationpaper",
-						Damage: 0s
+						}
 					},
 					{
 						Slot: 2b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						Count: 1,
 						tag: {
 							astralsorcery: {
 								constellationName: "astralsorcery.constellation.ulteria"
 							}
-						},
-						Count: 1,
-						id: "astralsorcery:itemconstellationpaper",
-						Damage: 0s
+						}
 					},
 					{
 						Slot: 3b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						Count: 1,
 						tag: {
 							astralsorcery: {
 								constellationName: "astralsorcery.constellation.pelotrio"
 							}
-						},
-						Count: 1,
-						id: "astralsorcery:itemconstellationpaper",
-						Damage: 0s
+						}
 					},
 					{
 						Slot: 4b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						Count: 1,
 						tag: {
 							astralsorcery: {
 								constellationName: "astralsorcery.constellation.octans"
 							}
-						},
-						Count: 1,
-						id: "astralsorcery:itemconstellationpaper",
-						Damage: 0s
+						}
 					},
 					{
 						Slot: 5b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						Count: 1,
 						tag: {
 							astralsorcery: {
 								constellationName: "astralsorcery.constellation.mineralis"
 							}
-						},
-						Count: 1,
-						id: "astralsorcery:itemconstellationpaper",
-						Damage: 0s
+						}
 					},
 					{
 						Slot: 6b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						Count: 1,
 						tag: {
 							astralsorcery: {
 								constellationName: "astralsorcery.constellation.lucerna"
 							}
-						},
-						Count: 1,
-						id: "astralsorcery:itemconstellationpaper",
-						Damage: 0s
+						}
 					},
 					{
 						Slot: 7b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						Count: 1,
 						tag: {
 							astralsorcery: {
 								constellationName: "astralsorcery.constellation.aevitas"
 							}
-						},
-						Count: 1,
-						id: "astralsorcery:itemconstellationpaper",
-						Damage: 0s
+						}
 					},
 					{
 						Slot: 8b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						Count: 1,
 						tag: {
 							astralsorcery: {
 								constellationName: "astralsorcery.constellation.alcara"
 							}
-						},
-						Count: 1,
-						id: "astralsorcery:itemconstellationpaper",
-						Damage: 0s
+						}
 					},
 					{
 						Slot: 9b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						Count: 1,
 						tag: {
 							astralsorcery: {
 								constellationName: "astralsorcery.constellation.horologium"
 							}
-						},
-						Count: 1,
-						id: "astralsorcery:itemconstellationpaper",
-						Damage: 0s
+						}
 					},
 					{
 						Slot: 10b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						Count: 1,
 						tag: {
 							astralsorcery: {
 								constellationName: "astralsorcery.constellation.gelu"
 							}
-						},
-						Count: 1,
-						id: "astralsorcery:itemconstellationpaper",
-						Damage: 0s
+						}
 					},
 					{
 						Slot: 11b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						Count: 1,
 						tag: {
 							astralsorcery: {
 								constellationName: "astralsorcery.constellation.fornax"
 							}
-						},
-						Count: 1,
-						id: "astralsorcery:itemconstellationpaper",
-						Damage: 0s
+						}
 					},
 					{
 						Slot: 12b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						Count: 1,
 						tag: {
 							astralsorcery: {
 								constellationName: "astralsorcery.constellation.evorsio"
 							}
-						},
-						Count: 1,
-						id: "astralsorcery:itemconstellationpaper",
-						Damage: 0s
+						}
 					},
 					{
 						Slot: 13b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						Count: 1,
 						tag: {
 							astralsorcery: {
 								constellationName: "astralsorcery.constellation.discidia"
 							}
-						},
-						Count: 1,
-						id: "astralsorcery:itemconstellationpaper",
-						Damage: 0s
+						}
 					},
 					{
 						Slot: 14b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						Count: 1,
 						tag: {
 							astralsorcery: {
 								constellationName: "astralsorcery.constellation.bootes"
 							}
-						},
-						Count: 1,
-						id: "astralsorcery:itemconstellationpaper",
-						Damage: 0s
+						}
 					},
 					{
 						Slot: 15b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						Count: 1,
 						tag: {
 							astralsorcery: {
 								constellationName: "astralsorcery.constellation.armara"
 							}
-						},
-						Count: 1,
-						id: "astralsorcery:itemconstellationpaper",
-						Damage: 0s
+						}
 					}],
 					Lock: "",
 					ForgeCaps: {
 						"nuclearcraft:capability_default_radiation_resistance": {
-							shieldingRadResistance: 0.0d,
-							radiationResistance: 0.0d
+							radiationResistance: 0.0d,
+							shieldingRadResistance: 0.0d
 						}
 					},
 					id: "minecraft:chest"

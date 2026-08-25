@@ -1,13 +1,8 @@
 {
 	title: "大型魔力水晶",
 	icon: "ebwizardry:grand_crystal",
-<<<<<<< HEAD
 	x: 2.0d,
 	y: 2.0d,
-=======
-	x: -0.5d,
-	y: 0.5d,
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 	can_repeat: 1b,
 	tasks: [{
 		uid: "6becebd0",

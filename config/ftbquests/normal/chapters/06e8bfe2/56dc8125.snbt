@@ -1,12 +1,7 @@
 {
 	title: "水槽大能以水合道（",
-<<<<<<< HEAD
 	x: 10.0d,
 	y: 0.0d,
-=======
-	x: 3.0d,
-	y: -4.0d,
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 	tasks: [{
 		uid: "ca9e2d41",
 		type: "item",
@@ -22,9 +17,9 @@
 				t: "f",
 				r: {
 					FluidName: "water",
-					Cnt: 1,
-					Count: 0,
 					Req: 0,
+					Count: 0,
+					Cnt: 1,
 					Craft: 0
 				}
 			},

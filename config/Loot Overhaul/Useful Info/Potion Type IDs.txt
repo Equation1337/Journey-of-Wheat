@@ -201,7 +201,6 @@ randomthings:strong_collapse
        randomthings:collapse - 300 - 1 - false - true
 
 
-<<<<<<< HEAD
 enderio:confusion
    - Effects: 
        minecraft:nausea - 900 - 0 - false - true
@@ -237,8 +236,6 @@ enderio:long_floating
        minecraft:levitation - 560 - 0 - false - true
 
 
-=======
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 rpsideas:psishock
    - Effects: 
        rpsideas:psishock - 160 - 0 - false - true
@@ -269,44 +266,6 @@ rpsideas:psipulse_long
        rpsideas:psipulse - 600 - 0 - false - true
 
 
-<<<<<<< HEAD
-=======
-enderio:floating
-   - Effects: 
-       minecraft:levitation - 140 - 0 - false - true
-
-
-enderio:strong_floating
-   - Effects: 
-       minecraft:levitation - 140 - 2 - false - true
-
-
-enderio:long_floating
-   - Effects: 
-       minecraft:levitation - 560 - 0 - false - true
-
-
-enderio:withering
-   - Effects: 
-       minecraft:wither - 900 - 0 - false - true
-
-
-enderio:long_withering
-   - Effects: 
-       minecraft:wither - 2400 - 0 - false - true
-
-
-enderio:confusion
-   - Effects: 
-       minecraft:nausea - 900 - 0 - false - true
-
-
-enderio:long_confusion
-   - Effects: 
-       minecraft:nausea - 2400 - 0 - false - true
-
-
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 lightningcraft:demon_warding_normal
    - Effects: 
        lightningcraft:demon_warding - 18000 - 0 - false - true

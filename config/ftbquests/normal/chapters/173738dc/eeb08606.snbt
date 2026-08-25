@@ -1,12 +1,7 @@
 {
 	title: "海珀珍",
-<<<<<<< HEAD
 	x: 58.0d,
 	y: 15.5d,
-=======
-	x: 17.0d,
-	y: -2.5d,
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 	dependencies: [
 		"64df3fbe",
 		"e1fdad2f",

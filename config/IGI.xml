@@ -801,19 +801,6 @@
 			</operation>
 		</line>
 		<line>
-			<operation>
-				<str>GE</str>
-				<pct>
-					<var>memused</var>
-					<var>memtotal</var>
-				</pct>
-				<num>96</num>
-				<num>92</num>
-				<str>$4内存占用过高,请检查是否为程序分配足够内存</str>
-				<str>$c内存占用高</str>
-			</operation>
-		</line>
-		<line>
 			<op>
 				<str>GT</str>
 				<var>speed</var>

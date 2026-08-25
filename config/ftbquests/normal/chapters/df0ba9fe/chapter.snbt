@@ -5,13 +5,8 @@
 	group: 0,
 	default_quest_shape: "",
 	images: [{
-<<<<<<< HEAD
 		x: 5.0d,
 		y: 33.5d,
-=======
-		x: 0.5d,
-		y: 7.0d,
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 		width: 5.0d,
 		height: 4.0d,
 		rotation: 0.0d,
@@ -23,13 +18,8 @@
 		dev: 0b
 	},
 	{
-<<<<<<< HEAD
 		x: 4.0d,
 		y: 20.0d,
-=======
-		x: -4.0d,
-		y: 7.0d,
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 		width: 3.0d,
 		height: 4.0d,
 		rotation: 0.0d,

@@ -96,7 +96,6 @@ minecraft:binding_curse
    - Max Level: 1
 
 
-<<<<<<< HEAD
 draconicevolution:enchant_reaper
    - Id: 11
    - Rarity: RARE
@@ -107,10 +106,6 @@ draconicevolution:enchant_reaper
 
 extrautils2:xu.kaboomerang
    - Id: 12
-=======
-extrautils2:xu.kaboomerang
-   - Id: 11
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
    - Rarity: COMMON
    - Treasure: false
    - Min Level: 1
@@ -118,11 +113,7 @@ extrautils2:xu.kaboomerang
 
 
 extrautils2:xu.zoomerang
-<<<<<<< HEAD
    - Id: 13
-=======
-   - Id: 12
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
    - Rarity: COMMON
    - Treasure: false
    - Min Level: 1
@@ -130,11 +121,7 @@ extrautils2:xu.zoomerang
 
 
 extrautils2:xu.burnerang
-<<<<<<< HEAD
    - Id: 14
-=======
-   - Id: 13
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
    - Rarity: COMMON
    - Treasure: false
    - Min Level: 1
@@ -142,28 +129,13 @@ extrautils2:xu.burnerang
 
 
 extrautils2:xu.bladerang
-<<<<<<< HEAD
    - Id: 15
-=======
-   - Id: 14
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
    - Rarity: COMMON
    - Treasure: false
    - Min Level: 1
    - Max Level: 5
 
 
-<<<<<<< HEAD
-=======
-extrautils2:xu.boomereaperang
-   - Id: 15
-   - Rarity: COMMON
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 1
-
-
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 minecraft:sharpness
    - Id: 16
    - Rarity: COMMON
@@ -220,7 +192,6 @@ minecraft:sweeping
    - Max Level: 3
 
 
-<<<<<<< HEAD
 extrautils2:xu.boomereaperang
    - Id: 23
    - Rarity: COMMON
@@ -239,18 +210,6 @@ randomthings:magnetic
 
 thaumicbases:thaumicbases.eldritchbane
    - Id: 25
-=======
-draconicevolution:enchant_reaper
-   - Id: 23
-   - Rarity: RARE
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 5
-
-
-thaumicbases:thaumicbases.eldritchbane
-   - Id: 24
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
    - Rarity: RARE
    - Treasure: false
    - Min Level: 1
@@ -258,11 +217,7 @@ thaumicbases:thaumicbases.eldritchbane
 
 
 thaumicbases:thaumicbases.elderknowledge
-<<<<<<< HEAD
    - Id: 26
-=======
-   - Id: 25
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
    - Rarity: RARE
    - Treasure: false
    - Min Level: 1
@@ -270,28 +225,13 @@ thaumicbases:thaumicbases.elderknowledge
 
 
 thaumicbases:thaumicbases.tainted
-<<<<<<< HEAD
    - Id: 27
-=======
-   - Id: 26
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
    - Rarity: RARE
    - Treasure: false
    - Min Level: 1
    - Max Level: 3
 
 
-<<<<<<< HEAD
-=======
-randomthings:magnetic
-   - Id: 27
-   - Rarity: VERY_RARE
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 1
-
-
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 advancedrocketry:spacebreathing
    - Id: 28
    - Rarity: COMMON
@@ -300,7 +240,6 @@ advancedrocketry:spacebreathing
    - Max Level: 1
 
 
-<<<<<<< HEAD
 ebwizardry:magic_sword
    - Id: 29
    - Rarity: COMMON
@@ -323,30 +262,6 @@ ebwizardry:flaming_weapon
    - Treasure: false
    - Min Level: 1
    - Max Level: 4
-=======
-endercore:xpboost
-   - Id: 29
-   - Rarity: UNCOMMON
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 3
-
-
-endercore:autosmelt
-   - Id: 30
-   - Rarity: RARE
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 1
-
-
-enderio:soulbound
-   - Id: 31
-   - Rarity: VERY_RARE
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 1
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 
 
 minecraft:efficiency
@@ -381,21 +296,14 @@ minecraft:fortune
    - Max Level: 3
 
 
-<<<<<<< HEAD
 ebwizardry:freezing_weapon
    - Id: 36
    - Rarity: COMMON
-=======
-enderio:repellent
-   - Id: 36
-   - Rarity: VERY_RARE
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
    - Treasure: false
    - Min Level: 1
    - Max Level: 4
 
 
-<<<<<<< HEAD
 ebwizardry:magic_protection
    - Id: 37
    - Rarity: UNCOMMON
@@ -462,10 +370,6 @@ endercore:xpboost
 
 enderio:shimmer
    - Id: 45
-=======
-enderio:shimmer
-   - Id: 37
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
    - Rarity: VERY_RARE
    - Treasure: true
    - Min Level: 1
@@ -473,98 +377,21 @@ enderio:shimmer
 
 
 enderio:witherarrow
-<<<<<<< HEAD
    - Id: 46
-=======
-   - Id: 38
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
    - Rarity: UNCOMMON
    - Treasure: false
    - Min Level: 1
    - Max Level: 1
 
 
-<<<<<<< HEAD
 enderio:soulbound
    - Id: 47
    - Rarity: VERY_RARE
-=======
-enderio:witherweapon
-   - Id: 39
-   - Rarity: UNCOMMON
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
    - Treasure: false
    - Min Level: 1
    - Max Level: 1
 
 
-<<<<<<< HEAD
-=======
-ebwizardry:magic_sword
-   - Id: 40
-   - Rarity: COMMON
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 4
-
-
-ebwizardry:magic_bow
-   - Id: 41
-   - Rarity: COMMON
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 4
-
-
-ebwizardry:flaming_weapon
-   - Id: 42
-   - Rarity: COMMON
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 4
-
-
-ebwizardry:freezing_weapon
-   - Id: 43
-   - Rarity: COMMON
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 4
-
-
-ebwizardry:magic_protection
-   - Id: 44
-   - Rarity: UNCOMMON
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 4
-
-
-ebwizardry:frost_protection
-   - Id: 45
-   - Rarity: RARE
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 4
-
-
-ebwizardry:shock_protection
-   - Id: 46
-   - Rarity: RARE
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 4
-
-
-futuremc:loyalty
-   - Id: 47
-   - Rarity: UNCOMMON
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 3
-
-
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 minecraft:power
    - Id: 48
    - Rarity: COMMON
@@ -597,7 +424,6 @@ minecraft:infinity
    - Max Level: 1
 
 
-<<<<<<< HEAD
 enderio:witherweapon
    - Id: 52
    - Rarity: UNCOMMON
@@ -624,10 +450,6 @@ futuremc:loyalty
 
 futuremc:channeling
    - Id: 55
-=======
-futuremc:channeling
-   - Id: 52
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
    - Rarity: VERY_RARE
    - Treasure: false
    - Min Level: 1
@@ -635,11 +457,7 @@ futuremc:channeling
 
 
 futuremc:riptide
-<<<<<<< HEAD
    - Id: 56
-=======
-   - Id: 53
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
    - Rarity: RARE
    - Treasure: false
    - Min Level: 1
@@ -647,19 +465,7 @@ futuremc:riptide
 
 
 futuremc:impaling
-<<<<<<< HEAD
    - Id: 57
-=======
-   - Id: 54
-   - Rarity: RARE
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 5
-
-
-mets:efficient_energy_cost
-   - Id: 55
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
    - Rarity: RARE
    - Treasure: false
    - Min Level: 1
@@ -667,25 +473,6 @@ mets:efficient_energy_cost
 
 
 matteroverdrive:overclock
-<<<<<<< HEAD
-=======
-   - Id: 56
-   - Rarity: COMMON
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 4
-
-
-ancientspellcraft:static_charge
-   - Id: 57
-   - Rarity: COMMON
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 4
-
-
-ancientspellcraft:degrade_sword
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
    - Id: 58
    - Rarity: COMMON
    - Treasure: false
@@ -693,21 +480,12 @@ ancientspellcraft:degrade_sword
    - Max Level: 4
 
 
-<<<<<<< HEAD
 mets:efficient_energy_cost
    - Id: 59
    - Rarity: RARE
    - Treasure: false
    - Min Level: 1
    - Max Level: 5
-=======
-ancientspellcraft:degrade_bow
-   - Id: 59
-   - Rarity: COMMON
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 4
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 
 
 astralsorcery:enchantment.as.nightvision

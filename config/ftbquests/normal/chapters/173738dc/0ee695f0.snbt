@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
 	x: 8.0d,
-=======
-	x: -2.5d,
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 	y: 2.0d,
 	dependencies: [
 		"c286ddad"
@@ -16,12 +12,12 @@
 				slot2: "Crafting",
 				slot4: "Energy Module",
 				slot3: "Storage",
-				0: {},
-				slot1: "Dynamic",
-				1: {},
-				slot0: "Flawless",
-				2: {},
 				3: {},
+				slot1: "Dynamic",
+				2: {},
+				slot0: "Flawless",
+				1: {},
+				0: {},
 				4: {}
 			},
 			id: "calculator:flawlesscalculator"

@@ -14,13 +14,8 @@
 		},
 		id: "astralsorcery:itemcelestialcrystal"
 	},
-<<<<<<< HEAD
 	x: 16.0d,
 	y: 4.0d,
-=======
-	x: 14.5d,
-	y: 6.0d,
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 	dependencies: [
 		"a6e2a728"
 	],
