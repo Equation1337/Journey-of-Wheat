@@ -17,9 +17,9 @@
 				t: "f",
 				r: {
 					FluidName: "water",
-					Req: 0,
-					Count: 0,
 					Cnt: 1,
+					Count: 0,
+					Req: 0,
 					Craft: 0
 				}
 			},

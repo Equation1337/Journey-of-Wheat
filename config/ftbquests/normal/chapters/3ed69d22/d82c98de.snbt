@@ -12,8 +12,8 @@
 		type: "item",
 		items: [{
 			tag: {
-				shade: 0b,
 				balance: 0.0f,
+				shade: 0b,
 				mru: 0
 			},
 			Damage: 4s,
@@ -26,8 +26,8 @@
 		type: "item",
 		item: {
 			tag: {
-				shade: 0b,
 				balance: 0.0f,
+				shade: 0b,
 				mru: 0,
 				storage: 0b
 			},

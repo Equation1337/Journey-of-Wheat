@@ -265,7 +265,6 @@ recipes.remove(<pneumaticcraft:amadron_tablet>);
 //#Add
 recipes.addShaped(<additions:eq_tools-wood_scissors>, [[null, <minecraft:stick>, null],[null, <minecraft:planks>, <minecraft:stick>], [null, null, null]]);
 recipes.addShapeless(<contenttweaker:wheat>, [<appliedenergistics2:creative_storage_cell>,<contenttweaker:forest_bat>,<avaritia:block_resource:1>,<avaritia:block_resource:1>,<avaritia:block_resource:1>,<avaritia:block_resource:1>,<avaritia:block_resource:1>,<avaritia:block_resource:1>,<avaritia:block_resource:1>]);
-recipes.addShapeless(<equation:ore_chid>, [<botania:specialflower>.withTag({type: "orechid"})]);
 recipes.addShapeless(<botania:grassseeds>, [<botania:cellblock>]);
 recipes.addShapeless(<botania:pinkinator>, [<appliedenergistics2:matter_cannon>.withTag({"@0": 4032 as long, internalMaxPower: 200000.0, ic: 4032 as long, it: 1 as short, "#0": {Craft: 0 as byte, Cnt: 4032 as long, id: "appliedenergistics2:paint_ball", Count: 1, Damage: 26 as short, Req: 0}})]);
 recipes.addShaped(<minecraft:bedrock>, [[<enderio:block_infinity:2>, <enderio:block_infinity:2>, <enderio:block_infinity:2>],[<enderio:block_infinity:2>, <enderio:block_infinity:2>, <enderio:block_infinity:2>], [<enderio:block_infinity:2>, <enderio:block_infinity:2>, <enderio:block_infinity:2>]]);

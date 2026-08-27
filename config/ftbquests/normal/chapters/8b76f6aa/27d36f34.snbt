@@ -19,11 +19,6 @@
 			},
 			id: "botania:specialflower"
 		}],
-		consume_items: 1b
-	}],
-	rewards: [{
-		uid: "f5946c4a",
-		type: "item",
-		item: "equation:ore_chid"
+		consume_items: 0b
 	}]
 }

@@ -6197,7 +6197,6 @@ equation:chaoguangsu - 9879
 equation:fluid_tranfer - 9880
 equation:mana_to_fluid_1 - 9881
 equation:mana_to_fluid_2 - 9882
-equation:ore_chid - 9883
 multiblocked:blueprint - 9884
 multiblocked:multiblock_builder - 9885
 rftools:smartwrench - 9886
@@ -6556,6 +6555,8 @@ rftoolspower:cell1 - 10238
 rftoolspower:cell2 - 10239
 rftoolspower:cell3 - 10240
 rftoolspower:information_screen - 10241
+constructionwandlegacy:infinity_wand - 10242
+constructionwandlegacy:iron_wand - 10243
 fm:coaxium - 10244
 fm:unrefined_coaxium - 10245
 fm:crushed_coaxium - 10246
@@ -6612,6 +6613,11 @@ fm:coaxium_ore - 10296
 fm:carbon_block - 10297
 fm:unrefined_carbon_block - 10298
 snad:snad - 10299
+constructionwandlegacy:stone_wand - 10300
+constructionwandlegacy:diamond_wand - 10301
+constructionwandlegacy:core_ae - 10302
+constructionwandlegacy:core_angel - 10303
+constructionwandlegacy:core_destruction - 10304
 tc_integration:cluster_aluminum - 10322
 tc_integration:cluster_ardite - 10323
 tc_integration:cluster_cobalt - 10324

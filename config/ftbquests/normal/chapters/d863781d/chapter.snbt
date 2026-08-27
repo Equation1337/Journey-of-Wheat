@@ -5,7 +5,7 @@
 			MaxH: 35,
 			Health: 35,
 			IsAnalyzed: 0b,
-			Genome: {
+			Mate: {
 				Chromosomes: [{
 					Slot: 0b,
 					UID0: "forestry.speciesUnweary",
@@ -72,7 +72,7 @@
 					UID1: "forestry.effectNone"
 				}]
 			},
-			Mate: {
+			Genome: {
 				Chromosomes: [{
 					Slot: 0b,
 					UID0: "forestry.speciesUnweary",

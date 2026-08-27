@@ -41,9 +41,9 @@
 				t: "f",
 				r: {
 					FluidName: "water",
-					Req: 0L,
-					Count: 0b,
 					Cnt: 1L,
+					Count: 0b,
+					Req: 0L,
 					Craft: 0b
 				}
 			},
@@ -59,11 +59,11 @@
 			tag: {
 				t: "i",
 				r: {
-					Req: 0L,
-					Damage: 0s,
-					id: "minecraft:cobblestone",
-					Count: 1,
 					Cnt: 1L,
+					Count: 1,
+					id: "minecraft:cobblestone",
+					Damage: 0s,
+					Req: 0L,
 					Craft: 0b
 				}
 			},
@@ -91,9 +91,9 @@
 				t: "f",
 				r: {
 					FluidName: "lava",
-					Req: 0L,
-					Count: 0b,
 					Cnt: 1L,
+					Count: 0b,
+					Req: 0L,
 					Craft: 0b
 				}
 			},

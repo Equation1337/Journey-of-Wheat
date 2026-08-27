@@ -1,0 +1,29 @@
+{
+	title: "建筑手杖",
+	x: 8.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "f531782b",
+		type: "item",
+		items: [{
+			item: "constructionwandlegacy:diamond_wand"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b2e7169d",
+		type: "item",
+		item: "constructionwandlegacy:core_destruction"
+	},
+	{
+		uid: "0a6353d5",
+		type: "item",
+		item: "constructionwandlegacy:core_angel"
+	},
+	{
+		uid: "f6c912d1",
+		type: "item",
+		item: "constructionwandlegacy:core_ae"
+	}]
+}
