@@ -1,0 +1,3218 @@
+[
+  {
+    "modId": "!!pigium",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Not a legitimate performance mod. It was made to bait users for a YouTube video."
+  },
+  {
+    "modId": "academy",
+    "version": "1.1.3",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Academycraft UES",
+    "replacementModLink": "https://github.com/yor42/AcademyCraft/releases",
+    "action": "REPLACE",
+    "message": "Abandoned. Use #link:[Academycraft UES](https://github.com/yor42/AcademyCraft/releases)."
+  },
+  {
+    "modId": "accurateblockplacement",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "actuallybaubles",
+    "status": "DEPRECATED",
+    "replacementModName": "Possibly Baubles",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/possibly-baubles",
+    "action": "REPLACE",
+    "message": "#link:[Possibly Baubles](https://www.curseforge.com/minecraft/mc-mods/possibly-baubles) has improved implementation and more features."
+  },
+  {
+    "modId": "advancedrocketry",
+    "version": "1.12.2-2.0.0-17",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Advanced Rocketry - Reworked",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry-2",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Advanced Rocketry - Reworked](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry-2)."
+  },
+  {
+    "modId": "advancedshader",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Binary patching, incompatible.",
+    "isCleanroom": true
+  },
+  {
+    "modId": "advancementscreenshot",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "aetheriumashenarmor",
+    "status": "DEPRECATED",
+    "replacementModName": "Aetherworks Unofficial Extended Life",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/aetherworks-extended-life",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Aetherworks Unofficial Extended Life](https://www.curseforge.com/minecraft/mc-mods/aetherworks-extended-life)"
+  },
+  {
+    "modId": "aetherworks",
+    "status": "DEPRECATED",
+    "version": "1.0.0.3",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "replacementModName": "Aetherworks Unofficial Extended Life",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/aetherworks-extended-life",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Aetherworks Unofficial Extended Life](https://www.curseforge.com/minecraft/mc-mods/aetherworks-extended-life) and #link:[Embers Unofficial Extended Life 1.25.3](https://www.curseforge.com/minecraft/mc-mods/embers-extended-life/files/6556819)."
+  },
+  {
+    "modId": "aiimprovements",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "aireducer",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "allarrowsinfinityfix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "appleskin",
+    "status": "DEPRECATED",
+    "replacementModName": "LemonSkin",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/lemonskin",
+    "action": "REPLACE",
+    "message": "Recommended to instead use #link:[LemonSkin](https://www.curseforge.com/minecraft/mc-mods/lemonskin). Note that it uses a different mod id and package name, it will not be compatible with older mods that originally integrated with AppleSkin! Stick with AppleSkin if this is an issue."
+  },
+  {
+    "modId": "appliedenergistics2",
+    "version": "rv6-stable-7",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "status": "DEPRECATED",
+    "replacementModName": "AE2 Unofficial Extended Life",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/ae2-extended-life",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[AE2 Unofficial Extended Life](https://www.curseforge.com/minecraft/mc-mods/ae2-extended-life)."
+  },
+  {
+    "modId": "aquaacrobaticsunofficial",
+    "status": "PROBLEMATIC",
+    "replacementModName": "Aqua Acrobatics",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/aqua-acrobatics",
+    "action": "REPLACE",
+    "message": "Has a different mod id and package name, which will mess up compatibility with all other mods that are trying to integrate with the original Aqua Acrobatics. Recommended to use #link:[Aqua Acrobatics](https://www.curseforge.com/minecraft/mc-mods/aqua-acrobatics) instead."
+  },
+  {
+    "modId": "armorcurve",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "armorswap",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "attributefix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "astatine",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Has no performance gain and may even reduce performance for some users."
+  },
+  {
+    "modId": "avaritia",
+    "version": "3.3.0.48",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Avaritia 1.1x Unofficial Extended Life",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/avaritia-1-1x-unofficial",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Avaritia 1.1x Unofficial Extended Life](https://www.curseforge.com/minecraft/mc-mods/avaritia-1-1x-unofficial)."
+  },
+  {
+    "modId": "badwithernocookiereloaded",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation of the majority of functionality exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks). If you also want to silence other sounds, you can stick with Bad Wither No Cookie - Reloaded."
+  },
+  {
+    "modId": "bannerpatch",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "battletowers",
+    "action": "INCLUDE",
+    "patchList": [
+      {
+        "modName": "Battle Towers Fixes",
+        "modId": "btfixes",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/btfixes",
+        "modDescription": "Minimally invasive fixes for Battle Towers."
+      }
+    ]
+  },
+  {
+    "modId": "baubles",
+    "version": "2.4.9",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Bubbles",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/bubbles-a-baubles-fork",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Bubbles](https://www.curseforge.com/minecraft/mc-mods/bubbles-a-baubles-fork). If incompatibilities occur, revert to Baubles."
+  },
+  {
+    "modId": "bedbreakbegone",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "bedfix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "bedpatch",
+    "status": "DEPRECATED",
+    "action": "REMOVE",
+    "message": "Fix already included in Forge / Cleanroom Loader, does nothing when installed."
+  },
+  {
+    "modId": "bedrockbreaks",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "bedsaynosleep",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "betteradvancements",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation of the majority of functionality exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks). If a feature you're using is not in Universal Tweaks, you can stick with Better Advancements."
+  },
+  {
+    "modId": "betterbedrock",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "betterbedrockgen",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "betterbiomeblend",
+    "status": "PROBLEMATIC",
+    "action": "INFO",
+    "message": "Does not provide any meaningful performance improvements or fixes, can only provide a biome blending visual."
+  },
+  {
+    "modId": "betterburning",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "betterfoliage",
+    "status": "PROBLEMATIC",
+    "version": "2.4.2",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "action": "REMOVE",
+    "message": "Performance heavy and known to cause incompatibility issues with certain mods including VintageFix."
+  },
+  {
+    "modId": "betterpingdisplay",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "betterplacement",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "betterportals",
+    "version": "0.4.0",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "status": "DEPRECATED",
+    "replacementModName": "Better Portals Refitted",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/better-portals-refitted",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Better Portals Refitted](https://www.curseforge.com/minecraft/mc-mods/better-portals-refitted).",
+    "isCleanroom": true
+  },
+  {
+    "modId": "betterquesting",
+    "version": "3.5.329",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Better Questing Unofficial",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/better-questing-unofficial",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Better Questing Unofficial](https://www.curseforge.com/minecraft/mc-mods/better-questing-unofficial) which merges the Quest Book and Standard Expansion."
+  },
+  {
+    "modId": "bettersafebed",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "betterundergroundreborn",
+    "status": "DEPRECATED",
+    "replacementModName": "Wild Caves 4",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/wild-caves-4",
+    "action": "REPLACE",
+    "message": "MCreator and not very performance friendly. Use #link:[Wild Caves 4](https://www.curseforge.com/minecraft/mc-mods/wild-caves-4) instead."
+  },
+  {
+    "modId": "bibliocraft",
+    "version": "2.4.7",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "DEPRECATED",
+    "replacementModName": "BiblioCraft Reshelved",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/bibliocraft-reshelved",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[BiblioCraft Reshelved](https://www.curseforge.com/minecraft/mc-mods/bibliocraft-reshelved)."
+  },
+  {
+    "modId": "biggerchathistory",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "biggerpacketsplz",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "bigxpdrops",
+    "status": "DEPRECATED",
+    "replacementModName": "Fixeroo",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/xp-orb-clump",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Fixeroo](https://www.curseforge.com/minecraft/mc-mods/xp-orb-clump)."
+  },
+  {
+    "modId": "binniecore",
+    "version": "2.5.1.203",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "status": "DEPRECATED",
+    "replacementModName": "Binnie's Mods Patched",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/binnies-mods-patched",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Binnie's Mods Patched](https://www.curseforge.com/minecraft/mc-mods/binnies-mods-patched)."
+  },
+  {
+    "modId": "bithop",
+    "version": "master-1.2.54",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "status": "DEPRECATED",
+    "replacementModName": "QBithop",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/qbithop",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[QBithop](https://www.curseforge.com/minecraft/mc-mods/qbithop)."
+  },
+  {
+    "modId": "blockcraftery",
+    "version": "1.12.2-1.3.1",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "status": "DEPRECATED",
+    "replacementModName": "Blockcraftery: Refurbished",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/blockcraftery-refurbished",
+    "action": "REPLACE",
+    "message": "Outdated and has several bugs. Use #link:[Blockcraftery: Refurbished](https://www.curseforge.com/minecraft/mc-mods/blockcraftery-refurbished).",
+    "isCleanroom": true
+  },
+  {
+    "modId": "blockdispenser",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "blockoverlayfix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "bloodagricraft",
+    "status": "DEPRECATED",
+    "replacementModName": "Magiculture Integrations",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/magiculture-integrations",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Magiculture Integrations](https://www.curseforge.com/minecraft/mc-mods/magiculture-integrations)."
+  },
+  {
+    "modId": "bloodmoon",
+    "status": "PROBLEMATIC",
+    "replacementModName": "Hyxcate",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/hyxcate",
+    "action": "REPLACE",
+    "message": "Performance issues and OptiFine lighting bugs. Use #link:[Hyxcate](https://www.curseforge.com/minecraft/mc-mods/hyxcate) instead."
+  },
+  {
+    "modId": "bottlefix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "bottomsugarcanharvest",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "bowinfinityfix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "bq_standard",
+    "status": "DEPRECATED",
+    "replacementModName": "Better Questing Unofficial",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/better-questing-unofficial",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Better Questing Unofficial](https://www.curseforge.com/minecraft/mc-mods/better-questing-unofficial)."
+  },
+  {
+    "modId": "bqt",
+    "status": "DEPRECATED",
+    "replacementModName": "Better Questing Unofficial",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/better-questing-unofficial",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Better Questing Unofficial](https://www.curseforge.com/minecraft/mc-mods/better-questing-unofficial)."
+  },
+  {
+    "modId": "brigo",
+    "status": "PROBLEMATIC",
+    "replacementModName": "Salutation",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/salutation",
+    "action": "REPLACE",
+    "message": "Currently unmaintained and has a few unaddressed #link:[issues](https://github.com/xhyrom/brigo/issues). Use #link:[Salutation](https://www.curseforge.com/minecraft/mc-mods/salutation) for a better implementation."
+  },
+  {
+    "modId": "brigo",
+    "status": "DEPRECATED",
+    "action": "REMOVE",
+    "message": "Brigadier is already included in Cleanroom.",
+    "isCleanroom": true
+  },
+  {
+    "modId": "bringbedrockback",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "burnbabyburn",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "breedablekillerrabbit",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "byg",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "MCreator mod with numerous bugs in 1.12.2. Use an alternative biome mod."
+  },
+  {
+    "modId": "chargefix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "charset",
+    "version": "0.5.6.6",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "status": "DEPRECATED",
+    "replacementModName": "Charset CRE",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/charset-cre",
+    "action": "REPLACE",
+    "message": "Outdated and has several bugs. Use #link:[Charset CRE](https://www.curseforge.com/minecraft/mc-mods/charset-cre).",
+    "isCleanroom": true
+  },
+  {
+    "modId": "chestelytraswap",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "cfm",
+    "version": "6.3.0",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "status": "DEPRECATED",
+    "replacementModName": "MrCrayfish's Furniture Mod Rebuilt",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod-rebuilt/files/6581554",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[MrCrayfish's Furniture Mod Rebuilt 6.6.0](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod-rebuilt/files/6581554)."
+  },
+  {
+    "modId": "cfm",
+    "version": "6.7.0",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": false,
+    "status": "PROBLEMATIC",
+    "replacementModVersion": "6.6.0",
+    "action": "DOWNGRADE",
+    "message": "Later versions of MrCrayfish's Furniture Mod Rebuilt have content bloat, significant changes, and more issues like huge textures being added into the texture atlas. Use #link:[MrCrayfish's Furniture Mod Rebuilt 6.6.0](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod-rebuilt/files/6581554)."
+  },
+  {
+    "modId": "chickensshed",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "chisel",
+    "status": "PROBLEMATIC",
+    "version": "MC1.12.2-1.0.2.45",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "Chisel",
+    "replacementModVersion": "MC1.12.2-1.0.2.45",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/chisel/download/2915375",
+    "action": "UPGRADE",
+    "message": "Outdated and may cause crashes."
+  },
+  {
+    "modId": "chisel",
+    "action": "INCLUDE",
+    "patchList": [
+      {
+        "modName": "Capn's Chisel Search",
+        "modId": "capnschiselsearch",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/capns-chisel-search",
+        "modDescription": "Adds searchbar to Chisel's GUI."
+      }
+    ]
+  },
+  {
+    "modId": "cie",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "classiccombat",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "cleardespawn",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "clumps",
+    "status": "DEPRECATED",
+    "replacementModName": "Fixeroo",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/xp-orb-clump",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Fixeroo](https://www.curseforge.com/minecraft/mc-mods/xp-orb-clump)."
+  },
+  {
+    "modId": "conarm",
+    "status": "DEPRECATED",
+    "version": "1.2.5.10",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "replacementModName": "Antique Armory",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/antique-armory",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Antique Armory](https://www.curseforge.com/minecraft/mc-mods/antique-armory) and #link:[Tinkers' Antique](https://www.curseforge.com/minecraft/mc-mods/tinkers-antique)."
+  },
+  {
+    "modId": "configurablecane",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "configurabledespawntimer",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "contenttweaker",
+    "status": "PROBLEMATIC",
+    "version": "1.12.2-4.10.0",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "ContentTweaker",
+    "replacementModVersion": "1.12.2-4.10.0",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/contenttweaker/download/3331364",
+    "action": "UPGRADE",
+    "message": "Outdated and may cause crashes."
+  },
+  {
+    "modId": "continousmusic",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "craftingtweaks",
+    "version": "9.0.0",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Crafting Tweaks Unofficial",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks-unofficial",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Crafting Tweaks Unofficial](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks-unofficial)."
+  },
+  {
+    "modId": "crafttweaker",
+    "status": "PROBLEMATIC",
+    "version": "4.1.20",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "CraftTweaker",
+    "replacementModVersion": "4.1.20",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/crafttweaker/download/7406648",
+    "action": "UPGRADE",
+    "message": "Outdated and may cause crashes."
+  },
+  {
+    "modId": "creeperconfetti",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "crimsonrevelations",
+    "version": "0.8",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "DEPRECATED",
+    "replacementModName": "New Crimson Revelations",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/new-crimson-revelations",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[New Crimson Revelations](https://www.curseforge.com/minecraft/mc-mods/new-crimson-revelations)."
+  },
+  {
+    "modId": "crimsonwarfare",
+    "status": "DEPRECATED",
+    "replacementModName": "Thaumic Augmentation",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/thaumic-augmentation",
+    "action": "REPLACE",
+    "message": "#link:[Thaumic Augmentation](https://www.curseforge.com/minecraft/mc-mods/thaumic-augmentation) already adds back the bosses this mod includes (excluding Crimson Praetor). If you prefer Crimson Warfare's implementation, you can stick with it."
+  },
+  {
+    "modId": "ctm",
+    "status": "PROBLEMATIC",
+    "version": "MC1.12.2-1.0.2.31",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "ConnectedTexturesMod",
+    "replacementModVersion": "MC1.12.2-1.0.2.31",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/ctm/download/2915363",
+    "action": "UPGRADE",
+    "message": "Outdated and may cause crashes."
+  },
+  {
+    "modId": "customspawner",
+    "status": "PROBLEMATIC",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Very outdated and WILL screw up mob spawns in many mods. If you are using Mo' Creatures, it is highly recommended to use #link:[Mo' Creatures Extended](https://www.curseforge.com/minecraft/mc-mods/mo-creatures-extended) instead which removes the dependency."
+  },
+  {
+    "modId": "cyclepaintings",
+    "status": "DEPRECATED",
+    "replacementModName": "Painting Selection Gui",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/paintings/files/7156791",
+    "action": "REPLACE",
+    "message": "Recommended to use #link:[Painting Selection Gui](https://www.curseforge.com/minecraft/mc-mods/paintings/files/7156791) instead to much more easily select what painting you want when placing it."
+  },
+  {
+    "modId": "damageindicatorsmod",
+    "status": "PROBLEMATIC",
+    "replacementModName": "ToroHealth Damage Indicators",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators",
+    "action": "REPLACE",
+    "message": "Abandoned and has a ton of issues, like randomly causing a NPE crash. Highly recommended to switch to #link:[ToroHealth Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators) instead for far more stability."
+  },
+  {
+    "modId": "damagetilt",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "darkstone",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "davincisvessels",
+    "status": "DEPRECATED",
+    "replacementModName": "Valkyrien Skies",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies",
+    "action": "REPLACE",
+    "message": "Recommended to instead use #link:[Rifted Valkyrium](https://www.curseforge.com/minecraft/mc-mods/rifted-valkyrium) (Cleanroom exclusive), or #link:[Valkyrien Skies](https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies) for physics-based vehicles. If you prefer DaVinci's Vessels, you can stick with it."
+  },
+  {
+    "modId": "defaultlanport",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "deuf",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "diethopper",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "difficultypatch",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "ding",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "dirt2path",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "distantbanners",
+    "status": "DEPRECATED",
+    "replacementModName": "Fixeroo",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/xp-orb-clump",
+    "action": "REPLACE",
+    "message": "#link:[Fixeroo](https://www.curseforge.com/minecraft/mc-mods/xp-orb-clump) already has a better implementation of this that supports all tile entities."
+  },
+  {
+    "modId": "dmonsters",
+    "version": "1.7",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "status": "DEPRECATED",
+    "replacementModName": "Deadly Monsters Patched",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/deadly-monsters-patched",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Deadly Monsters Patched](https://www.curseforge.com/minecraft/mc-mods/deadly-monsters-patched)."
+  },
+  {
+    "modId": "drawerfps",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "dttraverse",
+    "version": "1.12.2-2.1",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "PROBLEMATIC",
+    "replacementModName": "Dramatic Trees",
+    "replacementModVersion": "1.12.2-2.1",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/dramatictrees",
+    "action": "UPGRADE",
+    "message": "Outdated and may cause crashes."
+  },
+  {
+    "modId": "dupefixproject",
+    "status": "PROBLEMATIC",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "UPGRADE",
+    "message": "Crashes with MixinBooter. Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks) and modern forks of the affected mods."
+  },
+  {
+    "modId": "dynamictrees",
+    "version": "1.12.2-0.13.4",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Dramatic Trees",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/dramatictrees",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Dramatic Trees](https://www.curseforge.com/minecraft/mc-mods/dramatictrees)."
+  },
+  {
+    "modId": "dynamictreesbop",
+    "status": "DEPRECATED",
+    "version": "1.5.1",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "replacementModName": "Dramatic Trees - Biomes O' Plenty",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/dramatictrees-bop",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Dramatic Trees - Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/dramatictrees-bop)."
+  },
+  {
+    "modId": "dynamictreesnatura",
+    "status": "DEPRECATED",
+    "version": "1.12.2-1.1.7",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "replacementModName": "Dramatic Trees - Natura Legacy",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/dramatictrees-naturalegacy",
+    "action": "REPLACE",
+    "message": "Outdated and incompatible with Natura Legacy. Use #link:[Dramatic Trees - Natura Legacy](https://www.curseforge.com/minecraft/mc-mods/dramatictrees-naturalegacy)."
+  },
+  {
+    "modId": "ea",
+    "status": "DEPRECATED",
+    "replacementModName": "Congrega Mystica",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/congrega-mystica",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Congrega Mystica](https://www.curseforge.com/minecraft/mc-mods/congrega-mystica)."
+  },
+  {
+    "modId": "earthworks",
+    "version": "1.3.4.3",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Earthworks Unofficial Extended Life",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/earthworks-extended-life",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Earthworks Unofficial Extended Life](https://www.curseforge.com/minecraft/mc-mods/earthworks-extended-life)."
+  },
+  {
+    "modId": "easybreeding",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "embers",
+    "status": "DEPRECATED",
+    "replacementModName": "Embers Unofficial Extended Life",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/embers-extended-life",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Embers Unofficial Extended Life](https://www.curseforge.com/minecraft/mc-mods/embers-extended-life)."
+  },
+  {
+    "modId": "emt",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Extremely unfinished with a lot of bugs and missing recipes. You can use #link:[Electro-Magic Tools - IC2 Classic](https://github.com/kappa-maintainer/ElectroMagicToolsClassic/releases) instead if you're using IC2 Classic."
+  },
+  {
+    "modId": "enablecheats",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "enderiozoo",
+    "status": "DEPRECATED",
+    "replacementModName": "Ender Safari",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/ender-safari",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Ender Safari](https://www.curseforge.com/minecraft/mc-mods/ender-safari), which no longer depends on Ender IO and EnderCore."
+  },
+  {
+    "modId": "enderzoo",
+    "status": "DEPRECATED",
+    "replacementModName": "Ender Safari",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/ender-safari",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Ender Safari](https://www.curseforge.com/minecraft/mc-mods/ender-safari), which no longer depends on Ender IO and EnderCore."
+  },
+  {
+    "modId": "endportalparallax",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "engineeredgolems",
+    "status": "DEPRECATED",
+    "replacementModName": "Congrega Mystica",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/congrega-mystica",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Congrega Mystica](https://www.curseforge.com/minecraft/mc-mods/congrega-mystica)."
+  },
+  {
+    "modId": "entity_desync_fix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "equaldragons",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "erebusfix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "experiencebugfix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "extendpolyphonylimit",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "extrautils2",
+    "action": "INCLUDE",
+    "patchList": [
+      {
+        "modName": "XU2-Patcher",
+        "modId": "xu2patcher",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/xu2-patcher",
+        "modDescription": "Fixes several bugs in Extra Utilities 2 using Binary Patches."
+      }
+    ]
+  },
+  {
+    "modId": "eyltrafix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "f5fix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "farsight",
+    "status": "PROBLEMATIC",
+    "action": "INFO",
+    "message": "Does almost nothing except move unloadChunk to tick; caches chunks indefinitely which might impact RAM usage."
+  },
+  {
+    "modId": "fastbench",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "fastfurnace",
+    "status": "DEPRECATED",
+    "replacementModName": "CensoredASM",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/lolasm",
+    "action": "REPLACE",
+    "message": "Merged and rewritten in #link:[CensoredASM](https://www.curseforge.com/minecraft/mc-mods/lolasm)."
+  },
+  {
+    "modId": "fastleafdecay",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "fencejumper",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "finite-fluid-control",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "fireproofitems",
+    "status": "DEPRECATED",
+    "replacementModName": "Future Fireproof",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/future-fireproof",
+    "action": "REPLACE",
+    "message": "#link:[Future Fireproof](https://www.curseforge.com/minecraft/mc-mods/future-fireproof) has a better implementation and API features."
+  },
+  {
+    "modId": "fixedanvilrepaircost",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "foamfix",
+    "status": "DEPRECATED",
+    "replacementModName": "VintageFix",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/vintagefix",
+    "action": "REPLACE",
+    "message": "Outdated and prone to cause issues in Cleanroom Environment. Better implementation exists in #link:[VintageFix](https://www.curseforge.com/minecraft/mc-mods/vintagefix).",
+    "isCleanroom": true
+  },
+  {
+    "modId": "foodfix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "foodfunk",
+    "status": "PROBLEMATIC",
+    "replacementModName": "Food Spoiling",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/foodspoiling",
+    "action": "REPLACE",
+    "message": "Has severe issues and causes crashes, impacts performance by ticking every loaded container in the world and spamming null tooltip errors, food items will also rot over time in JEI/HEI and other interfaces like villager trades. Use #link:[Food Spoiling](https://www.curseforge.com/minecraft/mc-mods/foodspoiling) for a better implementation."
+  },
+  {
+    "modId": "forgivingvoid",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "fpsboost",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "MCreator and has no performance gain."
+  },
+  {
+    "modId": "fpsoptimizer",
+    "status": "PROBLEMATIC",
+    "replacementModName": "FPS Reducer",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/fps-reducer",
+    "action": "REPLACE",
+    "message": "Has little to no performance gain. It is highly recommended to use #link:[FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) instead for the same functionality."
+  },
+  {
+    "modId": "framevoidpatch",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "frustumculling",
+    "status": "PROBLEMATIC",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Will cause incompatibilities with no performance gain. #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks) already has its own Frustum Culling tweak."
+  },
+  {
+    "modId": "fluxnetworks",
+    "status": "PROBLEMATIC",
+    "version": "4.1.0",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "Flux Networks",
+    "replacementModVersion": "4.1.0",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/flux-networks/download/3178199",
+    "action": "UPGRADE",
+    "message": "Outdated and may cause crashes."
+  },
+  {
+    "modId": "forbiddenmagicre",
+    "status": "DEPRECATED",
+    "version": "",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "replacementModName": "",
+    "replacementModLink": "",
+    "action": "REMOVE",
+    "message": "Almost all the content is implemented better in other addons. Use the following instead: #link:[Congrega Mystica](https://www.curseforge.com/minecraft/mc-mods/congrega-mystica), #link:[New Crimson Revelations](https://www.curseforge.com/minecraft/mc-mods/new-crimson-revelations), and #link:[Thaumic Tinkerer: Reborn](https://www.curseforge.com/minecraft/mc-mods/thaumic-tinkerer-reborn)."
+  },
+  {
+    "modId": "forgelin",
+    "status": "DEPRECATED",
+    "version": "1.8.3",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "replacementModName": "Forgelin-Continuous",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/forgelin-continuous",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Forgelin-Continuous](https://www.curseforge.com/minecraft/mc-mods/forgelin-continuous)."
+  },
+  {
+    "modId": "gadothaumy",
+    "status": "DEPRECATED",
+    "replacementModName": "Thaumic Wonders Unofficial",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/thaumic-wonders-unofficial",
+    "action": "REPLACE",
+    "message": "The Infusion Claw is implemented better in #link:[Thaumic Wonders Unofficial](https://www.curseforge.com/minecraft/mc-mods/thaumic-wonders-unofficial), while the Essentia Condenser has issues with mod compatibility."
+  },
+  {
+    "modId": "geckolib3",
+    "version": "3.0.30",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "status": "DEPRECATED",
+    "replacementModName": "SauriaLib",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/saurialib",
+    "action": "REPLACE",
+    "message": "Outdated and has several bugs. SauriaLib remains compatible with existing mods that depend on GeckoLib 3. Use #link:[SauriaLib](https://www.curseforge.com/minecraft/mc-mods/saurialib).",
+    "isCleanroom": true
+  },
+  {
+    "modId": "getittogetherdrops",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "givemebackmyhp",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "gottagofast",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "gputape",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Provides no benefit."
+  },
+  {
+    "modId": "hammercore",
+    "status": "PROBLEMATIC",
+    "version": "12.2.58",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "HammerLib",
+    "replacementModVersion": "12.2.58",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/hammer-lib/download/6348753",
+    "action": "UPGRADE",
+    "message": "Outdated and may cause crashes."
+  },
+  {
+    "modId": "hardcoredarkness",
+    "status": "DEPRECATED",
+    "action": "INFO",
+    "message": "#link:[Dynamic Darkness](https://www.curseforge.com/minecraft/mc-mods/dynamic-darkness) does not alter Night Vision colors and is more configurable. Mod incompatibility can still occur, pick what you feel is best."
+  },
+  {
+    "modId": "hardcoreitemstages",
+    "status": "PROBLEMATIC",
+    "replacementModName": "",
+    "replacementModVersion": "",
+    "replacementModLink": "",
+    "action": "INFO",
+    "message": "Crashes with VintageFix's `mixin.dynamic_resources` setting. disable `hideUnknownItems` config in `hardcoreitemstage.cfg`to avoid further crashes."
+  },
+  {
+    "modId": "helpfixer",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "hiddenrecipebook",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "horsefallfix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "horsestandstill",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "hotornot",
+    "status": "DEPRECATED",
+    "version": "1.1.9",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "Hot or Not Plus",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/hot-or-not-plus",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Hot or Not Plus](https://www.curseforge.com/minecraft/mc-mods/hot-or-not-plus)."
+  },
+  {
+    "modId": "ichoriumkit",
+    "status": "DEPRECATED",
+    "replacementModName": "KAMI: Reborn",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/kami-reborn",
+    "action": "REPLACE",
+    "message": "Outdated and abandoned. Use #link:[KAMI: Reborn](https://www.curseforge.com/minecraft/mc-mods/kami-reborn) for the rewrite and continuation. Use #link[Thaumic Tinkerer: Reborn](https://www.curseforge.com/minecraft/mc-mods/thaumic-tinkerer-reborn) for the rest of Thaumic Tinkerer's content, although you no longer need it to run KAMI: Reborn."
+  },
+  {
+    "modId": "ichunutil",
+    "status": "PROBLEMATIC",
+    "action": "INFO",
+    "message": "Can cause invisible entities in your world, as noted on this #link:[issue report](https://github.com/iChun/iChunUtil/issues/178#issuecomment-2917948068)."
+  },
+  {
+    "modId": "ido",
+    "status": "DEPRECATED",
+    "replacementModName": "Aqua Acrobatics",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/aqua-acrobatics",
+    "action": "REPLACE",
+    "message": "Outdated and discontinued. Better implementation exists in #link:[Aqua Acrobatics](https://www.curseforge.com/minecraft/mc-mods/aqua-acrobatics)."
+  },
+  {
+    "modId": "ihateghostblocks",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "ikwid",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "immcraft",
+    "version": "1.12-1.6.0",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Immersive Craft Patched",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/immersive-craft-patched",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Immersive Craft Patched](https://www.curseforge.com/minecraft/mc-mods/immersive-craft-patched)."
+  },
+  {
+    "modId": "improved-relauncher",
+    "status": "DEPRECATED",
+    "replacementModName": "Cleanroom Relauncher",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/cleanroom-relauncher",
+    "action": "REPLACE",
+    "message": "No longer needed because the original Cleanroom Relauncher now automatically sets up everything since 0.4.0. Use #link:[Cleanroom Relauncher](https://www.curseforge.com/minecraft/mc-mods/cleanroom-relauncher) or #link:[Cleanroom Relauncher Unofficial](https://www.curseforge.com/minecraft/mc-mods/cleanroom-relauncher-unofficial)."
+  },
+  {
+    "modId": "infwithmend",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "infinityworkswithallarrows",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "industrialforegoing",
+    "action": "INCLUDE",
+    "patchList": [
+      {
+        "modName": "IFPatcher",
+        "modId": "ifpatcher",
+        "isClassLoaded": true,
+        "classpath": "net.eve0415.ifpatcher.Transformer",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/ifpatcher",
+        "modDescription": "Patches some known bugs from Industrial Foregoing for 1.12.2 as it is officially EOL."
+      }
+    ]
+  },
+  {
+    "modId": "infinityliblightingpatch",
+    "status": "DEPRECATED",
+    "replacementModName": "Agricraft Refitted",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/agricraft-refitted",
+    "action": "REPLACE",
+    "message": "#link:[Agricraft Refitted](https://www.curseforge.com/minecraft/mc-mods/agricraft-refitted) already has InfinityLib included and fixes the same bug."
+  },
+  {
+    "modId": "insomniac",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "inventoryspam",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "ironbackpacks",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Has several dupe issues and can void all bag contents on servers. You can try #link:[Retro Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/retro-sophisticated-backpacks) as an alternative."
+  },
+  {
+    "modId": "isorropia",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Not recommended, it is unfinished and has several bugs. Breaking the Curative Vat during certain circumstances can produce a massive amount of flux on the area."
+  },
+  {
+    "modId": "jecharacters",
+    "action": "INCLUDE",
+    "patchList": [
+      {
+        "modName": "Had Enough Characters",
+        "modId": "hecharacters",
+        "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/had-enough-characters",
+        "modDescription": "Needed to make Just Enough Characters (JECh) work with Had Enough Items (HEI)."
+      }
+    ]
+  },
+  {
+    "modId": "jehighlights",
+    "status": "DEPRECATED",
+    "action": "INFO",
+    "message": "#link:[More Overlays](https://www.curseforge.com/minecraft/mc-mods/more-overlays) includes a more configurable version of the features of JustEnoughHighlights, but has other features as well."
+  },
+  {
+    "modId": "jeid",
+    "version": "2.2.4",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "DEPRECATED",
+    "replacementModName": "RoughlyEnoughIDs (REID)",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/reid/files/6761278",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[RoughlyEnoughIDs (REID)](https://www.curseforge.com/minecraft/mc-mods/reid/files/6761278)."
+  },
+  {
+    "modId": "jei",
+    "version": "4.29.7",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Had Enough Items (HEI)",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/had-enough-items",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Had Enough Items (HEI)](https://www.curseforge.com/minecraft/mc-mods/had-enough-items)."
+  },
+  {
+    "modId": "jei",
+    "action": "INCLUDE",
+    "patchList": [
+      {
+        "modName": "JEI Area Fixer",
+        "modId": "jei_area_fixer",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/jei-area-fixer",
+        "modDescription": "Fixes modded GUI overlaps with the JEI window."
+      }
+    ]
+  },
+  {
+    "modId": "jeiutilities",
+    "status": "PROBLEMATIC",
+    "version": "0.2.13",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "JEI Utilities",
+    "replacementModVersion": "0.2.13",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/jei-utilities/download/6937116",
+    "action": "UPGRADE",
+    "message": "Outdated and may cause crashes."
+  },
+  {
+    "modId": "jeresources",
+    "status": "PROBLEMATIC",
+    "version": "0.9.2",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": true,
+    "replacementModVersion": "0.9.2",
+    "action": "DOWNGRADE",
+    "message": "Latest alpha version has #link:[issues with the villager tab](https://github.com/way2muchnoise/JustEnoughResources/issues/423). Use #link:[JER 0.9.2.60](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/files/2728585) instead."
+  },
+  {
+    "modId": "jeresources",
+    "action": "INCLUDE",
+    "patchList": [
+      {
+        "modName": "Just Enough Magiculture",
+        "modId": "justenoughmagiculture",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/just-enough-magiculture",
+        "modDescription": "Adds a large number of Just Enough Resources integrations."
+      }
+    ]
+  },
+  {
+    "modId": "jumpoverfences",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "keydescfix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "knowledgeshare",
+    "status": "DEPRECATED",
+    "replacementModName": "Thaumic Wonders Unofficial",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/thaumic-wonders-unofficial",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Thaumic Wonders Unofficial](https://www.curseforge.com/minecraft/mc-mods/thaumic-wonders-unofficial)."
+  },
+  {
+    "modId": "ksyxis",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "laglessmod",
+    "status": "PROBLEMATIC",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Will cause incompatibilities with no performance gain. #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks) already has its own Frustum Culling tweak."
+  },
+  {
+    "modId": "lanserverproperties",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "leafdecay",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "letmedespawn",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "loginhpfix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "lostmagic",
+    "status": "DEPRECATED",
+    "version": "",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "replacementModName": "",
+    "replacementModLink": "",
+    "action": "REMOVE",
+    "message": "Content integrated in #link:[New Crimson Revelations](https://www.curseforge.com/minecraft/mc-mods/new-crimson-revelations) and #link:[Congrega Mystica](https://www.curseforge.com/minecraft/mc-mods/congrega-mystica)."
+  },
+  {
+    "modId": "matteroverdrive",
+    "version": "1.0.1",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Matter Overdrive Refitted",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/matter-overdrive-refitted",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Matter Overdrive Refitted](https://www.curseforge.com/minecraft/mc-mods/matter-overdrive-refitted)."
+  },
+  {
+    "modId": "maxhealthfixer",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "maxpotidext",
+    "status": "DEPRECATED",
+    "replacementModName": "Roughly Enough IDs",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/reid",
+    "action": "REPLACE",
+    "message": "Replaced by #link:[Roughly Enough IDs](https://www.curseforge.com/minecraft/mc-mods/reid)."
+  },
+  {
+    "modId": "mekanism",
+    "version": "1.12.2-9.8.3.390",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Mekanism Community Edition",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/mekanism-ce",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Mekanism Community Edition](https://www.curseforge.com/minecraft/mc-mods/mekanism-ce)."
+  },
+  {
+    "modId": "mendingfix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "mfpu",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "minieffects",
+    "version": "1.1.0",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "status": "DEPRECATED",
+    "replacementModName": "MiniEffects-Legacy Extended Life",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/minieffects-legacy-extended-life",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[MiniEffects-Legacy Extended Life](https://www.curseforge.com/minecraft/mc-mods/minieffects-legacy-extended-life)."
+  },
+  {
+    "modId": "mixincompat",
+    "status": "DEPRECATED",
+    "action": "REMOVE",
+    "message": "Not required with latest MixinBooter."
+  },
+  {
+    "modId": "mo-creatures",
+    "version": "12.1.0",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "PROBLEMATIC",
+    "replacementModName": "Mo' Creatures Extended",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/mo-creatures-extended",
+    "action": "REPLACE",
+    "message": "Outdated, has lots of issues, and requires Custom Mob Spawner. Use #link:[Mo' Creatures Extended](https://www.curseforge.com/minecraft/mc-mods/mo-creatures-extended)."
+  },
+  {
+    "modId": "mobpc",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "mobsunscreen",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "modtweaker",
+    "status": "PROBLEMATIC",
+    "version": "4.0.19",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "ModTweaker",
+    "replacementModVersion": "4.0.19",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/modtweaker/download/3840577",
+    "action": "UPGRADE",
+    "message": "Outdated and may cause crashes."
+  },
+  {
+    "modId": "modularmachinery",
+    "status": "DEPRECATED",
+    "version": "1.11.1",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "Modular Machinery: Community Edition",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/modularmachinery-community-edition",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Modular Machinery: Community Edition](https://www.curseforge.com/minecraft/mc-mods/modularmachinery-community-edition)."
+  },
+  {
+    "modId": "mousetweaks",
+    "status": "PROBLEMATIC",
+    "version": "2.10.1",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "replacementModName": "Mouse Tweaks Unofficial",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks-unofficial",
+    "action": "REPLACE",
+    "message": "Outdated and will cause issues with Cleanroom. Use #link:[Mouse Tweaks Unofficial](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks-unofficial)."
+  },
+  {
+    "modId": "movingquickly",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "mtqfix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "multimob",
+    "status": "PROBLEMATIC",
+    "action": "INFO",
+    "message": "Unmaintained and known to potentially screw up mob spawns while also causing other issues and crashes."
+  },
+  {
+    "modId": "multithreadednoise",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Known to cause crashes, not recommended for use."
+  },
+  {
+    "modId": "mup",
+    "status": "DEPRECATED",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Outdated and has issues with compatibility. Use #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks) for most of the fixes, and #link:[Alfheim Lighting Engine](https://www.curseforge.com/minecraft/mc-mods/alfheim-lighting-engine) or #link:[Hesperus](https://www.curseforge.com/minecraft/mc-mods/hesperus) for lighting optimizations."
+  },
+  {
+    "modId": "musicinterval",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "mutantbeasts",
+    "version": "1.12.2-1.0.2",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Mutant Creatures Legacy",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/mutant-creatures-legacy",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Mutant Creatures Legacy](https://www.curseforge.com/minecraft/mc-mods/mutant-creatures-legacy)."
+  },
+  {
+    "modId": "muteuselesslogs",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "nanfix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "nanpolice",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "narrus_yeetus",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "natura",
+    "version": "4.3.3",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Natura Legacy",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/natura-legacy",
+    "action": "REPLACE",
+    "message": "Outdated and impacts performance. Use #link:[Natura Legacy](https://www.curseforge.com/minecraft/mc-mods/natura-legacy)."
+  },
+  {
+    "modId": "naturallychargedcreepers",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "nb",
+    "status": "PROBLEMATIC",
+    "action": "INFO",
+    "message": "World generation like blackstone can severely impact performance."
+  },
+  {
+    "modId": "neonium",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Broken and abandoned fork of Vintagium. Use #link:[Nothirium](https://www.curseforge.com/minecraft/mc-mods/nothirium) and #link:[Naughthirium](https://www.curseforge.com/minecraft/mc-mods/naughthirium), or #link:[Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build/releases)."
+  },
+  {
+    "modId": "nether_api",
+    "status": "PROBLEMATIC",
+    "action": "INFO",
+    "message": "Overwrites vanilla spawn rules and nether generation using its own methods, incompatible with all mods that add Nether or End biomes except those that are explicitly supported. You can report incompatible mods #link:[here](https://github.com/jbredwards/Nether-API/issues)."
+  },
+  {
+    "modId": "netherportalfix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "noadvancements",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "no_double_eat",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "#link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks) already has the same fix."
+  },
+  {
+    "modId": "nobounce",
+    "status": "DEPRECATED",
+    "replacementModName": "ThaumicTweaker",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/thaumictweaker",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[ThaumicTweaker](https://www.curseforge.com/minecraft/mc-mods/thaumictweaker)."
+  },
+  {
+    "modId": "nodoze",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "noexpensive",
+    "status": "PROBLEMATIC",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Overwrites anvil methods and breaks compatibility. Use #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks) instead."
+  },
+  {
+    "modId": "nofov",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "nomoreglowingpots",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "nonvflash",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "nopotionshift",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "norealmsbutton",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "norecipebook",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "noprecipebook",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "normalasm",
+    "status": "DEPRECATED",
+    "replacementModName": "Chibi",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/chibi",
+    "action": "REPLACE",
+    "message": "Uses deprecated methods that can cause crashes in older modpacks. The mod id and package name are also different, which will not work with mods that originally integrated with Chibi (unless additional support has been added for the forks). Use #link:[Chibi](https://www.curseforge.com/minecraft/mc-mods/chibi)."
+  },
+  {
+    "modId": "oldcombat",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "onslaught",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Discontinued and extremely buggy. Not recommended for use by the authors."
+  },
+  {
+    "modId": "openblocks",
+    "version": "1.8.3.1",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "DEPRECATED",
+    "replacementModName": "OpenBlocks Reopened",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/openblocks-reopened",
+    "action": "REPLACE",
+    "message": "Outdated. Remove OpenModsLib and Replace OpenBlocks with #link:[OpenBlocks Reopened](https://www.curseforge.com/minecraft/mc-mods/openblocks-reopened)."
+  },
+  {
+    "modId": "orestages",
+    "status": "PROBLEMATIC",
+    "version": "2.1.0",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "Ore Stages: ReStaged",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/ore-stages-restaged",
+    "action": "REPLACE",
+    "message": "Has issues with VintageFix's 'mixin.dynamic_resources' setting. Use #link:[Ore Stages ReStaged](https://www.curseforge.com/minecraft/mc-mods/ore-stages-restaged)."
+  },
+  {
+    "modId": "overpowered_mending",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "paintingsplusplus",
+    "status": "DEPRECATED",
+    "replacementModName": "JSON Paintings",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/json-paintings",
+    "action": "REPLACE",
+    "message": "Use #link:[JSON Paintings](https://www.curseforge.com/minecraft/mc-mods/json-paintings) and #link:[Painting Selection GUI](https://www.curseforge.com/minecraft/mc-mods/paintings/files/7156791) for a better experience."
+  },
+  {
+    "modId": "parry",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "patchouli",
+    "status": "DEPRECATED",
+    "version": "1.0-23.6",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "replacementModName": "Patchouli ROFL Edition",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/patchouli-rofl-edition",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Patchouli ROFL Edition](https://www.curseforge.com/minecraft/mc-mods/patchouli-rofl-edition). Revert if incompatibilities occur."
+  },
+  {
+    "modId": "pathundergates",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "performant",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Empty jar that does nothing."
+  },
+  {
+    "modId": "performancemonitoringenhancer",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Can severely degrade performance, strongly advised to remove it."
+  },
+  {
+    "modId": "persistency",
+    "status": "DEPRECATED",
+    "action": "REMOVE",
+    "message": "No longer required by Thaumic Speedup."
+  },
+  {
+    "modId": "phosphorcrashfix",
+    "status": "DEPRECATED",
+    "replacementModName": "Alfheim Lighting Engine",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/alfheim-lighting-engine",
+    "action": "REPLACE",
+    "message": "No longer needed for #link:[Alfheim Lighting Engine](https://www.curseforge.com/minecraft/mc-mods/alfheim-lighting-engine) or #link:[Hesperus](https://www.curseforge.com/minecraft/mc-mods/hesperus)."
+  },
+  {
+    "modId": "phosphor-lighting",
+    "status": "PROBLEMATIC",
+    "version": "0.2.7",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "replacementModName": "Alfheim Lighting Engine",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/alfheim-lighting-engine",
+    "action": "REPLACE",
+    "message": "Incompatible with Cleanroom and several modern optimization mods. Use #link:[Alfheim Lighting Engine](https://www.curseforge.com/minecraft/mc-mods/alfheim-lighting-engine) or #link:[Hesperus](https://www.curseforge.com/minecraft/mc-mods/hesperus) for better compatibility and performance."
+  },
+  {
+    "modId": "pickupnotifier",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "pillar",
+    "version": "1.2-10",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "status": "DEPRECATED",
+    "replacementModName": "Pillar Patched",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/pillar-patched",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Pillar Patched](https://www.curseforge.com/minecraft/mc-mods/pillar-patched)."
+  },
+  {
+    "modId": "portaldupebegone",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "ppa",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "preventghost",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "quark",
+    "status": "DEPRECATED",
+    "version": "r1.6-179",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "replacementModName": "Quark: RotN Edition",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/quark-rotn-edition",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Quark: RotN Edition](https://www.curseforge.com/minecraft/mc-mods/quark-rotn-edition)."
+  },
+  {
+    "modId": "questbook",
+    "status": "DEPRECATED",
+    "replacementModName": "Better Questing Unofficial",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/better-questing-unofficial",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Better Questing Unofficial](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "quickleafdecay",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "railcraft",
+    "version": "12.1.0-beta-8",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModVersion": "12.1.0-beta-8",
+    "status": "PROBLEMATIC",
+    "replacementModName": "Railcraft Beta",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/railcraft/files/3853491",
+    "action": "UPGRADE",
+    "message": "Release version is abandoned. Use #link:[Railcraft Beta](https://www.curseforge.com/minecraft/mc-mods/railcraft/files/3853491) for fixes."
+  },
+  {
+    "modId": "railcraft",
+    "action": "INCLUDE",
+    "patchList": [
+      {
+        "modName": "Railway Depot Worker",
+        "modId": "rdw",
+        "isClassLoaded": true,
+        "classpath": "info.tritusk.modpack.railcraft.patcher.ModContainer",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/railway-depot-worker",
+        "modDescription": "Fixes issues left in old versions of Railcraft."
+      }
+    ]
+  },
+  {
+    "modId": "rallyhealth",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "randompatches",
+    "status": "PROBLEMATIC",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Known to cause crashes with certain mods. Majority of features are now in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "randomportals",
+    "status": "PROBLEMATIC",
+    "version": "1.12.2-1.8.2.4",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": false,
+    "replacementModName": "Clean Portals",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/clean-portals-randomportals-cleanroom-edition",
+    "action": "REPLACE",
+    "message": "Does not work with Cleanroom Launcher. Use the Cleanroom Edition replacement.",
+    "isCleanroom": true
+  },
+  {
+    "modId": "randomtweaks",
+    "status": "PROBLEMATIC",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Known to cause crashes with certain mods. Majority of features are now in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "raumanium",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "MCreator and has no performance gain."
+  },
+  {
+    "modId": "rawinput",
+    "status": "DEPRECATED",
+    "action": "REMOVE",
+    "message": "Already included in Cleanroom.",
+    "isCleanroom": true
+  },
+  {
+    "modId": "realistictorches",
+    "status": "PROBLEMATIC",
+    "action": "INFO",
+    "message": "Known to cause issues with performance and compatibility."
+  },
+  {
+    "modId": "rebind_narrator",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "reccomplex",
+    "status": "PROBLEMATIC",
+    "version": "1.4.8.7",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "Recurrent Complex",
+    "replacementModVersion": "1.4.8.7",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/recurrent-complex/files/8562927",
+    "action": "UPGRADE",
+    "message": "Outdated, known security issues, and may cause crashes."
+  },
+  {
+    "modId": "reciperemover",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "redirectionor",
+    "status": "DEPRECATED",
+    "action": "REMOVE",
+    "message": "Provides no real performance benefit."
+  },
+  {
+    "modId": "reforged",
+    "status": "DEPRECATED",
+    "replacementModName": "Balkon's WeaponMod: Legacy",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/balkons-weaponmod-legacy",
+    "action": "REPLACE",
+    "message": "No longer being developed, it is recommended to instead use #link:[Balkon's WeaponMod: Legacy](https://www.curseforge.com/minecraft/mc-mods/balkons-weaponmod-legacy) and #link:[Balkon's Expansion](https://www.curseforge.com/minecraft/mc-mods/balkons-expansion). If you prefer Reforged, you can stick with it."
+  },
+  {
+    "modId": "relictium",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Broken and abandoned fork of Vintagium. Use #link:[Nothirium](https://www.curseforge.com/minecraft/mc-mods/nothirium) and #link:[Naughthirium](https://www.curseforge.com/minecraft/mc-mods/naughthirium), or #link:[Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build/releases)."
+  },
+  {
+    "modId": "renaissance_core",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Not recommended, it is specifically made for a modpack and will change major Thaumcraft features (such as tainted mobs) without having the ability to disable them."
+  },
+  {
+    "modId": "replant",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "roguelike",
+    "version": "1.8.0",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": true,
+    "status": "PROBLEMATIC",
+    "replacementModVersion": "1.8.0",
+    "action": "DOWNGRADE",
+    "message": "Fnar's Edition is known to be worse in performance and includes unnecessary changes to some of the original content. Use #link:[Roguelike Dungeons 1.8.0](https://www.curseforge.com/minecraft/mc-mods/roguelike-dungeons/files/2492586) instead."
+  },
+  {
+    "modId": "rpgloot",
+    "status": "DEPRECATED",
+    "version": "1.0",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "RPGLoot Patched",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/rpgloot-patched",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[RPGLoot Patched](https://www.curseforge.com/minecraft/mc-mods/rpgloot-patched)."
+  },
+  {
+    "modId": "rusticthaumaturgy",
+    "status": "DEPRECATED",
+    "replacementModName": "Congrega Mystica",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/congrega-mystica",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Congrega Mystica](https://www.curseforge.com/minecraft/mc-mods/congrega-mystica)."
+  },
+  {
+    "modId": "salutation",
+    "status": "DEPRECATED",
+    "action": "REMOVE",
+    "message": "Brigadier is already included in Cleanroom.",
+    "isCleanroom": true
+  },
+  {
+    "modId": "salwayseat",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "savemystronghold",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "searedladder",
+    "status": "DEPRECATED",
+    "replacementModName": "Tinker's Antique",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/tinkers-antique",
+    "action": "REPLACE",
+    "message": "Merged in #link:[Tinker's Antique](https://www.curseforge.com/minecraft/mc-mods/tinkers-antique)."
+  },
+  {
+    "modId": "seedcopy",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "serializationisbad",
+    "status": "DEPRECATED",
+    "action": "REMOVE",
+    "message": "Modern Java versions fix the issue this mod solves.",
+    "isCleanroom": true
+  },
+  {
+    "modId": "sharetome",
+    "status": "DEPRECATED",
+    "replacementModName": "Thaumic Wonders Unofficial",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/thaumic-wonders-unofficial",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Thaumic Wonders Unofficial](https://www.curseforge.com/minecraft/mc-mods/thaumic-wonders-unofficial)."
+  },
+  {
+    "modId": "silentboss",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "simplerpc",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Causes significant multiplayer lag for some users."
+  },
+  {
+    "modId": "simplyjetpacks",
+    "status": "PROBLEMATIC",
+    "version": "1.12.2-2.2.20.0",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "Simply Jetpacks 2",
+    "replacementModVersion": "1.12.2-2.2.20.0",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks-2/download/3294422",
+    "action": "UPGRADE",
+    "message": "Outdated and may cause crashes."
+  },
+  {
+    "modId": "sledgehammer",
+    "status": "PROBLEMATIC",
+    "version": "1.12.2-2.0.26",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "Sledgehammer",
+    "replacementModVersion": "1.12.2-2.0.26",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/sledgehammer/download/5264329",
+    "action": "UPGRADE",
+    "message": "Outdated and may cause crashes."
+  },
+  {
+    "modId": "sleepsooner",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "smartparticles",
+    "status": "PROBLEMATIC",
+    "replacementModName": "Particle Culling",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/particle-culling",
+    "action": "REPLACE",
+    "message": "Not recommended. Use #link:[Particle Culling](https://www.curseforge.com/minecraft/mc-mods/particle-culling) for a similar feature."
+  },
+  {
+    "modId": "smartspawn",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Causes significant lag when entering a world or respawning."
+  },
+  {
+    "modId": "smooth-scrolling-everywhere",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "smoothfont",
+    "status": "PROBLEMATIC",
+    "action": "INFO",
+    "message": "May break text rendering in some mods."
+  },
+  {
+    "modId": "solarflux",
+    "status": "PROBLEMATIC",
+    "version": "12.4.11",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "Solar Flux Reborn",
+    "replacementModVersion": "12.4.11",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn/download/3050838",
+    "action": "UPGRADE",
+    "message": "Outdated and may cause crashes."
+  },
+  {
+    "modId": "soulshardsrespawn",
+    "version": "1.12.2-1.1.1-13",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Soul Shards Respawn Patched",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/soul-shards-respawn-patched",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Soul Shards Respawn Patched](https://www.curseforge.com/minecraft/mc-mods/soul-shards-respawn-patched)."
+  },
+  {
+    "modId": "soundcap",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "soundfilters",
+    "status": "DEPRECATED",
+    "replacementModName": "Sound Physics Remixin",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remixin",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[籁/Sound Physics Remixin](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remixin). For Forge, use #link:[version 1.1.15 or below](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remixin/files/6723296).",
+    "isCleanroom": true
+  },
+  {
+    "modId": "soundlimitextends",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "sourcebottles",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "spark",
+    "status": "DEPRECATED",
+    "replacementModName": "Flare",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/flare",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Flare](https://www.curseforge.com/minecraft/mc-mods/flare) as a modern alternative."
+  },
+  {
+    "modId": "spartanbewitchment",
+    "status": "DEPRECATED",
+    "replacementModName": "Spartan Weaponry Arcana: Expanded",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry-arcana-expanded",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Spartan Weaponry Arcana: Expanded](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry-arcana-expanded)."
+  },
+  {
+    "modId": "steamworldpatcher",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "stepup",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "stepupfix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "stg",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "stupidthings",
+    "status": "PROBLEMATIC",
+    "action": "INFO",
+    "message": "If you plan on adding The Aurorian mod, make sure to disable `Acid` and `Rubber` in its config."
+  },
+  {
+    "modId": "superhot",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "tanaddons",
+    "status": "PROBLEMATIC",
+    "replacementModName": "Survival Tools",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/survival-tools",
+    "action": "REPLACE",
+    "message": "CRITICAL: Uses a library that has a known RCE exploit. Remove immediately and use #link:[Survival Tools](https://www.curseforge.com/minecraft/mc-mods/survival-tools)."
+  },
+  {
+    "modId": "tc6aspects4jei",
+    "status": "DEPRECATED",
+    "replacementModName": "Thaumic Information",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/thaumic-information",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Thaumic Information](https://www.curseforge.com/minecraft/mc-mods/thaumic-information)."
+  },
+  {
+    "modId": "tconstruct",
+    "version": "1.12.2-2.13.0.183",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Tinkers' Antique",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/tinkers-antique",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Tinkers' Antique](https://www.curseforge.com/minecraft/mc-mods/tinkers-antique) which merges modern features and backports."
+  },
+  {
+    "modId": "tconstruct",
+    "action": "INCLUDE",
+    "patchList": [
+      {
+        "modName": "Antique Armory",
+        "modId": "conarm",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/antique-armory",
+        "modDescription": "Unofficial continued maintenance of Construct's Armory for 1.12.2. Enter the world of armor."
+      },
+      {
+        "modName": "Tinker's Planner Antique",
+        "modId": "tinkersplannerantique",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/tinkers-planner-antique",
+        "modDescription": "A Minecraft 1.12.2 port of Tinker's Planner for planning Tinkers' Construct tools and armor before crafting."
+      }
+    ]
+  },
+  {
+    "modId": "tcinventoryscan",
+    "status": "DEPRECATED",
+    "replacementModName": "ThaumicTweaker",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/thaumictweaker",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[ThaumicTweaker](https://www.curseforge.com/minecraft/mc-mods/thaumictweaker)."
+  },
+  {
+    "modId": "techguns",
+    "version": "2.0.2.0",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Techguns-CE",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/techguns-ce",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Techguns-CE](https://www.curseforge.com/minecraft/mc-mods/techguns-ce)."
+  },
+  {
+    "modId": "tg",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Abandoned, buggy, and notably unfinished, use other Thaumcraft addons instead."
+  },
+  {
+    "modId": "thaumcraft",
+    "action": "INCLUDE",
+    "patchList": [
+      {
+        "modName": "Congrega Mystica",
+        "modId": "congregamystica",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/congrega-mystica",
+        "modDescription": "Large scale Thaumcraft 6 integration addon. Highly configurable."
+      },
+      {
+        "modName": "Magiculture Integrations",
+        "modId": "magicultureintegrations",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/magiculture-integrations",
+        "modDescription": "Improved Thaumcraft cross-mod interoperability and fixes several issues with the Golem harvest seal."
+      },
+      {
+        "modName": "Thaumcraft Fix",
+        "modId": "thaumcraftfix",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/thaumcraftfix",
+        "modDescription": "Many a fix for Thaumcraft 6."
+      },
+      {
+        "modName": "ThaumicAPI",
+        "modId": "thaumicapi",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/thaumicapi",
+        "modDescription": "A library mod used to standardize and expand a large number of previously hardcoded features in Thaumcraft 6."
+      },
+      {
+        "modName": "Thaumic Augmentation",
+        "modId": "thaumicaugmentation",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/thaumic-augmentation",
+        "modDescription": "Augmenting Thaumcraft 6 with a variety of fresh and familiar content."
+      },
+      {
+        "modName": "Thaumic Information",
+        "modId": "thaumicinfo",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/thaumic-information",
+        "modDescription": "Thaumic JEI + ThaumicWaila + VisualOres integration + Performance"
+      },
+      {
+        "modName": "Thaumic Speedup",
+        "modId": "thaumicspeedup",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/thaumic-speedup",
+        "modDescription": "Speeds up Thaumcraft's loading process and optimizes internals."
+      },
+      {
+        "modName": "ThaumicTweaker",
+        "modId": "thaumictweaker",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/thaumictweaker",
+        "modDescription": "Numerous tweaks, fixes, enahancments and overhauls for Thaumcraft 6."
+      }
+    ]
+  },
+  {
+    "modId": "thaumcraftnoresearch",
+    "status": "DEPRECATED",
+    "replacementModName": "ThaumicTweaker",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/thaumictweaker",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[ThaumicTweaker](https://www.curseforge.com/minecraft/mc-mods/thaumictweaker)."
+  },
+  {
+    "modId": "thaumic_arcana",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Notably unfinished, and contains lots of bugs and missing recipes."
+  },
+  {
+    "modId": "thaumicconcilium",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Not recommended, a good portion of content is buggy or unbalanced, may also have issues on servers."
+  },
+  {
+    "modId": "thaumicfixes",
+    "status": "PROBLEMATIC",
+    "replacementModName": "Thaumcraft Fix",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/thaumcraftfix",
+    "action": "REPLACE",
+    "message": "Overwrites Thaumcraft methods and breaks compatibility. Use #link:[Thaumcraft Fix](https://www.curseforge.com/minecraft/mc-mods/thaumcraftfix)."
+  },
+  {
+    "modId": "thaumicforever",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Not recommended, some content is unfinished, it contains overlapping content with other addons, and it breaks some functionality with ThaumicTweaker and Thaumic Wonders Unofficial."
+  },
+  {
+    "modId": "thaumicjei",
+    "status": "DEPRECATED",
+    "replacementModName": "Thaumic Information",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/thaumic-information",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Thaumic Information](https://www.curseforge.com/minecraft/mc-mods/thaumic-information)."
+  },
+  {
+    "modId": "thaumicmeme",
+    "status": "DEPRECATED",
+    "replacementModName": "ThaumicTweaker",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/thaumictweaker",
+    "action": "REPLACE",
+    "message": "Use #link:[ThaumicTweaker](https://www.curseforge.com/minecraft/mc-mods/thaumictweaker) for a better implementation of research subtitles."
+  },
+  {
+    "modId": "thaumic_mercy",
+    "status": "DEPRECATED",
+    "replacementModName": "ThaumicTweaker",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/thaumictweaker",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[ThaumicTweaker](https://www.curseforge.com/minecraft/mc-mods/thaumictweaker)."
+  },
+  {
+    "modId": "thaumiconeprobe",
+    "status": "DEPRECATED",
+    "replacementModName": "Thaumic Information",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/thaumic-information",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Thaumic Information](https://www.curseforge.com/minecraft/mc-mods/thaumic-information)."
+  },
+  {
+    "modId": "thaumicspeedup",
+    "status": "PROBLEMATIC",
+    "version": "5.0",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "Thaumic Speedup",
+    "replacementModVersion": "5.0",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/thaumic-speedup/files/8251681",
+    "action": "UPGRADE",
+    "message": "Screws up aspects and has issues with NBT. The Persistency requirement is also dropped in 5.0."
+  },
+  {
+    "modId": "thaumictinkerer_funnel",
+    "status": "DEPRECATED",
+    "replacementModName": "Thaumic Tinkerer: Reborn",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/thaumic-tinkerer-reborn",
+    "action": "REPLACE",
+    "message": "No longer necessary because #link:[Thaumic Tinkerer: Reborn](https://www.curseforge.com/minecraft/mc-mods/thaumic-tinkerer-reborn) adds a completely rewritten Essentia Funnel."
+  },
+  {
+    "modId": "thaumictweaks",
+    "status": "DEPRECATED",
+    "replacementModName": "ThaumicTweaker",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/thaumictweaker",
+    "action": "REPLACE",
+    "message": "A good portion of features overlap with both #link:[Thaumcraft Fix](https://www.curseforge.com/minecraft/mc-mods/thaumcraftfix) and #link:[ThaumicTweaker](https://www.curseforge.com/minecraft/mc-mods/thaumictweaker)."
+  },
+  {
+    "modId": "thaumicwaila",
+    "status": "DEPRECATED",
+    "replacementModName": "Thaumic Information",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/thaumic-information",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Thaumic Information](https://www.curseforge.com/minecraft/mc-mods/thaumic-information)."
+  },
+  {
+    "modId": "thaumicwands",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Poor implementation, can crash with Thaumcraft Fix and will break the Thaumonomicon render."
+  },
+  {
+    "modId": "thaumicwonders",
+    "version": "2.0.0",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Thaumic Wonders Unofficial",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/thaumic-wonders-unofficial",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Thaumic Wonders Unofficial](https://www.curseforge.com/minecraft/mc-mods/thaumic-wonders-unofficial)."
+  },
+  {
+    "modId": "thaumtweaks",
+    "status": "PROBLEMATIC",
+    "replacementModName": "ThaumicTweaker",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/thaumictweaker",
+    "action": "REPLACE",
+    "message": "Overwrites Thaumcraft methods and breaks compatibility. Use #link:[ThaumicTweaker](https://www.curseforge.com/minecraft/mc-mods/thaumictweaker) instead."
+  },
+  {
+    "modId": "theimpossiblelibrary",
+    "status": "PROBLEMATIC",
+    "action": "INFO",
+    "message": "May heavily impact the load time and potentially cause conflicts due to being made to work on multiple versions and mod loaders."
+  },
+  {
+    "modId": "tidychunk",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "tinkersarsenal",
+    "version": "0.7.0",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Tinkers' Arsenal reloaded",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/tinkers-arsenal-reloaded",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Tinkers' Arsenal reloaded](https://www.curseforge.com/minecraft/mc-mods/tinkers-arsenal-reloaded)."
+  },
+  {
+    "modId": "tinkerscompendium",
+    "status": "PROBLEMATIC",
+    "replacementModName": "Tinkers Tactical Toughness",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/tinkers-tactical-toughness",
+    "action": "REPLACE",
+    "message": "Abandoned and not recommended, it is prone to crashing and has memory leaks. Use #link:[Tinkers Tactical Toughness](https://www.curseforge.com/minecraft/mc-mods/tinkers-tactical-toughness) for a far better alternative."
+  },
+  {
+    "modId": "tinkersjei",
+    "status": "DEPRECATED",
+    "replacementModName": "Tinkers' Antique",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/tinkers-antique",
+    "action": "REPLACE",
+    "message": "Duplicate features. Use #link:[Tinkers' Antique](https://www.curseforge.com/minecraft/mc-mods/tinkers-antique)."
+  },
+  {
+    "modId": "tinkersoredictcache",
+    "version": "",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Tinkers' Antique",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/tinkers-antique",
+    "action": "REPLACE",
+    "message": "Already included in #link:[Tinkers' Antique](https://www.curseforge.com/minecraft/mc-mods/tinkers-antique)."
+  },
+  {
+    "modId": "tips",
+    "status": "DEPRECATED",
+    "replacementModName": "AnotherTips",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/anothertips",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[AnotherTips](https://www.curseforge.com/minecraft/mc-mods/anothertips)."
+  },
+  {
+    "modId": "thiccentities",
+    "status": "DEPRECATED",
+    "replacementModName": "Entifier",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/entifier",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Entifier](entifier)."
+  },
+  {
+    "modId": "thirstybottles",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "toastcontrol",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "tombstone",
+    "status": "PROBLEMATIC",
+    "version": "4.7.5",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "Corail Tombstone",
+    "replacementModVersion": "4.7.5",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone/download/6261464",
+    "action": "UPGRADE",
+    "message": "Outdated and may cause crashes."
+  },
+  {
+    "modId": "tramplestopper",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "trm",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Extremely unfinished with an empty GitHub repository. Several blocks will cause a crash when placed."
+  },
+  {
+    "modId": "tropicraft",
+    "version": "7.1.9.123",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "status": "PROBLEMATIC",
+    "replacementModName": "Tropicraft Legacy",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/tropicraft-legacy",
+    "action": "REPLACE",
+    "message": "Has numerous issues and memory leaks. Use #link:[Tropicraft Legacy](https://www.curseforge.com/minecraft/mc-mods/tropicraft-legacy)."
+  },
+  {
+    "modId": "tt20",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Causes issues with how blocks are broken."
+  },
+  {
+    "modId": "twilightforest",
+    "version": "3.11.1021",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "status": "DEPRECATED",
+    "replacementModName": "Twilight Forest: Deforestation Edition",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest-deforestation-edition",
+    "action": "REPLACE",
+    "message": "Outdated. Use #link:[Twilight Forest: Deforestation Edition](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest-deforestation-edition)."
+  },
+  {
+    "modId": "underwaterenchanting",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "universaltweaks",
+    "status": "PROBLEMATIC",
+    "version": "1.18.0",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "Universal Tweaks",
+    "replacementModVersion": "1.18.0",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks/download/7403701",
+    "action": "UPGRADE",
+    "message": "Outdated and may cause crashes."
+  },
+  {
+    "modId": "unloader",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "unridekeybind",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "vanillafix",
+    "status": "DEPRECATED",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[CensoredASM](https://www.curseforge.com/minecraft/mc-mods/lolasm) and #link:[VintageFix](https://www.curseforge.com/minecraft/mc-mods/vintagefix)."
+  },
+  {
+    "modId": "villagermantlefix",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Merged and improved in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "vintagium",
+    "status": "PROBLEMATIC",
+    "action": "REMOVE",
+    "message": "Broken and abandoned backport, other forks should not be used. Use #link:[Nothirium](https://www.curseforge.com/minecraft/mc-mods/nothirium) and #link:[Naughthirium](https://www.curseforge.com/minecraft/mc-mods/naughthirium), or #link:[Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build/releases)."
+  },
+  {
+    "modId": "vintagefix",
+    "status": "PROBLEMATIC",
+    "version": "0.6.2",
+    "isMinVersion": true,
+    "isMaxVersion": false,
+    "isVersionExclusive": true,
+    "replacementModName": "Vintagefix",
+    "replacementModVersion": "0.6.2",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/vintagefix/download/6609247",
+    "action": "UPGRADE",
+    "message": "Outdated and may cause crashes."
+  },
+  {
+    "modId": "voidfog",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "voxelmap",
+    "action": "INCLUDE",
+    "patchList": [
+      {
+        "modName": "VoxelMap Fixes",
+        "modId": "vmfixes",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/voxelmap-fixes",
+        "modDescription": "Fixes various bugs in VoxelMap."
+      }
+    ]
+  },
+  {
+    "modId": "warptheory",
+    "status": "PROBLEMATIC",
+    "replacementModName": "Warp-O-Mania",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/warp-o-mania",
+    "action": "REPLACE",
+    "message": "Abandoned and implements the new warp events by running them separately at the same time as Thaumcraft's warp events. For a more configurable lightweight alternative that instead adds new warp events to the existing pool, use #link:[Warp-O-Mania](https://www.curseforge.com/minecraft/mc-mods/warp-o-mania)."
+  },
+  {
+    "modId": "watercontrolextreme",
+    "status": "DEPRECATED",
+    "replacementModName": "Universal Tweaks",
+    "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
+    "action": "REPLACE",
+    "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks).  If you also want to make other fluids finite, you can stick with Water Control Extreme."
+  },
+  {
+    "modId": "weaponmod",
+    "action": "INCLUDE",
+    "patchList": [
+      {
+        "modName": "Balkon's Expansion",
+        "modId": "balkonsexpansion",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/balkons-expansion",
+        "modDescription": "An expansion for Balkon's WeaponMod: Legacy in 1.12.2 that supports materials from other mods."
+      }
+    ]
+  },
+  {
+    "modId": "witchery",
+    "action": "INCLUDE",
+    "patchList": [
+      {
+        "modName": "Witchery: Companion",
+        "modId": "witcherycompanion",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/witchery-companion",
+        "modDescription": "A Companion mod for Witchery: Resurrected, patching bugs, adding integrations and introducing modpack maker-oriented features."
+      }
+    ]
+  },
+  {
+    "modId": "wizardry",
+    "version": "0.11.1",
+    "isMinVersion": false,
+    "isMaxVersion": true,
+    "isVersionExclusive": true,
+    "status": "PROBLEMATIC",
+    "replacementModVersion": "0.11.1",
+    "action": "DOWNGRADE",
+    "message": "Latest versions cause incompatibilities. Use #link:[Wizardry 0.11.1](https://www.curseforge.com/minecraft/mc-mods/wizardry-mod/files/3045584)."
+  }
+]

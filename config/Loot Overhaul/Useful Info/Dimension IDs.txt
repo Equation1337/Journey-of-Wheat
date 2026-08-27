@@ -63,15 +63,6 @@ emptiness
 	- Terrain Scale: 16.0
 
 
-pocket
-	- Id: 312
-	- Height: 256
-	- Has Sky? false
-	- Cloud Height: -10.0
-	- Can Respawn Here? false
-	- Terrain Scale: 1.0
-
-
 Deep Dark
 	- Id: -11325
 	- Height: 128
@@ -117,11 +108,11 @@ Spectre
 	- Terrain Scale: 1.0
 
 
-planet
-	- Id: -2
+pocket
+	- Id: 312
 	- Height: 256
-	- Has Sky? true
-	- Cloud Height: -2000.0
+	- Has Sky? false
+	- Cloud Height: -10.0
 	- Can Respawn Here? false
 	- Terrain Scale: 1.0
 
@@ -131,6 +122,15 @@ Storage Cell
 	- Height: 256
 	- Has Sky? true
 	- Cloud Height: 32.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+planet
+	- Id: -2
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: -2000.0
 	- Can Respawn Here? false
 	- Terrain Scale: 1.0
 

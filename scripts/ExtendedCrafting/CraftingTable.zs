@@ -301,7 +301,7 @@ TableCrafting.addShaped(4, <modularmachinery:jiexi_controller>, [
 ]);
 
 TableCrafting.addShaped(4, <appliedenergistics2:creative_storage_cell>, [
-	[<appliedenergistics2:creative_energy_cell>, <botania:pool:1>, <botaniverse:morespreader:4>, <buildcraftcore:engine:3>, <bloodmagic:sacrificial_dagger:1>, <bloodmagic:activation_crystal:2>, <refraction:creative_laser>, <storagedrawers:upgrade_creative>, <roots:creative_pouch>], 
+	[<appliedenergistics2:creative_energy_cell>, <botania:pool:1>, <botaniverse:morespreader:4>, <buildcraftcore:engine:3>, <bloodmagic:sacrificial_dagger:1>, <bloodmagic:activation_crystal:2>, <refraction:creative_laser>, <functionalstoragelegacy:creative_vending_upgrade>, <roots:creative_pouch>], 
 	[<enderio:block_creative_spawner>, <novaeng_core:ecalculator_cell_16384m>, <novaeng_core:estorage_cell_fluid_256m>, <novaeng_core:estorage_cell_fluid_256m>, <novaeng_core:estorage_cell_fluid_256m>, <novaeng_core:estorage_cell_fluid_256m>, <novaeng_core:estorage_cell_fluid_256m>, <novaeng_core:ecalculator_cell_16384m>, <lightningcraft:lightning_cell:3>], 
 	[<embers:creative_ember_source>, <novaeng_core:estorage_cell_item_256m>, <novaeng_core:ecalculator_cell_16384m>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <novaeng_core:ecalculator_cell_16384m>, <novaeng_core:estorage_cell_item_256m>, <projectred-fabrication:ic_chip:1>], 
 	[<draconicevolution:draconium_capacitor:2>, <novaeng_core:estorage_cell_item_256m>, <ore:blockInfinity>, <novaeng_core:ecalculator_cell_16384m>, <ore:blockInfinity>, <novaeng_core:ecalculator_cell_16384m>, <ore:blockInfinity>, <novaeng_core:estorage_cell_item_256m>, <qmd:creative_particle_source>], 

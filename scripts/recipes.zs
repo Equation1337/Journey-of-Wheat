@@ -26,7 +26,6 @@ recipes.remove(<nuclearcraft:part:2>);
 recipes.remove(<nuclearcraft:part:1>);
 recipes.remove(<nuclearcraft:part> * 2);
 recipes.remove(<calculator:flawlessassembly>);
-recipes.remove(<extrautils2:itembuilderswand>);
 recipes.remove(<calculator:processingchamber>);
 recipes.remove(<calculator:precisionchamber>);
 recipes.remove(<calculator:analysingchamber>);
@@ -264,10 +263,7 @@ recipes.remove(<calculator:atomiccalculator>);
 recipes.remove(<pneumaticcraft:amadron_tablet>);
 //Don't touch me!
 //#Add
-<<<<<<< HEAD
 recipes.addShaped(<additions:eq_tools-wood_scissors>, [[null, <minecraft:stick>, null],[null, <minecraft:planks>, <minecraft:stick>], [null, null, null]]);
-=======
->>>>>>> 042a86390dd37a4a8c894b3072f5868e5338838e
 recipes.addShapeless(<contenttweaker:wheat>, [<appliedenergistics2:creative_storage_cell>,<contenttweaker:forest_bat>,<avaritia:block_resource:1>,<avaritia:block_resource:1>,<avaritia:block_resource:1>,<avaritia:block_resource:1>,<avaritia:block_resource:1>,<avaritia:block_resource:1>,<avaritia:block_resource:1>]);
 recipes.addShapeless(<equation:ore_chid>, [<botania:specialflower>.withTag({type: "orechid"})]);
 recipes.addShapeless(<botania:grassseeds>, [<botania:cellblock>]);

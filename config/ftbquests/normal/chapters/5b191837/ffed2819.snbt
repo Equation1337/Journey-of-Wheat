@@ -5,10 +5,10 @@
 		"46217b23"
 	],
 	tasks: [{
-		uid: "c9674921",
+		uid: "2038b596",
 		type: "item",
 		items: [{
-			item: "ae2fc:fluid_level_maintainer"
+			item: "threng:machine 1 4"
 		}]
 	}],
 	rewards: [{

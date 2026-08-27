@@ -96,18 +96,16 @@ JEI.removeAndHide(<modularmachinery:juneng_controller>);
 JEI.removeAndHide(<modularmachinery:juneng_factory_controller>);
 events.onBlockPlace(function(event as BlockPlaceEvent){
     val world = event.world;
-    val player = event.player;
+    if (world.remote) return;
     val Block = event.block;
+    if (Block.definition.id != "modularmachinery:juneng_controller") return;
+    val player = event.player;
+    val item = player.currentItem.tag;
+    if (isNull(item) || isNull(item.hp)) return;
     val block = event.blockState;
     val pos = event.position;
-    val item = player.currentItem.tag;
     val data as IData = {items : {outSlots : item.hp}};
-    if (!world.remote && Block.definition.id == "modularmachinery:juneng_controller" ){
-        world.setBlockState(block, data, pos);
-    }
-    else {
-        return;
-    }
+    world.setBlockState(block, data, pos);
 });
 events.onBlockBreak(function(event as BlockBreakEvent){
     val Pos = event.position;

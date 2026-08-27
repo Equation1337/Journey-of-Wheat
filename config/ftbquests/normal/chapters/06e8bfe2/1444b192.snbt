@@ -3,18 +3,20 @@
 	x: 0.0d,
 	y: 2.0d,
 	tasks: [{
-		uid: "dd4acce5",
+		uid: "f6c1432d",
 		type: "item",
 		items: [{
-			tag: {
-				material: "oak"
-			},
-			id: "storagedrawers:basicdrawers"
+			item: "functionalstoragelegacy:oak_1"
 		}]
 	}],
 	rewards: [{
-		uid: "8a8ef2f5",
+		uid: "47de5539",
 		type: "item",
-		item: "storagedrawers:drawer_key"
+		item: "functionalstoragelegacy:configuration_tool"
+	},
+	{
+		uid: "b1410d6d",
+		type: "item",
+		item: "functionalstoragelegacy:linking_tool"
 	}]
 }

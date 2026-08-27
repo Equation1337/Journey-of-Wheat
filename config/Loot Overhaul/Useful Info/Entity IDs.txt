@@ -230,7 +230,6 @@ randomthings:weathercloud - 227
 randomthings:timeaccelerator - 228
 randomthings:spectreilluminator - 229
 randomthings:eclipsedclock - 230
-jianghun:item_loot - 231
 rpsideas:gauss - 232
 rpsideas:psi_firework - 233
 rpsideas:entity_conjured_text - 234
@@ -558,3 +557,4 @@ qmd:lepton_beam - 555
 qmd:gluon_beam - 556
 qmd:antimater_projectile - 557
 additions:projectile - 558
+modularui:modular_screen - 559

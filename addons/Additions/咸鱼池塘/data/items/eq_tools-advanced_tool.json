@@ -25,7 +25,7 @@
   "harvest_level": 32,
   "harvest_radius_width": 0,
   "harvest_depth": 0,
-  "efficiency": 40.0,
+  "efficiency": 20.0,
   "enchantability": 888,
   "repair_stacks": {
     "ore_name": "stickWood"
