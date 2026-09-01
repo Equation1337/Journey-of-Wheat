@@ -1,3 +1,4 @@
+//source of inspiration Isolated Crystal 3
 #reloadable
 #debug
 import crafttweaker.item.IItemStack;
