@@ -1,3 +1,4 @@
+//source of inspiration Isolated Crystal 3
 #priority 50
 #loader crafttweaker reloadable
 
