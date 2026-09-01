@@ -1,3 +1,4 @@
+//craft by DoremySwee
 #priority 50
 #loader crafttweaker reloadable
 
