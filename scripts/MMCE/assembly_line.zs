@@ -1,3 +1,4 @@
+//source of inspiration NovaEngineering:World
 #priority 50
 #loader crafttweaker reloadable
 
