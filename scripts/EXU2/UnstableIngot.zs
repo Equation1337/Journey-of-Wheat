@@ -1,3 +1,4 @@
+//craft by DoremySwee
 #reloadable
 #priority 114514
 import crafttweaker.item.IItemStack;
